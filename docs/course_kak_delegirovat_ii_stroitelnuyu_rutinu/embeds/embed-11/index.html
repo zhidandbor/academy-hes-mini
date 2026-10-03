@@ -1,0 +1,156 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Интерактив 1. Соберите промпт из кирпичей</title>
+<style>
+  :root{--bg:#ffffff;--card:#faf8f5;--card2:#f3efe9;--ink:#1a1814;--muted:#6f7280;--line:#e9e4dc;--blue:#237cf9;--green:#1f9d57;--brand:#e2231a;--font:'Proxima Nova','Helvetica Neue','Segoe UI',Arial,system-ui,sans-serif}
+  *,*:before,*:after{box-sizing:border-box}
+  html,body{overflow-x:hidden;margin:0}
+  body{background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.6;-webkit-font-smoothing:antialiased}
+  p{margin:0 0 12px}.muted{color:var(--muted)}
+  h2{font-size:21px;margin:2px 0 12px;font-weight:800;letter-spacing:-.01em}
+  .stp{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:800;margin:0 0 6px}
+  .note{font-size:13.5px;color:#7a5b16;background:#fdf6e3;border:1px solid #f3e3b3;border-radius:12px;padding:12px 14px;margin-top:14px}
+  .note.green{color:#157a41;background:#eef8f1;border-color:#cdebd8}.note.red{color:#a3201a;background:#fdf0ef;border-color:#f3c7c3}
+  /* ── Интерактив: собери промпт из кирпичей ── */
+  .brickpool{display:flex;flex-wrap:wrap;gap:9px;margin-top:12px}
+  .brick{cursor:pointer;text-align:left;background:#fff;border:1.5px solid var(--line);border-radius:10px;padding:10px 13px;font-size:13px;font-family:inherit;color:var(--ink);transition:.15s;max-width:100%}
+  .brick:hover{border-color:var(--blue)}
+  .brick.used{opacity:.35;cursor:default;text-decoration:line-through}
+  .brick .btag{display:block;font-size:10.5px;font-weight:800;color:var(--blue);text-transform:uppercase;letter-spacing:.03em;margin-bottom:3px}
+  .brickslots{display:flex;flex-direction:column;gap:8px;margin-top:14px;min-height:60px}
+  .bslot{border:1.5px dashed var(--line);border-radius:10px;padding:10px 13px;font-size:13px;color:var(--muted);min-height:20px;display:flex;align-items:center;gap:8px}
+  .bslot.filled{border-style:solid;border-color:var(--green);background:#eef8f1;color:var(--ink);cursor:pointer}
+  .bslot.filled:hover{border-color:var(--brand)}
+  .bslot .rmx{margin-left:auto;font-size:11px;color:var(--brand);font-weight:800}
+  .brickfb{margin-top:12px}
+  .prevbtn{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--card);border-radius:9px;padding:8px 12px;font-size:12.5px;font-weight:700;cursor:pointer;color:var(--ink)}
+  .prevbtn:hover{border-color:var(--ink)}
+</style>
+</head>
+<body>
+<div style="max-width:900px;margin:0 auto;padding:16px">
+
+  <p class="stp">5 · Интерактив</p>
+  <h2>Соберите промпт из кирпичей</h2>
+  <p class="muted">Ниже — шесть фрагментов вперемешку. Один из них лишний — «вода» без функции кирпича. Кликните по фрагментам в правильном порядке, чтобы собрать промпт про монолит каркаса (поз. 4 из графика). Лишний фрагмент оставьте неиспользованным.</p>
+
+  <div class="brickpool" id="brickPool"><!-- заполняется JS --></div>
+
+  <div class="brickslots" id="brickSlots">
+    <div class="bslot" data-want="role">1 · Роль — кликните подходящий фрагмент выше</div>
+    <div class="bslot" data-want="context">2 · Контекст</div>
+    <div class="bslot" data-want="task">3 · Задача</div>
+    <div class="bslot" data-want="format">4 · Формат</div>
+    <div class="bslot" data-want="limits">5 · Ограничения</div>
+  </div>
+
+  <div class="brow" style="display:flex;gap:10px;flex-wrap:wrap;margin-top:12px">
+    <button class="prevbtn" id="brickReset">↺ Начать заново</button>
+    <span class="muted" id="brickMsg" style="font-size:12px;align-self:center"></span>
+  </div>
+  <div class="brickfb" id="brickFb"></div>
+
+</div>
+<script>
+(function(){
+  var pool=document.getElementById('brickPool');if(!pool)return;
+  var slotsWrap=document.getElementById('brickSlots'),resetBtn=document.getElementById('brickReset'),
+      msg=document.getElementById('brickMsg'),fb=document.getElementById('brickFb');
+
+  var BRICKS=[
+    {id:'role',   tag:'роль',        text:'Ты — инженер ПТО генподрядчика на ЖК «Уютный дом на Матвеева».'},
+    {id:'context',tag:'контекст',    text:'Контекст: график производства работ секции 2, дата среза 28.06.2026 (данные ниже).'},
+    {id:'task',   tag:'задача',      text:'Задача: оцени, укладывается ли монолит каркаса эт. 4–9 (поз. 4) в плановый срок 30.08.2026.'},
+    {id:'format', tag:'формат',      text:'Формат: таблица «показатель → значение» + вывод 1–2 предложения.'},
+    {id:'limits', tag:'ограничения', text:'Ограничения: используй только данные из приложенного графика; не выдумывай темп выработки, которого нет в таблице; если данных не хватает — укажи, чего именно.'},
+    {id:'water',  tag:'лишний',      text:'Пожалуйста, отнесись к задаче максимально ответственно и постарайся сделать всё возможное, чтобы результат порадовал.'}
+  ];
+  var SLOT_ORDER=['role','context','task','format','limits'];
+
+  // перемешать фрагменты для показа (фиксированный «случайный» порядок, без Math.random-сюрпризов при resize)
+  var SHUFFLED=[BRICKS[3],BRICKS[5],BRICKS[0],BRICKS[4],BRICKS[1],BRICKS[2]];
+
+  var state={}; // slotId -> brickId
+
+  function renderPool(){
+    pool.innerHTML='';
+    SHUFFLED.forEach(function(b){
+      var used=Object.values(state).indexOf(b.id)!==-1;
+      var btn=document.createElement('button');
+      btn.className='brick'+(used?' used':'');
+      btn.disabled=used;
+      btn.innerHTML='<span class="btag">фрагмент</span>'+b.text;
+      btn.addEventListener('click',function(){placeBrick(b.id);});
+      pool.appendChild(btn);
+    });
+  }
+
+  function firstEmptySlot(){
+    for(var i=0;i<SLOT_ORDER.length;i++){if(!state[SLOT_ORDER[i]])return SLOT_ORDER[i];}
+    return null;
+  }
+
+  function placeBrick(brickId){
+    var slot=firstEmptySlot();
+    if(!slot){msg.textContent='Все пять слотов заполнены — при необходимости начните заново.';return;}
+    state[slot]=brickId;
+    msg.textContent='';
+    renderAll();
+  }
+
+  function clearSlot(slotId){
+    delete state[slotId];
+    fb.innerHTML='';
+    renderAll();
+  }
+
+  function renderAll(){
+    renderPool();
+    var slotEls=slotsWrap.querySelectorAll('.bslot');
+    slotEls.forEach(function(el){
+      var want=el.getAttribute('data-want');
+      var filledId=state[want];
+      if(filledId){
+        var b=BRICKS.filter(function(x){return x.id===filledId;})[0];
+        el.className='bslot filled';
+        el.innerHTML=(SLOT_ORDER.indexOf(want)+1)+' · <b>'+labelFor(want)+'</b> — '+b.text+'<span class="rmx">✕ убрать</span>';
+        el.onclick=function(){clearSlot(want);};
+      } else {
+        el.className='bslot';
+        el.innerHTML=(SLOT_ORDER.indexOf(want)+1)+' · '+labelFor(want)+' — кликните подходящий фрагмент выше';
+        el.onclick=null;
+      }
+    });
+    checkComplete();
+  }
+
+  function labelFor(id){
+    return {role:'Роль',context:'Контекст',task:'Задача',format:'Формат',limits:'Ограничения'}[id];
+  }
+
+  function checkComplete(){
+    var filled=SLOT_ORDER.every(function(s){return !!state[s];});
+    if(!filled){fb.innerHTML='';return;}
+    var allCorrect=SLOT_ORDER.every(function(s){return state[s]===s;});
+    if(allCorrect){
+      fb.innerHTML='<div class="note green">✅ <b>Верно.</b> Промпт собран правильно, лишний фрагмент («максимально ответственно…») остался неиспользованным — это вода без функции кирпича: не роль, не данные, не критерий, ничего не меняет в ответе ИИ.</div>';
+    } else {
+      fb.innerHTML='<div class="note red">❌ <b>Не совсем.</b> Один или несколько фрагментов стоят не в своём слоте. Подсказка: у каждого кирпича своя роль — «роль» отвечает на вопрос «кто?», «ограничения» — на вопрос «чего не делать и по какому критерию?». Нажмите «✕ убрать» на слоте и попробуйте другой фрагмент.</div>';
+    }
+  }
+
+  resetBtn.addEventListener('click',function(){
+    state={};
+    msg.textContent='';
+    fb.innerHTML='';
+    renderAll();
+  });
+
+  renderAll();
+})();
+</script>
+</body>
+</html>

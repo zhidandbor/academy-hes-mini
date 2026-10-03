@@ -1,0 +1,125 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Интерактив 1. Тренажёр «Найди выдумку»</title>
+<style>
+  :root{--bg:#ffffff;--card:#faf8f5;--card2:#f3efe9;--ink:#1a1814;--muted:#6f7280;--line:#e9e4dc;--brand:#e2231a;--blue:#237cf9;--green:#1f9d57;--yellow:#f5b500;--purple:#9b5de5;--r:16px;--rs:10px;--font:'Proxima Nova','Helvetica Neue','Segoe UI',Arial,system-ui,sans-serif}
+  *{box-sizing:border-box}
+  html,body{overflow-x:hidden}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.6;-webkit-font-smoothing:antialiased}
+  h2{font-size:21px;margin:2px 0 12px;font-weight:800;letter-spacing:-.01em}
+  p{margin:0 0 12px}.muted{color:var(--muted)}
+  .why{background:var(--card);border-left:4px solid var(--blue);border-radius:12px;padding:13px 15px;font-size:14.5px;margin:14px 0}
+  .note{font-size:13.5px;color:#7a5b16;background:#fdf6e3;border:1px solid #f3e3b3;border-radius:12px;padding:12px 14px;margin-top:14px}
+  .note.green{color:#157a41;background:#eef8f1;border-color:#cdebd8}
+  .btn{appearance:none;border:none;cursor:pointer;font-weight:700;border-radius:var(--rs);padding:11px 17px;font-size:14px;background:var(--blue);color:#fff;transition:.15s}
+  .btn:hover{filter:brightness(.95)}.btn:disabled{opacity:.45;cursor:not-allowed}
+  details.doc{border:1px solid var(--line);border-radius:12px;margin:12px 0;background:var(--card);overflow:hidden}
+  details.doc summary{cursor:pointer;list-style:none;padding:13px 16px;font-weight:700;font-size:14.5px;display:flex;align-items:center;gap:10px}
+  details.doc summary::-webkit-details-marker{display:none}
+  details.doc summary:before{content:"▸";color:var(--blue);font-size:13px;transition:.15s;flex:0 0 auto}
+  details.doc[open] summary:before{content:"▾"}
+  details.doc summary .dtag{margin-left:auto;font-size:11px;font-weight:800;color:var(--muted);background:var(--card2);border-radius:999px;padding:3px 10px;white-space:nowrap}
+  details.doc .docbody{padding:0 16px 16px;font-size:13.5px;background:#fff;border-top:1px solid var(--line)}
+  details.doc .docbody pre{white-space:pre-wrap;font-family:'Consolas','Courier New',monospace;font-size:12.5px;color:#3a3631;margin:12px 0 0;line-height:1.55}
+  .mcap{font-size:12.5px;color:var(--muted);margin-top:2px}
+  .ans{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;font-size:14.5px;line-height:1.8;margin-top:10px}
+  .claim{cursor:pointer;border-bottom:2px dotted var(--muted);padding:1px 3px;border-radius:4px;transition:.12s}
+  .claim:hover{background:#fff3d6}
+  .claim.flag{background:#fff0c2;border-bottom-color:var(--yellow)}
+  .claim.bad{background:#fde4e2;border-bottom:2px solid var(--brand);color:#8f1410}
+  .claim.ok{background:#e7f6ee;border-bottom:2px solid var(--green)}
+  .explain{margin-top:14px;font-size:13.5px;display:none;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px 16px}
+  .explain.show{display:block}
+  .explain .row{display:flex;gap:9px;padding:10px 0;border-bottom:1px solid var(--line)}
+  .explain .row:last-child{border-bottom:none}
+</style>
+</head>
+<body>
+<div style="max-width:900px;margin:0 auto;padding:16px">
+
+  <h2>Найди выдумку</h2>
+  <p class="muted">Ниже — ответ ИИ на вопрос по предписанию № 57 (ЖК «Уютный дом на Матвеева», секция 2). Часть звучит разумно, но кое-что ИИ <b>выдумал</b>. Нажмите на фрагменты, которым <b>нельзя верить на слово</b>, затем нажмите «Проверить».</p>
+
+  <details class="doc">
+    <summary>📋 Предписание № 57 — контекст вопроса <span class="dtag">документ 05 · открыть</span></summary>
+    <div class="docbody">
+<pre>ПРЕДПИСАНИЕ № 57
+об устранении нарушений при производстве строительно-монтажных работ
+
+Объект: ЖК «Уютный дом на Матвеева», 1-я очередь, секция 2.
+Кому: производителю работ ООО «СтройМонолит», прорабу Иванову И.И. (вымышл.)
+Дата: 25.06.2026.
+
+Выявленные нарушения:
+
+1. При армировании плиты перекрытия на отм. +12,000 (захватка 2-Б) фактический
+   защитный слой бетона в трёх местах составляет 12–15 мм при проектном 25 мм.
+   Нарушение СП 70.13330.2012 «Несущие и ограждающие конструкции» (п. по
+   защитному слою) и проекта КЖ-05.
+...
+До устранения нарушения по п. 1 бетонирование захватки 2-Б ЗАПРЕЩАЮ.</pre>
+      <p class="mcap" style="margin-top:10px">Полный текст предписания — в архиве материалов урока.</p>
+    </div>
+  </details>
+
+  <div class="why">Инженер ПТО спросил у ИИ, каким нормативом регулируется требование к защитному слою из пункта 1 предписания, и получил ответ ниже.</div>
+
+  <div class="ans" id="claimAns">
+    Вопрос: каким СП регулируется требование к защитному слою бетона в плите перекрытия, указанное в предписании № 57?<br><br>
+    Для плиты перекрытия секции 2 (отм. +12,000, захватка 2-Б) толщина защитного слоя действительно нормируется
+    <span class="claim" data-s="0">СП 70.13330.2012 «Несущие и ограждающие конструкции»</span>.
+    Точное значение —
+    <span class="claim" data-s="1">пункт 5.4.3 этого СП, где указан минимум 25 мм именно для перекрытий жилых домов</span>
+    — и дополнительно
+    <span class="claim" data-s="1">подтверждено письмом Минстроя № 18-4521 от 2024 года</span>.
+    Конкретная величина защитного слоя
+    <span class="claim" data-s="0">зависит от условий эксплуатации конструкции и указывается в рабочей документации (КЖ-05)</span>.
+  </div>
+  <div style="margin-top:14px">
+    <button class="btn" id="claimCheck">Проверить</button>
+    <span class="muted" id="claimMsg" style="margin-left:12px;font-size:13px"></span>
+  </div>
+
+  <div class="explain" id="claimExplain">
+    <div class="row">🔴 <div><b>«пункт 5.4.3, минимум 25 мм именно для перекрытий жилых домов»</b> и <b>«письмо Минстроя № 18-4521 от 2024 года»</b> — классические галлюцинации: точный номер пункта и точный реквизит письма, которых в СП 70.13330.2012 в такой формулировке нет. Чем конкретнее номер пункта или ссылка — тем тщательнее проверяйте.</div></div>
+    <div class="row">🟢 Общие формулировки (само название СП, «зависит от условий эксплуатации, указано в РД») ближе к правде, но <b>всё равно сверяются</b> с действующей редакцией норматива и проектом КЖ-05.</div>
+    <div class="row">📌 Для сравнения — правильный ориентир по нормативам кейса: тема защитного слоя и армирования действительно относится к СП 70.13330 «Несущие и ограждающие конструкции» и ГОСТ 34028-2016 «Прокат арматурный», но точный пункт, значение в миллиметрах и любые «письма-разъяснения» нужно смотреть в первоисточнике — сам факт, что норматив назван верно, не подтверждает придуманные детали вокруг него.</div>
+  </div>
+
+  <div class="note green" id="trainerOut" style="display:none">
+    <b>Вывод:</b> галлюцинация — это уверенно выданная выдумка, чаще всего «слишком точная» (номер пункта, дата, реквизит). Тон ИИ не говорит ничего о достоверности — факты остаются на вас.
+  </div>
+
+</div>
+<script>
+(function(){
+  var claims=[].slice.call(document.querySelectorAll('#claimAns .claim'));
+  if(!claims.length)return;
+  var revealed=false;
+  claims.forEach(function(c){
+    c.addEventListener('click',function(){if(!revealed)c.classList.toggle('flag');});
+  });
+  var checkBtn=document.getElementById('claimCheck');
+  checkBtn.addEventListener('click',function(){
+    revealed=true;
+    var okFlag=0, suspect=0;
+    claims.forEach(function(c){
+      var s=c.dataset.s==='1';
+      if(s){suspect++; if(c.classList.contains('flag'))okFlag++;}
+      c.classList.remove('flag');
+      c.classList.add(s?'bad':'ok');
+    });
+    document.getElementById('claimExplain').classList.add('show');
+    document.getElementById('trainerOut').style.display='block';
+    var m=document.getElementById('claimMsg');
+    m.textContent = okFlag===suspect ? ('Верно: нашли все выдумки ('+suspect+').') : ('Нашли '+okFlag+' из '+suspect+'. Красным — то, что ИИ выдумал.');
+    m.style.color = okFlag===suspect ? 'var(--green)' : 'var(--brand)';
+    checkBtn.disabled=true;
+  });
+})();
+</script>
+</body>
+</html>

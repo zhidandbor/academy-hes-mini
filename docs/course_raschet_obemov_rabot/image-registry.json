@@ -1,0 +1,402 @@
+[
+  {
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+    "lessons": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-01.png",
+    "bytes": 712459,
+    "sha256": "92f379c0cdf90cea8a854cd39e99065b51aceb8e8081b5c46c8a28394776df53",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=6426352a-5216-430d-b659-928818e2a554",
+    "lessons": [
+      1
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-02.png",
+    "bytes": 112286,
+    "sha256": "2b8e2be4c0a6cb15e93f27bc6664a999fcae0d129a8b269649e46df55ac3377f",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=b4a1d70b-0c55-42c9-8456-7194bc644c91",
+    "lessons": [
+      1
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=a6b90bba-7fed-4a53-a313-079178ae8dcd",
+    "lessons": [
+      1
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-04.png",
+    "bytes": 116415,
+    "sha256": "9c678453977d0ca26eaec6affe0dc619f814af41f207e216750af9ecf3606f5c",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=9ca030d9-e51a-40fc-a417-dcb60d03fe2f",
+    "lessons": [
+      1
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-05.png",
+    "bytes": 82843,
+    "sha256": "805051798f09be16f488dbae99f37e5d0fc888d311c3d1a0b5a209ac176c5bd9",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=885edac1-8a32-4709-a34b-9125c9880982",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-06.png",
+    "bytes": 174910,
+    "sha256": "79a472cb924e0c4d98930c0072b210f91f8396cdd6fc7ae12d02e6085708bd94",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=c980d1d3-d6c6-4ef1-a5c7-0b06e1a5430e",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=7734ce32-0376-4620-811e-275433834bdb",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-08.png",
+    "bytes": 4256,
+    "sha256": "2a4532c97d403a6de235134216d611c4a166aa793ed2c7f5a53f3008cc0583ef",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=c3c262bc-1264-44af-892e-b0113d00e8a0",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-09.png",
+    "bytes": 2952,
+    "sha256": "defa6fce2684740731fbdd241d5fab989f8b13bd4bc0ac05ee47ecc2706dbea0",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=47a02363-8ba4-4404-ba7c-c7d8bc75d774",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=d56f1aac-ac05-469e-85c4-11bf75ea9faa",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-11.png",
+    "bytes": 3017,
+    "sha256": "a45d5981bbae5864417fdc13e9679ccbb24d35194b7e13b281f8db9d9fcd9f3f",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=db5d6df5-fe1d-4e23-aa4e-66c255500ca7",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=2f0f2dd1-19ba-4432-97d2-c1325618f885",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-13.png",
+    "bytes": 3017,
+    "sha256": "a45d5981bbae5864417fdc13e9679ccbb24d35194b7e13b281f8db9d9fcd9f3f",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=39487d71-3988-421b-9ff8-94cb70dcd276",
+    "lessons": [
+      2
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-14.png",
+    "bytes": 80605,
+    "sha256": "8c18432fe0a97e2267967e0f7da8ffbed359c911822ab2fea8824b2832335593",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=52b9351f-e90e-4725-9009-35988fc4bc7f",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-15.png",
+    "bytes": 86332,
+    "sha256": "3f559adef82552c7e6725e67253e811f0065d92e42314f952e8dc0301f9b9d08",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=bd82ca66-8eae-495d-b553-7b9beb18b67f",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-16.png",
+    "bytes": 35133,
+    "sha256": "dee9634d0a9f3ea3008ea45672151491141b341e799e34aace71c36b1c0a2953",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=395c3470-fa46-42ac-b65c-c5089e20f889",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=8ec20c2d-c47a-44ce-922e-e6155d7a0580",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-18.png",
+    "bytes": 28185,
+    "sha256": "cebfb04c3ce5f704b61295de7f99b4b2d4e3d8df51daaf805cb994f45399fd15",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=1e84cb27-375c-41ae-8d98-03c6f8856318",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=48997449-c8e6-4ffa-a3fd-c1e72584a921",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-20.png",
+    "bytes": 4115,
+    "sha256": "3141941e848453b25aada7983d5113f32023fbf9589938807afd3522325f5e2e",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=2b778809-9550-4ec4-8e94-ee9276d36455",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-21.png",
+    "bytes": 4115,
+    "sha256": "b71ac8e8c01ce11d9544b1b07b406ab84299a2d19992894f21977e7505c4efac",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=f78b4a58-ec50-48fc-9164-8b04a8c42c71",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-22.png",
+    "bytes": 4060,
+    "sha256": "a126ec4638190bcd10748849ef75953eafefe090a8b1da513102d5e6e10b2560",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=e7d19bbc-be84-4620-a1dc-998ecc305b2e",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=f98eb8ac-1411-4eda-9aa7-ecb1cb0484df",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-24.png",
+    "bytes": 9256,
+    "sha256": "c9153a12cd4d64a20127f60f5eb3c262324087e6da014cff6eab7b337817c229",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=9626822f-6943-44bd-9c4c-541d10f88ed8",
+    "lessons": [
+      3
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-25.png",
+    "bytes": 60131,
+    "sha256": "6d9020eaf187f4dc84d45c3951e52285160cc8d2d5f8eb6e1025ddfbcac7471d",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=e1e08998-e0c7-4c3c-a381-986005241f5e",
+    "lessons": [
+      4
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=fcaf74cc-177a-4e71-9bca-d5f415b1226e",
+    "lessons": [
+      4
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-27.png",
+    "bytes": 49257,
+    "sha256": "df06dafd5a669e160af1b7c4b50ea6946ce304df6db861b3e1b74bc0a86a51d8",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=81207f06-9838-47f8-ad32-6a1d28635c5f",
+    "lessons": [
+      4
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=1386cfc9-249f-44ba-9fcc-93f133f262ff",
+    "lessons": [
+      4
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-29.png",
+    "bytes": 874,
+    "sha256": "da431503a2e9e33a74f736ec6f547e3adcd154b926b9bc706d797e66e625d969",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=cc3e7c09-eb99-4e81-a7b2-3c262d48faf4",
+    "lessons": [
+      5
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=81a4dac1-3c08-451a-b13b-51af91219167",
+    "lessons": [
+      5
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-31.png",
+    "bytes": 24601,
+    "sha256": "074f2153b53a8e60082e899d0059945f1a72490c810ffcfeb286b4f4846b29ea",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=682c9784-be88-487d-a914-0c48ca34d1e0",
+    "lessons": [
+      5
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-32.png",
+    "bytes": 61163,
+    "sha256": "f40e8d4cc736d7050a06b859ecbdc8fdca9807be35f1bdf1d100cc85887c67eb",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=a5683cad-e368-4bc6-844d-51a700725c2f",
+    "lessons": [
+      5
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=2eb29bd3-f7b0-4182-adf5-092d7c01fc3a",
+    "lessons": [
+      5
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-34.png",
+    "bytes": 107914,
+    "sha256": "4370a49872ce7baa1b4e39f5da6ddaeb07d5604b93fb7882edd92d559ff8d70d",
+    "content_type": "image/png"
+  },
+  {
+    "source_url": "https://1sstroy.ru/api/v2/attachment-file_get?attachmentId=b6c61a81-93a3-40e0-88c3-cab900fb7fca",
+    "lessons": [
+      5
+    ],
+    "kind": "source_lesson_image",
+    "status": "unavailable",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=c48bc521-71ec-467e-8141-960a4cb4cd2d",
+    "lessons": [
+      5
+    ],
+    "kind": "source_lesson_image",
+    "status": "saved",
+    "local": "assets/images/source-36.png",
+    "bytes": 80379,
+    "sha256": "437a372ccce944ed9e1e217daf1dcf8e8c52d46741634acf6bf53565dff31a9d",
+    "content_type": "image/png"
+  }
+]

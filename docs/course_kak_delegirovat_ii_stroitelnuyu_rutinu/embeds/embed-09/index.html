@@ -1,0 +1,99 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Интерактив 1. Что делать: три сценария — отказ, ошибка, лимит ИИ</title>
+<style>
+  :root{--bg:#ffffff;--card:#faf8f5;--card2:#f3efe9;--ink:#1a1814;--muted:#6f7280;--line:#e9e4dc;--brand:#e2231a;--blue:#237cf9;--green:#1f9d57;--yellow:#f5b500;--purple:#9b5de5;--r:16px;--rs:10px;--font:'Proxima Nova','Helvetica Neue','Segoe UI',Arial,system-ui,sans-serif}
+  *,*:before,*:after{box-sizing:border-box}
+  html,body{overflow-x:hidden;margin:0}
+  body{background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.6;-webkit-font-smoothing:antialiased}
+  h3{font-size:16px;margin:0 0 8px;font-weight:800}
+  p{margin:0 0 12px}.muted{color:var(--muted)}
+  .stp{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:800;margin:0 0 6px}
+  h2{font-size:21px;margin:2px 0 12px;font-weight:800;letter-spacing:-.01em}
+  /* ── Сценарии «что делать?»: карточка кейса + варианты действий ── */
+  .scenario{border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:16px 0;background:#fff}
+  .scenario .sh{display:flex;align-items:center;gap:9px;font-weight:800;font-size:14px;margin-bottom:4px}
+  .scenario .snum{width:22px;height:22px;border-radius:50%;background:var(--brand);color:#fff;display:grid;place-items:center;font-size:12px;flex:0 0 auto}
+  .scenario .stext{font-size:13.5px;color:var(--muted);margin-bottom:10px}
+  .scenario .sopts{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin-top:8px}
+  .scenario .sopt{cursor:pointer;text-align:left;background:#fff;border:1.5px solid var(--line);border-radius:12px;padding:12px 14px;font-size:13.5px;font-family:inherit;color:var(--ink);transition:.15s}
+  .scenario .sopt:hover{border-color:var(--ink)}
+  .scenario .sopt.ok{border-color:var(--green);background:#eef8f1}
+  .scenario .sopt.err{border-color:var(--brand);background:#fdf0ef}
+  .scenario .sopt:disabled{cursor:default;opacity:.9}
+  .scenario .sfb{margin-top:10px;font-size:13px;border-radius:9px;padding:10px 12px;display:none}
+  .scenario .sfb.show{display:block}
+  .scenario .sfb.ok{background:#eef8f1;color:#157a41;border:1px solid #cdebd8}
+  .scenario .sfb.err{background:#fdf0ef;color:#a3201a;border:1px solid #f3c7c3}
+</style>
+</head>
+<body>
+<div style="max-width:900px;margin:0 auto;padding:16px">
+
+  <p class="stp">2 · Интерактив</p>
+  <h2>Что делать: три сценария</h2>
+  <p class="muted">В каждой карточке — реальная ситуация на кейсе «Уютный дом на Матвеева». Выберите верное действие, посмотрите обратную связь.</p>
+
+  <!-- Сценарий А: отказ -->
+  <div class="scenario" data-s="a">
+    <div class="sh"><span class="snum">1</span> ИИ отказывается оценивать нарушения подрядчика</div>
+    <div class="stext">Вы просите: «Оцени, есть ли нарушения со стороны подрядчика ООО «СтройМонолит» по предписанию № 57, и кто виноват». ИИ отвечает: «Я не могу давать юридическую оценку действий сторон — обратитесь к юристу или инженеру технадзора».</div>
+    <div class="sopts">
+      <button class="sopt" data-fb="Модель обучена не давать финальных юридических оценок — спор с ней не изменит эту настройку, вы просто потеряете время на переписку.">Начать спорить с ИИ: «Ты же можешь, просто оцени по фактам»</button>
+      <button class="sopt" data-correct data-fb="Верно. ИИ отказывается от оценочного суждения «кто виноват», но охотно работает с фактами. Переформулировка «составь перечень несоответствий по предписанию № 57 со ссылками на пункты» — уже не юридическая оценка, а структурирование, и ИИ выполнит её без отказа.">Переформулировать запрос в факты: «Составь перечень несоответствий по предписанию № 57»</button>
+      <button class="sopt" data-fb="Задача решаема за одну фразу — переформулировку. Бросать инструмент из-за встроенного ограничения на юридические оценки невыгодно: в 9 из 10 похожих ситуаций достаточно попросить факты, а не вывод.">Закрыть чат — с юридическими вопросами ИИ бесполезен</button>
+    </div>
+    <div class="sfb"></div>
+  </div>
+
+  <!-- Сценарий Б: ошибка -->
+  <div class="scenario" data-s="b">
+    <div class="sh"><span class="snum">2</span> ИИ перепутал марку бетона</div>
+    <div class="stext">Вы попросили ИИ описать требования к бетону плиты перекрытия для акта. Ответ: «Плита перекрытия — бетон класса <b>B20</b>». По проектной спецификации КЖ (документ 02) плита перекрытия — класс <b>B25</b>, W6.</div>
+    <div class="sopts">
+      <button class="sopt" data-fb="Молчаливая правка сейчас не защищает от того же типа ошибки в следующем запросе: без документа-источника ИИ снова подставит обиходное значение по памяти.">Молча поправить B20 на B25 в тексте и продолжить доверять этому чату дальше</button>
+      <button class="sopt" data-correct data-fb="Верно. Дайте ИИ документ-источник (фрагмент спецификации КЖ с B25) и попросите пересчитать/переписать ответ на основе именно этих данных. Так ошибка не просто исправляется один раз — модель перестаёт додумывать конкретные цифры.">Дать документ-источник (спецификацию КЖ) и попросить пересчитать ответ на его основе</button>
+      <button class="sopt" data-fb="Новый чат без контекста — тот же риск: без приложенного документа модель снова возьмёт «типичную» марку бетона по памяти, а не проектную.">Начать новый чат без контекста — вдруг там ответит правильно</button>
+    </div>
+    <div class="sfb"></div>
+  </div>
+
+  <!-- Сценарий В: лимит -->
+  <div class="scenario" data-s="c">
+    <div class="sh"><span class="snum">3</span> ИИ упёрся в лимит бесплатной версии</div>
+    <div class="stext">Вы вставили в чат весь текст предписания № 57 плюс журнал входного контроля и попросили сразу «дай полный ответ на все три пункта с обоснованием по нормативам». Чат-бот вернул: «Достигнут лимит длины запроса в бесплатной версии».</div>
+    <div class="sopts">
+      <button class="sopt" data-correct data-fb="Верно. Разбейте задачу на пункты (сначала пункт 1, потом 2 и 3) или сократите вставляемый текст до сути — либо переключитесь на второй инструмент: то, что не поместилось в GigaChat, может пройти в Алисе/YandexGPT и наоборот. Задача решается без ожидания и без платной подписки.">Сократить запрос / разбить задачу на части — или использовать второй инструмент (GigaChat ↔ Алиса)</button>
+      <button class="sopt" data-fb="Задача решаема прямо сейчас — разбивкой на части или вторым бесплатным инструментом. Бросать её и делать вручную то, что ИИ сделал бы за минуты, — самый дорогой вариант из всех.">Бросить задачу — оформить ответ вручную без ИИ</button>
+      <button class="sopt" data-fb="Лимит бесплатной версии — не финал: сначала попробуйте сократить/разбить запрос или сменить инструмент. Ждать бесплатного «завтра» — не самый быстрый путь, когда сроки предписания уже тикают.">Подождать до следующего дня, когда лимит обнулится</button>
+    </div>
+    <div class="sfb"></div>
+  </div>
+
+</div>
+
+<script>
+/* ── BLOCK: SCENARIOS — три сценария «что делать?» с обратной связью ── */
+(function(){
+  document.querySelectorAll('.scenario').forEach(function(s){
+    var fb=s.querySelector('.sfb');
+    s.querySelectorAll('.sopt').forEach(function(btn){
+      btn.addEventListener('click',function(){
+        var ok=btn.hasAttribute('data-correct');
+        s.querySelectorAll('.sopt').forEach(function(b){
+          b.disabled=true;
+          if(b.hasAttribute('data-correct'))b.classList.add('ok');
+        });
+        if(!ok)btn.classList.add('err');
+        fb.className='sfb show '+(ok?'ok':'err');
+        fb.innerHTML=(ok?'✅ <b>Верно.</b> ':'❌ <b>Не совсем.</b> ')+(btn.dataset.fb||'');
+      });
+    });
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Интерактив 1. Соберите ответ ИИ сами — слово за словом</title>
+<style>
+  :root{--bg:#ffffff;--card:#faf8f5;--card2:#f3efe9;--ink:#1a1814;--muted:#6f7280;--line:#e9e4dc;--blue:#237cf9;--green:#1f9d57;--rs:10px;--font:'Proxima Nova','Helvetica Neue','Segoe UI',Arial,system-ui,sans-serif}
+  *,*:before,*:after{box-sizing:border-box}
+  html,body{overflow-x:hidden;margin:0}
+  body{background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.6;-webkit-font-smoothing:antialiased}
+  h2{font-size:21px;margin:2px 0 12px;font-weight:800;letter-spacing:-.01em}
+  p{margin:0 0 12px}.muted{color:var(--muted)}
+  .stp{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:800;margin:0 0 6px}
+  .note{font-size:13.5px;color:#7a5b16;background:#fdf6e3;border:1px solid #f3e3b3;border-radius:12px;padding:12px 14px;margin-top:14px}
+  .note.green{color:#157a41;background:#eef8f1;border-color:#cdebd8}
+  .btn{appearance:none;border:none;cursor:pointer;font-weight:700;border-radius:var(--rs);padding:11px 17px;font-size:14px;background:var(--blue);color:#fff;transition:.15s}
+  .btn:hover{filter:brightness(.95)}
+  .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}.btn.ghost:hover{border-color:var(--ink)}
+  .checks{list-style:none;padding:0;margin:8px 0 0}
+  .checks li{padding:7px 0 7px 26px;position:relative;font-size:14.5px;border-bottom:1px solid var(--line)}
+  .checks li:last-child{border-bottom:none}.checks li:before{content:"✓";position:absolute;left:2px;color:var(--green);font-weight:800}
+  .phrase{font-size:17px;font-weight:600;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:15px 16px;min-height:54px;line-height:1.5}
+  .phrase .seed{color:var(--ink)}.phrase .added{color:var(--blue);font-weight:800}
+  .cands{display:grid;gap:9px;margin:14px 0 0}
+  .cand{cursor:pointer;text-align:left;border:1px solid var(--line);background:#fff;border-radius:11px;padding:11px 13px;display:flex;align-items:center;gap:12px;transition:.12s;color:var(--ink);font-size:14px;width:100%;font-family:inherit}
+  .cand:hover{border-color:var(--blue);background:var(--card)}
+  .cand .w{flex:0 0 130px;font-weight:700}
+  .cand .pbar{flex:1;height:8px;background:var(--card2);border-radius:5px;overflow:hidden}
+  .cand .pbar i{display:block;height:100%;background:var(--blue);border-radius:5px}
+  .cand .pp{flex:0 0 42px;text-align:right;font-size:12.5px;color:var(--muted)}
+  @media(max-width:420px){.cand .w{flex-basis:100px;font-size:13px}}
+</style>
+</head>
+<body>
+<div style="max-width:900px;margin:0 auto;padding:16px">
+
+  <p class="stp">3 · Интерактив</p>
+  <h2>Соберите ответ ИИ сами — слово за словом</h2>
+  <p class="muted">Прораб на секции 2 ЖК «Уютный дом на Матвеева» спрашивает ИИ, каким бетоном льют плиту перекрытия (документ 01 кейса — график производства работ). На каждом шаге ИИ видит несколько вероятных продолжений. Кликайте самый вероятный вариант и соберите фразу сами — так, как это делает модель.</p>
+
+  <div class="phrase" id="ntPhrase"></div>
+  <div class="cands" id="ntCands"></div>
+  <div id="ntDone" style="display:none">
+    <div class="note green">
+      <b>Что вы только что увидели:</b>
+      <ul class="checks" style="margin-top:8px">
+        <li>На каждом шаге было несколько правдоподобных слов с разной вероятностью — ИИ просто выбирает по ним.</li>
+        <li>Поэтому ответ всегда звучит гладко и уверенно — даже когда по сути неверен.</li>
+        <li>ИИ «не знает, что он не знает»: придуманное и реальное он выдаёт одинаково спокойно.</li>
+      </ul>
+    </div>
+    <button class="btn ghost" id="ntReset" style="margin-top:12px">↺ Собрать заново</button>
+  </div>
+
+  <div class="note" style="margin-top:14px">🤖 <b>Ваш ассистент сейчас:</b> просто продолжает текст. Он не знает вашу компанию и не проверяет себя. На Шаге 4 научимся давать ему роль и контекст, чтобы вероятности «следующего слова» смещались в сторону вашей задачи.</div>
+
+</div>
+<script>
+(function(){
+  var ntPhrase=document.getElementById('ntPhrase'), ntCands=document.getElementById('ntCands'), ntDone=document.getElementById('ntDone');
+  if(!ntPhrase)return;
+  var NT_SEED="Плиту перекрытия секции 2 чаще всего льют бетоном";
+  var NT=[
+    [["класса",58],["марки",26],["типа",11],["сорта",5]],
+    [["B25",61],["B20",24],["B30",15]],
+    [["с",54],["для",31],["марки",15]],
+    [["морозостойкостью",58],["водонепроницаемостью",27],["прочностью",15]],
+    [["F150",57],["F100",28],["F200",15]]
+  ];
+  var ntStep=0, ntAdded=[];
+  function ntRender(){
+    ntPhrase.innerHTML='<span class="seed">'+NT_SEED+'</span> '+
+      ntAdded.map(function(w){return '<span class="added">'+w+'</span>';}).join(' ')+(ntStep<NT.length?' <span class="muted">…</span>':' .');
+    ntCands.innerHTML='';
+    if(ntStep>=NT.length){ntDone.style.display='block';return;}
+    ntDone.style.display='none';
+    NT[ntStep].forEach(function(pair){
+      var w=pair[0], p=pair[1];
+      var b=document.createElement('button');b.className='cand';b.type='button';
+      b.innerHTML='<span class="w">'+w+'</span><span class="pbar"><i style="width:'+p+'%"></i></span><span class="pp">'+p+'%</span>';
+      b.addEventListener('click',function(){ntAdded.push(w);ntStep++;ntRender();});
+      ntCands.appendChild(b);
+    });
+  }
+  document.getElementById('ntReset').addEventListener('click',function(){ntStep=0;ntAdded=[];ntRender();});
+  ntRender();
+})();
+</script>
+</body>
+</html>

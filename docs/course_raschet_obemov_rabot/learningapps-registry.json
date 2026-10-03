@@ -1,0 +1,199 @@
+[
+  {
+    "id": "p11h5z46225",
+    "source_url": "https://learningapps.org/watch?v=p11h5z46225",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=p11h5z46225&version=9",
+    "data_local": "source_external/learningapps/p11h5z46225/data.js",
+    "data_sha256": "aaca19c50ecec9a024596e6657bd8f1476cc1f6c64f6f709aa1819c5e37101ff",
+    "data_bytes": 87818,
+    "title": "Название не указано",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Рассчитайте площадь среза, где ширина траншеи = 0,9 м, а высота = 1,56 м. (Ответ впишите слитно, одним числом)"
+    ],
+    "parameter_count": 5
+  },
+  {
+    "id": "p2ztyntwk25",
+    "source_url": "https://learningapps.org/watch?v=p2ztyntwk25",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=p2ztyntwk25&version=9",
+    "data_local": "source_external/learningapps/p2ztyntwk25/data.js",
+    "data_sha256": "f7df836773668c45d5db29d75f3ab22b3d82aadd8d7a6dfe6268c18543a8686f",
+    "data_bytes": 88122,
+    "title": "Название не указано",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Определите глубину котлована/траншеи, где средняя отметка верха котлована/траншеи = 2,94 м, а средняя отметка дна котлована/траншеи = 1,19 м (Ответ впишите слитно)"
+    ],
+    "parameter_count": 5
+  },
+  {
+    "id": "p868ig55c25",
+    "source_url": "https://learningapps.org/watch?v=p868ig55c25",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=p868ig55c25&version=9",
+    "data_local": "source_external/learningapps/p868ig55c25/data.js",
+    "data_sha256": "3c64f71ba61c3560262e7a84ff10aedef26ab9184b48009b5e239db06ac5bdfb",
+    "data_bytes": 88199,
+    "title": "Название не указано",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Рассчитайте объем обратной засыпки, где объем разработки = 132 куб. м, а объем всех конструкций и оснований, который будет засыпан = 25 куб. м. (Ответ впишите слитно, одним числом)"
+    ],
+    "parameter_count": 5
+  },
+  {
+    "id": "p9q44qngt25",
+    "source_url": "https://learningapps.org/watch?v=p9q44qngt25",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=p9q44qngt25&version=9",
+    "data_local": "source_external/learningapps/p9q44qngt25/data.js",
+    "data_sha256": "10e4feb2a0e1f7ea9076b77134c8e0c6ec2c6ea5dd60406911211f88832b802a",
+    "data_bytes": 88178,
+    "title": "Название не указано",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Рассчитайте объем усеченной пирамиды, где глубина котлована или траншеи = 1,75 м, верх котлована = 76,29 м, а низ котлована = 53,27 м. (Ответ округлите до двух знаков после запятой)"
+    ],
+    "parameter_count": 5
+  },
+  {
+    "id": "p9vw5wyjn25",
+    "source_url": "https://learningapps.org/watch?v=p9vw5wyjn25",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=p9vw5wyjn25&version=9",
+    "data_local": "source_external/learningapps/p9vw5wyjn25/data.js",
+    "data_sha256": "f1ecbd411803685f456adec8c51490f43245965c61f8580dca836e965102046c",
+    "data_bytes": 88191,
+    "title": "Название не указано",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Рассчитайте объем траншей и котлованов с откосами, где верх котлована = 76,29 м, низ котлована = 53,27 м, а глубина котлована или траншеи = 1,75 м. (Ответ впишите слитно, одним числом)"
+    ],
+    "parameter_count": 5
+  },
+  {
+    "id": "pa5oat6pc25",
+    "source_url": "https://learningapps.org/watch?v=pa5oat6pc25",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=pa5oat6pc25&version=9",
+    "data_local": "source_external/learningapps/pa5oat6pc25/data.js",
+    "data_sha256": "d20cba6843b85582a35629a3c49970a9d2529287f6478ca734a7e5c937f432fc",
+    "data_bytes": 88199,
+    "title": "Рассчитайте площадь среза траншеи с откосами",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Рассчитайте площадь среза траншеи с откосами, где ширина верха траншеи = 2,02 м, ширина низа траншеи = 1,56 м, а высота = 1,98 м (Ответ округлите до двух знаков после запятой)"
+    ],
+    "parameter_count": 5
+  },
+  {
+    "id": "pba9a267k25",
+    "source_url": "https://learningapps.org/watch?v=pba9a267k25",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=pba9a267k25&version=9",
+    "data_local": "source_external/learningapps/pba9a267k25/data.js",
+    "data_sha256": "84cbc0123b4e3ba847841b37cfd75ddf51ad40910044d1f9d42cdfd74dde7ae0",
+    "data_bytes": 88134,
+    "title": "Название не указано",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Определите среднее значение для верхней и нижней частей котлована, где сумма всех отметок = 23,52 м, а количество отметок = 8 шт. (Ответ впишите слитно, одним числом)"
+    ],
+    "parameter_count": 5
+  },
+  {
+    "id": "pc098it1j25",
+    "source_url": "https://learningapps.org/watch?v=pc098it1j25",
+    "status": "saved",
+    "images": [
+      {
+        "source_url": "https://dbimg.eu/i/uugdojhaqkd.png",
+        "local": "source_external/learningapps/pc098it1j25/images/01.png",
+        "bytes": 10632,
+        "sha256": "9436a819f05f2ef36c2a7952dce9405786d518214d61322e98ade0a9d26c5278",
+        "status": "saved"
+      }
+    ],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=pc098it1j25&version=21",
+    "data_local": "source_external/learningapps/pc098it1j25/data.js",
+    "data_sha256": "637345674fe0e46dbe1fafff70ec7688af049770e2b59d60184b03a45eb2b4ce",
+    "data_bytes": 56647,
+    "title": " Объемы работ: простые формулы и алгоритмы для точных расчетов",
+    "tasktext": "Чтобы ответить на вопрос, щелкните мышкой по слову, которое выбрали для отгадывания. В открывшиеся клеточки вписывайте буквы. Зеленое окошко заменяет курсор. Ваш ответ всегда можно перепроверить (клавиша внизу справа). Если ответ неверный – слово будет выделено красным.",
+    "helptext": "",
+    "texts": [
+      "Что считается \"скелетом\" железобетонной конструкции?",
+      "Армирование",
+      "Этот вид работ подразумевает снятие плодородного слоя почвы при подготовке участка под строительство",
+      "Срезка",
+      "Для корректного расчета тоннажа металлоконструкции необходимо рассчитать ... каждой составляющей детали и проверить сортамент материала по ГОСТ",
+      "Вес",
+      "... - это перечень металлопроката, который разделен на группы по геометрическим размерам, форме, массе, свойствам и технологическим особенностям",
+      "Сортамент",
+      "При строительстве НВК основными составляющими являются колодцы, .... и арматура",
+      "трубы",
+      "Один из видов земляных работ - это обратная ...",
+      "засыпка",
+      "В чем процентуются трубы?",
+      "Метры",
+      "Какие материалы создают защитный слой бетона снизу и сбоку, если армируете колонны, стены и другие вертикальные конструкции?",
+      "Фиксатор",
+      "Какой объем должен быть взят в смете при закрытии земляных работ?",
+      "Физический",
+      "При монтаже труб из любых материалов нужно учитывать соединительные элементы –",
+      "муфты"
+    ],
+    "parameter_count": 22
+  },
+  {
+    "id": "pwygtrwv325",
+    "source_url": "https://learningapps.org/watch?v=pwygtrwv325",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=pwygtrwv325&version=9",
+    "data_local": "source_external/learningapps/pwygtrwv325/data.js",
+    "data_sha256": "d61543a34e642a5b23f1244efef1a1c2c2e491734fdf99085ad125a407dc52b6",
+    "data_bytes": 88170,
+    "title": "Название не указано",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Посчитайте объем работ по срезке растительного слоя, где площадь снятия растительного грунта = 64 кв. м, а высота снятия растительного слоя = 200 мм (Ответ впишите слитно)"
+    ],
+    "parameter_count": 5
+  },
+  {
+    "id": "pyhie5r3c25",
+    "source_url": "https://learningapps.org/watch?v=pyhie5r3c25",
+    "status": "saved",
+    "images": [],
+    "data_url": "https://learningapps.org/data?jsonp=1&id=pyhie5r3c25&version=9",
+    "data_local": "source_external/learningapps/pyhie5r3c25/data.js",
+    "data_sha256": "5c49d7f0efebce122d051a16675feae669b30ee8b8a0bb0bc248ba735d185485",
+    "data_bytes": 87904,
+    "title": "Название не указано",
+    "tasktext": "",
+    "helptext": "",
+    "texts": [
+      "Рассчитайте объем траншеи, где длина траншеи = 100 м, а площадь среза траншеи = 1,4 кв.м. (Ответ впишите слитно, одним числом)"
+    ],
+    "parameter_count": 5
+  }
+]

@@ -1,0 +1,53 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Интерактив 3. Перед сдачей отметьте</title>
+<style>
+  :root{--ink:#1a1814;--muted:#6f7280;--line:#e9e4dc;--green:#1f9d57;--card2:#f3efe9;--font:'Proxima Nova','Helvetica Neue','Segoe UI',Arial,system-ui,sans-serif}
+  *,*:before,*:after{box-sizing:border-box}
+  html,body{overflow-x:hidden;margin:0}
+  body{background:#fff;color:var(--ink);font-family:var(--font);line-height:1.6;-webkit-font-smoothing:antialiased}
+  .stp{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:800;margin:0 0 6px}
+  h2{font-size:21px;margin:2px 0 12px;font-weight:800;letter-spacing:-.01em}
+  .selfcheck{list-style:none;padding:0;margin:8px 0 0}
+  .selfcheck li{border-bottom:1px solid var(--line)}.selfcheck li:last-child{border-bottom:none}
+  .selfcheck label{display:flex;gap:11px;align-items:flex-start;padding:9px 0;font-size:14.5px;cursor:pointer;margin:0}
+  .selfcheck input{width:18px;height:18px;flex:0 0 auto;margin:3px 0 0;accent-color:var(--green)}
+  .scbar{height:9px;border-radius:6px;background:var(--card2);overflow:hidden;margin-top:14px}
+  .scbar i{display:block;height:100%;width:0;background:var(--green);border-radius:6px;transition:.35s}
+  .scmsg{font-size:13px;font-weight:700;margin-top:7px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div style="max-width:900px;margin:0 auto;padding:16px">
+
+  <p class="stp">7 · Самопроверка</p>
+  <h2>Перед сдачей отметьте</h2>
+  <ul class="selfcheck" id="scList">
+    <li><label><input type="checkbox"> В подписи есть все четыре элемента: что / где / когда / статус.</label></li>
+    <li><label><input type="checkbox"> На фото нет лиц людей и читаемых номеров машин — либо они замазаны перед загрузкой.</label></li>
+    <li><label><input type="checkbox"> Если ИИ упомянул «похоже на дефект» — я не поставил(а) это как готовое заключение, а отметил(а) для проверки на месте.</label></li>
+    <li><label><input type="checkbox"> Даты и место в подписи сверены с фактом, а не взяты «на глаз» из ответа модели.</label></li>
+  </ul>
+  <div class="scbar"><i id="scBar"></i></div>
+  <div class="scmsg" id="scMsg">0 из 4 — пройдитесь по списку</div>
+
+</div>
+<script>
+(function(){
+  var list=document.getElementById('scList');if(!list)return;
+  var boxes=list.querySelectorAll('input[type=checkbox]'),bar=document.getElementById('scBar'),msg=document.getElementById('scMsg');
+  function upd(){
+    var n=0;boxes.forEach(function(b){if(b.checked)n++;});
+    bar.style.width=(100*n/boxes.length)+'%';
+    msg.textContent=(n===boxes.length)?'✅ Все '+n+' пунктов — можно отправлять куратору':(n+' из '+boxes.length+' — пройдитесь по списку');
+    msg.style.color=(n===boxes.length)?'var(--green)':'var(--muted)';
+  }
+  boxes.forEach(function(b){b.addEventListener('change',upd);});
+  upd();
+})();
+</script>
+</body>
+</html>

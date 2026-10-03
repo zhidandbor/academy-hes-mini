@@ -1,0 +1,113 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Интерактив 1. Соберите подпись к фото Ф-01</title>
+<style>
+  :root{--bg:#ffffff;--card:#faf8f5;--card2:#f3efe9;--ink:#1a1814;--muted:#6f7280;--line:#e9e4dc;--blue:#237cf9;--green:#1f9d57;--font:'Proxima Nova','Helvetica Neue','Segoe UI',Arial,system-ui,sans-serif}
+  *,*:before,*:after{box-sizing:border-box}
+  html,body{overflow-x:hidden;margin:0}
+  body{background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.6;-webkit-font-smoothing:antialiased}
+  p{margin:0 0 12px}.muted{color:var(--muted)}
+  .stp{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:800;margin:0 0 6px}
+  h2{font-size:21px;margin:2px 0 12px;font-weight:800;letter-spacing:-.01em}
+  .note{font-size:13.5px;color:#7a5b16;background:#fdf6e3;border:1px solid #f3e3b3;border-radius:12px;padding:12px 14px;margin-top:14px}
+  /* ── Мини-интерактив: сборка подписи из элементов ── */
+  .capbuild{display:flex;flex-direction:column;gap:12px;margin-top:10px}
+  .capfield{border:1px solid var(--line);border-radius:12px;padding:13px 15px;background:#fff}
+  .capfield .cfh{font-weight:800;font-size:13px;margin-bottom:9px;display:flex;align-items:center;gap:8px}
+  .capfield .cfh .cfnum{width:20px;height:20px;border-radius:50%;background:var(--card2);color:var(--ink);display:grid;place-items:center;font-size:11px;flex:0 0 auto}
+  .capopts{display:flex;flex-wrap:wrap;gap:8px}
+  .capopt{cursor:pointer;background:var(--card);border:1.5px solid var(--line);border-radius:999px;padding:8px 13px;font-size:13px;font-family:inherit;color:var(--ink);transition:.15s}
+  .capopt:hover{border-color:var(--ink)}
+  .capopt.sel{border-color:var(--blue);background:#eaf2ff;font-weight:700}
+  .capresult{border:1.5px dashed var(--green);background:#eef8f1;border-radius:12px;padding:13px 15px;font-size:14px;margin-top:4px;display:none}
+  .capresult.show{display:block}
+</style>
+</head>
+<body>
+<div style="max-width:900px;margin:0 auto;padding:16px">
+
+  <p class="stp">5 · Мини-интерактив</p>
+  <h2>Соберите подпись к фото Ф-01</h2>
+  <p class="muted">Кликните по одному варианту в каждом из четырёх блоков — «что», «где», «когда», «статус». После четырёх кликов увидите собранную подпись.</p>
+
+  <div class="capbuild" data-capbuild>
+    <div class="capfield" data-cf="what">
+      <div class="cfh"><span class="cfnum">1</span> Что на фото</div>
+      <div class="capopts">
+        <button class="capopt" data-val="Армирование плиты перекрытия, малый защитный слой на одном участке">Армирование плиты перекрытия, малый защитный слой на одном участке</button>
+        <button class="capopt" data-val="Общий вид фасада">Общий вид фасада</button>
+        <button class="capopt" data-val="Разгрузка бетона">Разгрузка бетона</button>
+      </div>
+    </div>
+    <div class="capfield" data-cf="where">
+      <div class="cfh"><span class="cfnum">2</span> Где</div>
+      <div class="capopts">
+        <button class="capopt" data-val="секция 2, отм. +12,000, захватка 2-Б">секция 2, отм. +12,000, захватка 2-Б</button>
+        <button class="capopt" data-val="приобъектный склад">приобъектный склад</button>
+        <button class="capopt" data-val="зона разгрузки">зона разгрузки</button>
+      </div>
+    </div>
+    <div class="capfield" data-cf="when">
+      <div class="cfh"><span class="cfnum">3</span> Когда</div>
+      <div class="capopts">
+        <button class="capopt" data-val="24.06.2026">24.06.2026</button>
+        <button class="capopt" data-val="25.06.2026">25.06.2026</button>
+        <button class="capopt" data-val="26.06.2026">26.06.2026</button>
+      </div>
+    </div>
+    <div class="capfield" data-cf="status">
+      <div class="cfh"><span class="cfnum">4</span> Статус</div>
+      <div class="capopts">
+        <button class="capopt" data-val="в процессе, требует контрольного промера защитного слоя">в процессе, требует контрольного промера защитного слоя</button>
+        <button class="capopt" data-val="завершено без замечаний">завершено без замечаний</button>
+        <button class="capopt" data-val="устранено, повторно освидетельствовано">устранено, повторно освидетельствовано</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="capresult" id="capResult"></div>
+  <div class="note" id="capHint" style="margin-top:12px">Подсказка: сверяйтесь с описанием Ф-01 из документа 08 — верная подпись строится только из фактов, которые там есть.</div>
+
+</div>
+<script>
+(function(){
+  var wrap=document.querySelector('[data-capbuild]');if(!wrap)return;
+  var fields=wrap.querySelectorAll('.capfield');
+  var result=document.getElementById('capResult');
+  var hint=document.getElementById('capHint');
+  var picked={};
+
+  var correct={what:'Армирование плиты перекрытия, малый защитный слой на одном участке',
+               where:'секция 2, отм. +12,000, захватка 2-Б',
+               when:'24.06.2026',
+               status:'в процессе, требует контрольного промера защитного слоя'};
+
+  function render(){
+    var keys=['what','where','when','status'];
+    var n=0; keys.forEach(function(k){if(picked[k])n++;});
+    if(n<4){result.classList.remove('show');return;}
+    var allCorrect=keys.every(function(k){return picked[k]===correct[k];});
+    result.classList.add('show');
+    result.innerHTML=(allCorrect?'✅ ':'⚠️ ')+'<b>Подпись собрана:</b> '+picked.what+'. '+picked.where+', '+picked.when+'. Статус: '+picked.status+'.'+
+      (allCorrect?'':'<br><span style="font-size:12.5px;color:var(--muted)">Сверьте с описанием Ф-01 (документ 08) — часть элементов не совпадает с фактами.</span>');
+    hint.style.display=allCorrect?'none':'block';
+  }
+
+  fields.forEach(function(f){
+    var key=f.getAttribute('data-cf');
+    f.querySelectorAll('.capopt').forEach(function(btn){
+      btn.addEventListener('click',function(){
+        f.querySelectorAll('.capopt').forEach(function(b){b.classList.remove('sel');});
+        btn.classList.add('sel');
+        picked[key]=btn.getAttribute('data-val');
+        render();
+      });
+    });
+  });
+})();
+</script>
+</body>
+</html>

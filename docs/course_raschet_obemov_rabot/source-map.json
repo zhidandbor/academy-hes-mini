@@ -1,0 +1,77 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/226009",
+  "title": "Как рассчитать объемы работ: простые формулы и алгоритмы для точных расчетов",
+  "overview_snapshot": "source_pages/overview.json",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Как считать объемы строительных работ без ошибок",
+      "source_url": "https://school.a-sstroy.ru/programs/226009",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Как считать объемы строительных работ без ошибок",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Земляные работы: формулы и тонкости",
+              "source_url": "https://school.a-sstroy.ru/programs/226009/9afe3f5f-324f-428e-99d4-79cbf69944d0/8692f873-d44e-4c92-902a-98dd6f8a1afc",
+              "local": "lessons/01.html",
+              "snapshot": "source_pages/lesson-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Наружные сети водоснабжения и канализации",
+              "source_url": "https://school.a-sstroy.ru/programs/226009/9afe3f5f-324f-428e-99d4-79cbf69944d0/cd6682ba-3161-49f5-be12-7543fa386e70",
+              "local": "lessons/02.html",
+              "snapshot": "source_pages/lesson-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Армирование: расчет веса и количества",
+              "source_url": "https://school.a-sstroy.ru/programs/226009/9afe3f5f-324f-428e-99d4-79cbf69944d0/fb959301-aa02-46bb-9f45-56c7a03b300d",
+              "local": "lessons/03.html",
+              "snapshot": "source_pages/lesson-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Железобетонные фундаменты: точные геометрические расчеты",
+              "source_url": "https://school.a-sstroy.ru/programs/226009/9afe3f5f-324f-428e-99d4-79cbf69944d0/0e38b86c-eddd-4fe9-b85f-ffcaaac4e60d",
+              "local": "lessons/04.html",
+              "snapshot": "source_pages/lesson-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Монтаж металлоконструкций: расчеты по массе и спецификациям",
+              "source_url": "https://school.a-sstroy.ru/programs/226009/9afe3f5f-324f-428e-99d4-79cbf69944d0/dd2829f5-9459-4052-9221-53a377abfac8",
+              "local": "lessons/05.html",
+              "snapshot": "source_pages/lesson-05.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест по теме",
+      "source_url": "https://school.a-sstroy.ru/tests/226009/22002783/start",
+      "local": "tests/index.html",
+      "intro_snapshot": "source_pages/test-topic-intro.json",
+      "questions_status": "online_only"
+    },
+    {
+      "title": "Проверочный тест по всем темам",
+      "source_url": "https://school.a-sstroy.ru/tests/226009/22002767/start",
+      "local": "tests/index.html",
+      "intro_snapshot": "source_pages/test-selfcheck-intro.json",
+      "questions_status": "online_only"
+    }
+  ],
+  "author": {
+    "name": "Вера Сафуанова",
+    "source_url": "https://school.a-sstroy.ru/teacher/5437",
+    "snapshot": "source_pages/teacher-5437.json"
+  }
+}

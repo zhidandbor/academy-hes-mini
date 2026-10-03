@@ -1,0 +1,653 @@
+[
+  {
+    "path": "acquire_images.py",
+    "bytes": 1784,
+    "sha256": "12e4800c56bdd5aff6a8e7a32b9ed5f2dc7e629f71e999eb5226ab9ab3362269",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "acquire_learningapps.py",
+    "bytes": 3206,
+    "sha256": "d244126fc565da9d81b6f1a7466496bd6fac288f0103f53aa92e5e4036fece2d",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "assets/css/style.css",
+    "bytes": 22327,
+    "sha256": "443950e9b339388e428f06b529b73adfe2be294c0eaf211eb871cddea6550192",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "assets/images/source-01.png",
+    "bytes": 712459,
+    "sha256": "92f379c0cdf90cea8a854cd39e99065b51aceb8e8081b5c46c8a28394776df53",
+    "origin": "source_lesson_image",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png"
+  },
+  {
+    "path": "assets/images/source-02.png",
+    "bytes": 112286,
+    "sha256": "2b8e2be4c0a6cb15e93f27bc6664a999fcae0d129a8b269649e46df55ac3377f",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=6426352a-5216-430d-b659-928818e2a554"
+  },
+  {
+    "path": "assets/images/source-04.png",
+    "bytes": 116415,
+    "sha256": "9c678453977d0ca26eaec6affe0dc619f814af41f207e216750af9ecf3606f5c",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=a6b90bba-7fed-4a53-a313-079178ae8dcd"
+  },
+  {
+    "path": "assets/images/source-05.png",
+    "bytes": 82843,
+    "sha256": "805051798f09be16f488dbae99f37e5d0fc888d311c3d1a0b5a209ac176c5bd9",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=9ca030d9-e51a-40fc-a417-dcb60d03fe2f"
+  },
+  {
+    "path": "assets/images/source-06.png",
+    "bytes": 174910,
+    "sha256": "79a472cb924e0c4d98930c0072b210f91f8396cdd6fc7ae12d02e6085708bd94",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=885edac1-8a32-4709-a34b-9125c9880982"
+  },
+  {
+    "path": "assets/images/source-08.png",
+    "bytes": 4256,
+    "sha256": "2a4532c97d403a6de235134216d611c4a166aa793ed2c7f5a53f3008cc0583ef",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=7734ce32-0376-4620-811e-275433834bdb"
+  },
+  {
+    "path": "assets/images/source-09.png",
+    "bytes": 2952,
+    "sha256": "defa6fce2684740731fbdd241d5fab989f8b13bd4bc0ac05ee47ecc2706dbea0",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=c3c262bc-1264-44af-892e-b0113d00e8a0"
+  },
+  {
+    "path": "assets/images/source-11.png",
+    "bytes": 3017,
+    "sha256": "a45d5981bbae5864417fdc13e9679ccbb24d35194b7e13b281f8db9d9fcd9f3f",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=d56f1aac-ac05-469e-85c4-11bf75ea9faa"
+  },
+  {
+    "path": "assets/images/source-13.png",
+    "bytes": 3017,
+    "sha256": "a45d5981bbae5864417fdc13e9679ccbb24d35194b7e13b281f8db9d9fcd9f3f",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=2f0f2dd1-19ba-4432-97d2-c1325618f885"
+  },
+  {
+    "path": "assets/images/source-14.png",
+    "bytes": 80605,
+    "sha256": "8c18432fe0a97e2267967e0f7da8ffbed359c911822ab2fea8824b2832335593",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=39487d71-3988-421b-9ff8-94cb70dcd276"
+  },
+  {
+    "path": "assets/images/source-15.png",
+    "bytes": 86332,
+    "sha256": "3f559adef82552c7e6725e67253e811f0065d92e42314f952e8dc0301f9b9d08",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=52b9351f-e90e-4725-9009-35988fc4bc7f"
+  },
+  {
+    "path": "assets/images/source-16.png",
+    "bytes": 35133,
+    "sha256": "dee9634d0a9f3ea3008ea45672151491141b341e799e34aace71c36b1c0a2953",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=bd82ca66-8eae-495d-b553-7b9beb18b67f"
+  },
+  {
+    "path": "assets/images/source-18.png",
+    "bytes": 28185,
+    "sha256": "cebfb04c3ce5f704b61295de7f99b4b2d4e3d8df51daaf805cb994f45399fd15",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=8ec20c2d-c47a-44ce-922e-e6155d7a0580"
+  },
+  {
+    "path": "assets/images/source-20.png",
+    "bytes": 4115,
+    "sha256": "3141941e848453b25aada7983d5113f32023fbf9589938807afd3522325f5e2e",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=48997449-c8e6-4ffa-a3fd-c1e72584a921"
+  },
+  {
+    "path": "assets/images/source-21.png",
+    "bytes": 4115,
+    "sha256": "b71ac8e8c01ce11d9544b1b07b406ab84299a2d19992894f21977e7505c4efac",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=2b778809-9550-4ec4-8e94-ee9276d36455"
+  },
+  {
+    "path": "assets/images/source-22.png",
+    "bytes": 4060,
+    "sha256": "a126ec4638190bcd10748849ef75953eafefe090a8b1da513102d5e6e10b2560",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=f78b4a58-ec50-48fc-9164-8b04a8c42c71"
+  },
+  {
+    "path": "assets/images/source-24.png",
+    "bytes": 9256,
+    "sha256": "c9153a12cd4d64a20127f60f5eb3c262324087e6da014cff6eab7b337817c229",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=f98eb8ac-1411-4eda-9aa7-ecb1cb0484df"
+  },
+  {
+    "path": "assets/images/source-25.png",
+    "bytes": 60131,
+    "sha256": "6d9020eaf187f4dc84d45c3951e52285160cc8d2d5f8eb6e1025ddfbcac7471d",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=9626822f-6943-44bd-9c4c-541d10f88ed8"
+  },
+  {
+    "path": "assets/images/source-27.png",
+    "bytes": 49257,
+    "sha256": "df06dafd5a669e160af1b7c4b50ea6946ce304df6db861b3e1b74bc0a86a51d8",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=fcaf74cc-177a-4e71-9bca-d5f415b1226e"
+  },
+  {
+    "path": "assets/images/source-29.png",
+    "bytes": 874,
+    "sha256": "da431503a2e9e33a74f736ec6f547e3adcd154b926b9bc706d797e66e625d969",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=1386cfc9-249f-44ba-9fcc-93f133f262ff"
+  },
+  {
+    "path": "assets/images/source-31.png",
+    "bytes": 24601,
+    "sha256": "074f2153b53a8e60082e899d0059945f1a72490c810ffcfeb286b4f4846b29ea",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=81a4dac1-3c08-451a-b13b-51af91219167"
+  },
+  {
+    "path": "assets/images/source-32.png",
+    "bytes": 61163,
+    "sha256": "f40e8d4cc736d7050a06b859ecbdc8fdca9807be35f1bdf1d100cc85887c67eb",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=682c9784-be88-487d-a914-0c48ca34d1e0"
+  },
+  {
+    "path": "assets/images/source-34.png",
+    "bytes": 107914,
+    "sha256": "4370a49872ce7baa1b4e39f5da6ddaeb07d5604b93fb7882edd92d559ff8d70d",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=2eb29bd3-f7b0-4182-adf5-092d7c01fc3a"
+  },
+  {
+    "path": "assets/images/source-36.png",
+    "bytes": 80379,
+    "sha256": "437a372ccce944ed9e1e217daf1dcf8e8c52d46741634acf6bf53565dff31a9d",
+    "origin": "source_lesson_image",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=c48bc521-71ec-467e-8141-960a4cb4cd2d"
+  },
+  {
+    "path": "assets/js/embeds.js",
+    "bytes": 1642,
+    "sha256": "7b3658b84e8bcc62160059c382b821730cc0b688078ed64fc396d4386089a007",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "attachments/index.html",
+    "bytes": 11035,
+    "sha256": "e2276c72f9037f94d648ec7ca236805d1643b3ae153edba371aea0cfe9548b52",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "build.py",
+    "bytes": 15922,
+    "sha256": "7257f0a1ebb88502c316581ced71eb344fdefed710f7831850f5c91a79505990",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "cleanup-log.json",
+    "bytes": 349,
+    "sha256": "a64d44460bdd9ed4c904a99f6c0d360b5f3b4fa0e7ef53404e293da1c8adb10a",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "embedded-verification.json",
+    "bytes": 5673,
+    "sha256": "bb92ae307246fa0d86fa1f73501b49e74cfb20de5363f01b31eb30cfe7d33db2",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "file-placement.json",
+    "bytes": 14290,
+    "sha256": "5ea374507fbf7eae5dbe7a368e74114a0bec6e2d0d626dd47d00370779d2c139",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "finalize_registry.py",
+    "bytes": 728,
+    "sha256": "22aa966bf85a3b3c149ea1c23fd811ed88dfbb05e4b64567d20fe08a03a4cd08",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "genially-registry.json",
+    "bytes": 7940,
+    "sha256": "44edf4297953a6a6ad43521a3254cd19658a39f250642e845091669102fdc94d",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "image-registry.json",
+    "bytes": 14554,
+    "sha256": "ebbb65635989b9a801e9712c62954397ecd23152309d2772f0be0dadd90e154f",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "index.html",
+    "bytes": 2626,
+    "sha256": "62b56efa9234f42c18be4b9361811c97d8b7b6d653d6dfc15a870ac919780772",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "learningapps-registry.json",
+    "bytes": 11095,
+    "sha256": "66d73055841715d6740b4c03e122946ffb2510b7ff4f5960e6561a4bb0cae008",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "lessons/01.html",
+    "bytes": 44636,
+    "sha256": "233c81cc45e6c02bbd41b3caf18b8076b4b5b0791b8eadbb7f41c8ed54747d87",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "lessons/02.html",
+    "bytes": 12837,
+    "sha256": "a42c84c82a61caad954a151e0402fe9f214c4deb098588acbf32808e0567b12b",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "lessons/03.html",
+    "bytes": 19047,
+    "sha256": "be8b54d5231bc15fd7e75b0a524983cb7bbce9b2d530bc47559ab5f6ded3f5df",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "lessons/04.html",
+    "bytes": 7301,
+    "sha256": "6cba9cc8cace59b16190e6d13eedf3fb085df7e94df907b8b22cdec852e993f9",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "lessons/05.html",
+    "bytes": 13114,
+    "sha256": "c9d04151509b0db307888669fa0ab70b813c353ea4bbfa77bc2442ec90f21183",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "make_manifest.py",
+    "bytes": 1853,
+    "sha256": "5e8dd7368eb70583f73b4ce8de273a8dabc0ae63d389ba52657c8c38dffe3cd7",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "modules/01.html",
+    "bytes": 3078,
+    "sha256": "0617aa107daebf890223a70d9819dc7c7d7e57a5aec92d3a630f6f65033a7d0b",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "normative-check.json",
+    "bytes": 1110,
+    "sha256": "4834ea470fad5e2061d19855507ab22f56e99ed2643bb67165ea2aa010daf2f6",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "online-only.json",
+    "bytes": 6327,
+    "sha256": "24e1430db2c2c441f608a244f7900863b7a5486ef5ea1615837198ac606d3b07",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "README.md",
+    "bytes": 5612,
+    "sha256": "b9f03785d5af87aa82d8211fc68ae6e109239774fc3d97f8c61dfcbb94b0d99e",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "sanitize_snapshots.py",
+    "bytes": 1682,
+    "sha256": "cfd89d567730b5859df3615c78dfff0afed6d6e2f4ec3734e5b3dd9f8b90de33",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "snapshot-sanitization.json",
+    "bytes": 591,
+    "sha256": "6727a2d39266c68280ffa09570e962fbbba9ab6a25445eb9a308fd85e57b2f20",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "source-map.json",
+    "bytes": 3678,
+    "sha256": "f5b431afcbe023a81f737c6a386535f6ffe29b566569f6d710758ff63d7cb0a1",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "source_external/genially/6826e8f71ddc86fffb967db0/page-01.png",
+    "bytes": 63162,
+    "sha256": "b978b5c5eaa9946f182312f4397ad8f24ac06944bb7c4ff79f23701169f3b4ed",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826e8f71ddc86fffb967db0"
+  },
+  {
+    "path": "source_external/genially/6826e8f71ddc86fffb967db0/page-02.png",
+    "bytes": 22459,
+    "sha256": "59d74adc98fa0990673f4077d4c49fdc962081b7395097570f24699306db3ac8",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826e8f71ddc86fffb967db0"
+  },
+  {
+    "path": "source_external/genially/6826ea5df8fc1d981ac27a88/page-01.png",
+    "bytes": 53349,
+    "sha256": "e29a351cdf226de6791221e08161a6beda0747a1031996d09287163796d8555e",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826ea5df8fc1d981ac27a88"
+  },
+  {
+    "path": "source_external/genially/6826ea5df8fc1d981ac27a88/page-02.png",
+    "bytes": 26741,
+    "sha256": "99c2f2b29bd767dd77fdfac5022613347d47bf6f03ad1dcef5ec471cee01d0ab",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826ea5df8fc1d981ac27a88"
+  },
+  {
+    "path": "source_external/genially/6826eafddcd6eef7bb806b57/page-01.png",
+    "bytes": 70752,
+    "sha256": "5731a93f16a82f943b952160b800b4ce104b728561eced3068221605f6534895",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826eafddcd6eef7bb806b57"
+  },
+  {
+    "path": "source_external/genially/6826eafddcd6eef7bb806b57/page-02.png",
+    "bytes": 21753,
+    "sha256": "3fa58ca9d46e30c5c8a92e98d3143dce3e6f9ff1bdaa74f6d5ea36b2b9db696f",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826eafddcd6eef7bb806b57"
+  },
+  {
+    "path": "source_external/genially/6826ebce73911f9e7538245a/page-01.png",
+    "bytes": 62848,
+    "sha256": "2172be9340c5f55c5834f3e7460900e8b57ff6bafd3a0d9ef7cca0165cb34248",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826ebce73911f9e7538245a"
+  },
+  {
+    "path": "source_external/genially/6826ebce73911f9e7538245a/page-02.png",
+    "bytes": 27930,
+    "sha256": "e337d9652a8f3f6b2279ce697a8feb498d4732b452dfc1803cf5bd961830089e",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826ebce73911f9e7538245a"
+  },
+  {
+    "path": "source_external/genially/6826ee0e272ea72428180bab/page-01.png",
+    "bytes": 59918,
+    "sha256": "29166418fcd7c3b234b69097895e4a8a660fb63470f9368632200e0504fbc93a",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826ee0e272ea72428180bab"
+  },
+  {
+    "path": "source_external/genially/6826ee0e272ea72428180bab/page-02.png",
+    "bytes": 27933,
+    "sha256": "7033e461893f0b58dab3ed83959e2afe998cc95dc89c5709b85759d1f4e4b04b",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826ee0e272ea72428180bab"
+  },
+  {
+    "path": "source_external/genially/6826f3382a74c60175c3d4a4/page-01.png",
+    "bytes": 53941,
+    "sha256": "31e97f78731db1e873b00571912d2ccd43c0dab861fb95950687d88a5f313712",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826f3382a74c60175c3d4a4"
+  },
+  {
+    "path": "source_external/genially/6826f3382a74c60175c3d4a4/page-02.png",
+    "bytes": 21860,
+    "sha256": "63ed80e6ef9bbde766a1ce15008cdd9b85ce9cfcb3ce2b6ae2fded9d766ae706",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826f3382a74c60175c3d4a4"
+  },
+  {
+    "path": "source_external/genially/6826f3e373911f9e753f4788/page-01.png",
+    "bytes": 53131,
+    "sha256": "5d9da70860fced9d2faf0d88032daedefa831c74d04cf7d1fc1e0e8870764b4e",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826f3e373911f9e753f4788"
+  },
+  {
+    "path": "source_external/genially/6826f3e373911f9e753f4788/page-02.png",
+    "bytes": 25597,
+    "sha256": "2296e7c3d0373a4d0e65b2f4fdd78aa50574bd9fe7ed00fb25150aa7a8845e4b",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826f3e373911f9e753f4788"
+  },
+  {
+    "path": "source_external/genially/6826f5dadd9f1153c29c2d9f/page-01.png",
+    "bytes": 63376,
+    "sha256": "8d660dcd6e98847211c142930024e710630b11d6a52f032031ae56afbae0c8b6",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826f5dadd9f1153c29c2d9f"
+  },
+  {
+    "path": "source_external/genially/6826f5dadd9f1153c29c2d9f/page-02.png",
+    "bytes": 18271,
+    "sha256": "cb7df93c159dd59741bdbcb2d79e2d1907c2012fbd0bfc2bd83fe6fadaca2c44",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826f5dadd9f1153c29c2d9f"
+  },
+  {
+    "path": "source_external/genially/6826f6e12a74c60175c7b860/page-01.png",
+    "bytes": 58902,
+    "sha256": "a2befa30c815f43dfe5d91220961bc89066362fb147fb49189683bbff2b03d7f",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826f6e12a74c60175c7b860"
+  },
+  {
+    "path": "source_external/genially/6826f6e12a74c60175c7b860/page-02.png",
+    "bytes": 31193,
+    "sha256": "86ff7b172c0db86721d79ec9f213ea9b5630cc877528c76a919bb990e883d564",
+    "origin": "created_static_capture_of_external_visual",
+    "source_url": "https://view.genially.com/6826f6e12a74c60175c7b860"
+  },
+  {
+    "path": "source_external/learningapps/p11h5z46225/data.js",
+    "bytes": 87818,
+    "sha256": "aaca19c50ecec9a024596e6657bd8f1476cc1f6c64f6f709aa1819c5e37101ff",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=p11h5z46225&version=9"
+  },
+  {
+    "path": "source_external/learningapps/p2ztyntwk25/data.js",
+    "bytes": 88122,
+    "sha256": "f7df836773668c45d5db29d75f3ab22b3d82aadd8d7a6dfe6268c18543a8686f",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=p2ztyntwk25&version=9"
+  },
+  {
+    "path": "source_external/learningapps/p868ig55c25/data.js",
+    "bytes": 88199,
+    "sha256": "3c64f71ba61c3560262e7a84ff10aedef26ab9184b48009b5e239db06ac5bdfb",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=p868ig55c25&version=9"
+  },
+  {
+    "path": "source_external/learningapps/p9q44qngt25/data.js",
+    "bytes": 88178,
+    "sha256": "10e4feb2a0e1f7ea9076b77134c8e0c6ec2c6ea5dd60406911211f88832b802a",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=p9q44qngt25&version=9"
+  },
+  {
+    "path": "source_external/learningapps/p9vw5wyjn25/data.js",
+    "bytes": 88191,
+    "sha256": "f1ecbd411803685f456adec8c51490f43245965c61f8580dca836e965102046c",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=p9vw5wyjn25&version=9"
+  },
+  {
+    "path": "source_external/learningapps/pa5oat6pc25/data.js",
+    "bytes": 88199,
+    "sha256": "d20cba6843b85582a35629a3c49970a9d2529287f6478ca734a7e5c937f432fc",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=pa5oat6pc25&version=9"
+  },
+  {
+    "path": "source_external/learningapps/pba9a267k25/data.js",
+    "bytes": 88134,
+    "sha256": "84cbc0123b4e3ba847841b37cfd75ddf51ad40910044d1f9d42cdfd74dde7ae0",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=pba9a267k25&version=9"
+  },
+  {
+    "path": "source_external/learningapps/pc098it1j25/data.js",
+    "bytes": 56647,
+    "sha256": "637345674fe0e46dbe1fafff70ec7688af049770e2b59d60184b03a45eb2b4ce",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=pc098it1j25&version=21"
+  },
+  {
+    "path": "source_external/learningapps/pc098it1j25/images/01.png",
+    "bytes": 10632,
+    "sha256": "9436a819f05f2ef36c2a7952dce9405786d518214d61322e98ade0a9d26c5278",
+    "origin": "source_exercise_image",
+    "source_url": null
+  },
+  {
+    "path": "source_external/learningapps/pwygtrwv325/data.js",
+    "bytes": 88170,
+    "sha256": "d61543a34e642a5b23f1244efef1a1c2c2e491734fdf99085ad125a407dc52b6",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=pwygtrwv325&version=9"
+  },
+  {
+    "path": "source_external/learningapps/pyhie5r3c25/data.js",
+    "bytes": 87904,
+    "sha256": "5c49d7f0efebce122d051a16675feae669b30ee8b8a0bb0bc248ba735d185485",
+    "origin": "source_exercise_data",
+    "source_url": "https://learningapps.org/data?jsonp=1&id=pyhie5r3c25&version=9"
+  },
+  {
+    "path": "source_pages/lesson-01.json",
+    "bytes": 41789,
+    "sha256": "8d0e0e4a490859e941103fc7a79a5bdf5ca79bd259914111a8ed738854513a1a",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "source_pages/lesson-02.json",
+    "bytes": 24658,
+    "sha256": "4f28f350f1220ac521dc47ffde43511b7449b41988227b1d02eb9b7b1916bc27",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "source_pages/lesson-03.json",
+    "bytes": 38622,
+    "sha256": "33fe4c29daae5147b4e917947f5669456fffa336812039814698b198aa2a1167",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "source_pages/lesson-04.json",
+    "bytes": 14462,
+    "sha256": "991136646be7a09f323bab3409875992a0756669b4e86cb85e04af1b9e074490",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "source_pages/lesson-05.json",
+    "bytes": 19592,
+    "sha256": "c16170433c395625574c891ebba3d6857658125a7676ec8e634ba11bac726025",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "source_pages/overview.json",
+    "bytes": 18573,
+    "sha256": "7da5baa13649f97e854e7e5cdb0d35f50c6d30d161fccfcff4b8087579f081c7",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "source_pages/teacher-5437.json",
+    "bytes": 26989,
+    "sha256": "6d06379e8fb27eace6ad448cc13359cf8c6b2fab24a2830e8be4162e50e0bcb0",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "source_pages/test-selfcheck-intro.json",
+    "bytes": 11563,
+    "sha256": "36563d514b7cc9e63bf22f537730351c0e1ec1dfe464bd99ae953f6ccdb73af3",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "source_pages/test-topic-intro.json",
+    "bytes": 11645,
+    "sha256": "5ce578a1e01746c01c4b2dd3f6a266987218c20418f87b3a942c40099f9e6ea2",
+    "origin": "authenticated_browser_lesson_snapshot",
+    "source_url": null
+  },
+  {
+    "path": "tests/index.html",
+    "bytes": 3224,
+    "sha256": "7df8054cbcb276affa0802e87c69ab659f125aa3be93a795d7fc0fbc6cd88c9a",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "verification-report.json",
+    "bytes": 1150,
+    "sha256": "432211dbb1cdb60a89d23d4d002e7760977321f03f70caef13c2b4c1342c578d",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "verify.py",
+    "bytes": 4803,
+    "sha256": "3481b4b3eacce0db6bc28da4e187a11bd2d4d10001e9485476a8fe2b85268efd",
+    "origin": "generated_archive_file",
+    "source_url": null
+  },
+  {
+    "path": "visual-qa.json",
+    "bytes": 965,
+    "sha256": "477671adefd4103694062a9b1b45c25e8b008dabfc1edb3e326fd9aab2805bf5",
+    "origin": "generated_archive_file",
+    "source_url": null
+  }
+]

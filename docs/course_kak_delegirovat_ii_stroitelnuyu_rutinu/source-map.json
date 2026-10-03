@@ -1,0 +1,96 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/233701",
+  "title": "Как делегировать ИИ строительную рутину",
+  "source_snapshots": [
+    "source_pages/overview.json",
+    "source_pages/test-intro.json",
+    "source_pages/teacher-6098.json",
+    "source_pages/teacher-6083.json"
+  ],
+  "topics": [
+    {
+      "position": 1,
+      "title": "Учимся применять ИИ в повседневной работе",
+      "source_url": "https://school.a-sstroy.ru/programs/233701",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Учимся применять ИИ в повседневной работе",
+          "source_url": "https://school.a-sstroy.ru/programs/233701/2b809ffb-adbe-4437-9f52-a4b070ce937e/34de6ee4-9c67-4144-87cb-978e1eae8905",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Старт: готовим инструмент",
+              "source_url": "https://school.a-sstroy.ru/programs/233701/2b809ffb-adbe-4437-9f52-a4b070ce937e/34de6ee4-9c67-4144-87cb-978e1eae8905",
+              "local": "lessons/01.html",
+              "snapshot": "source_pages/lesson-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Знакомство с ИИ под строительные задачи",
+              "source_url": "https://school.a-sstroy.ru/programs/233701/2b809ffb-adbe-4437-9f52-a4b070ce937e/91d9e509-3a40-4f46-bd19-254f528aecc0",
+              "local": "lessons/02.html",
+              "snapshot": "source_pages/lesson-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Где ИИ врет и как проверять",
+              "source_url": "https://school.a-sstroy.ru/programs/233701/2b809ffb-adbe-4437-9f52-a4b070ce937e/7f906d39-a8ce-41e5-964b-fc67451723dd",
+              "local": "lessons/03.html",
+              "snapshot": "source_pages/lesson-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Когда ИИ отказывает или ошибается",
+              "source_url": "https://school.a-sstroy.ru/programs/233701/2b809ffb-adbe-4437-9f52-a4b070ce937e/79851270-c2eb-47c8-8699-0b1ede35c6a8",
+              "local": "lessons/04.html",
+              "snapshot": "source_pages/lesson-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Пять кирпичей промпта",
+              "source_url": "https://school.a-sstroy.ru/programs/233701/2b809ffb-adbe-4437-9f52-a4b070ce937e/896e224d-efd2-4c89-902e-ffe440ff1e09",
+              "local": "lessons/05.html",
+              "snapshot": "source_pages/lesson-05.json"
+            },
+            {
+              "position": 6,
+              "title": "PDF и сканы: как распознать и извлечь главное",
+              "source_url": "https://school.a-sstroy.ru/programs/233701/2b809ffb-adbe-4437-9f52-a4b070ce937e/2ea769cb-8e90-4418-8810-cb05d2a117d0",
+              "local": "lessons/06.html",
+              "snapshot": "source_pages/lesson-06.json"
+            },
+            {
+              "position": 7,
+              "title": "Фото и видео с объекта",
+              "source_url": "https://school.a-sstroy.ru/programs/233701/2b809ffb-adbe-4437-9f52-a4b070ce937e/52ed392e-9f53-4c4b-826f-4567ce216c40",
+              "local": "lessons/07.html",
+              "snapshot": "source_pages/lesson-07.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест для самопроверки",
+      "source_url": "https://school.a-sstroy.ru/tests/233701/22024235/start",
+      "local": "tests/index.html",
+      "questions_status": "not_captured_attempt_start_blocked"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Евгений Эрман",
+      "source_url": "https://school.a-sstroy.ru/teacher/6098",
+      "snapshot": "source_pages/teacher-6098.json"
+    },
+    {
+      "name": "Тимофей Лютомский",
+      "source_url": "https://school.a-sstroy.ru/teacher/6083",
+      "snapshot": "source_pages/teacher-6083.json"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Интерактив 2. Мини-квиз</title>
+<style>
+  :root{--bg:#ffffff;--card:#faf8f5;--ink:#1a1814;--muted:#6f7280;--line:#e9e4dc;--brand:#e2231a;--blue:#237cf9;--green:#1f9d57;--font:'Proxima Nova','Helvetica Neue','Segoe UI',Arial,system-ui,sans-serif}
+  *,*:before,*:after{box-sizing:border-box}
+  html,body{overflow-x:hidden;margin:0}
+  body{background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.6;-webkit-font-smoothing:antialiased}
+  h2{font-size:21px;margin:2px 0 12px;font-weight:800;letter-spacing:-.01em}
+  p{margin:0 0 12px}.muted{color:var(--muted)}
+  .stp{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:800;margin:0 0 6px}
+  .note{font-size:13.5px;color:#7a5b16;background:#fdf6e3;border:1px solid #f3e3b3;border-radius:12px;padding:12px 14px;margin-top:14px}
+  .note.green{color:#157a41;background:#eef8f1;border-color:#cdebd8}.note.red{color:#a3201a;background:#fdf0ef;border-color:#f3c7c3}
+  .quiz .qq{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:15px;font-weight:700;margin:0 0 12px}
+  .opts{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+  .opt{cursor:pointer;text-align:left;background:#fff;border:1.5px solid var(--line);border-radius:12px;padding:13px 15px;font-size:14px;font-family:inherit;color:var(--ink);transition:.15s}
+  .opt:hover{border-color:var(--ink)}
+  .opt.ok{border-color:var(--green);background:#eef8f1}
+  .opt.err{border-color:var(--brand);background:#fdf0ef}
+  .opt:disabled{cursor:default;opacity:.85}
+</style>
+</head>
+<body>
+<div style="max-width:900px;margin:0 auto;padding:16px">
+
+  <p class="stp">4 · Проверь себя</p>
+  <h2>Мини-квиз</h2>
+  <p class="muted">Два вопроса по материалу урока — кликните вариант, получите мгновенную обратную связь.</p>
+
+  <div class="quiz" data-quiz>
+    <p class="qq">1. ИИ берёт ответ про марку бетона из базы данных сводов правил (СП)?</p>
+    <div class="opts">
+      <button class="opt" data-correct data-fb="Именно так: ИИ не хранит и не ищет факт в базе СП. Он предсказывает наиболее вероятное продолжение фразы на основе обучения — и это продолжение может как совпасть с нормативом, так и разойтись с ним.">Нет — он предсказывает вероятное продолжение текста, а не ищет факт в базе</button>
+      <button class="opt" data-fb="Ловушка: если бы ИИ был базой данных, он не мог бы «уверенно ошибаться» — а он может, и в тренажёре выше вы сами выбирали слова по вероятности, а не искали их в справочнике.">Да — внутри модели есть база СП, откуда она берёт точные цифры</button>
+    </div>
+    <div class="qfb"></div>
+  </div>
+
+  <div class="quiz" data-quiz style="margin-top:18px">
+    <p class="qq">2. Почему ИИ иногда уверенно ошибается — вместо того чтобы сказать «не знаю»?</p>
+    <div class="opts">
+      <button class="opt" data-fb="Не совсем: скорость тут ни при чём — дело не в спешке, а в самом устройстве модели. Она не проверяет факт, она предсказывает следующее вероятное слово, и додуманное слово ничем не «звучит» иначе, чем реальное.">Потому что она торопится и не успевает всё проверить</button>
+      <button class="opt" data-correct data-fb="Верно: модель не отличает «додуманное» от «проверенного» — она просто продолжает текст самым вероятным образом. Уверенный тон — это стиль текста, а не признак достоверности факта. Поэтому проверка фактов остаётся на вас.">Потому что она предсказывает вероятное продолжение, а не проверяет факт — додуманное и реальное звучат для неё одинаково уверенно</button>
+      <button class="opt" data-fb="Ловушка: дело не в «плохом» обучении, а в самой природе языковой модели — она устроена как машина продолжения текста, и это относится к любой такой модели, включая самые новые.">Потому что модель обучена на плохих данных и её пока не доработали</button>
+    </div>
+    <div class="qfb"></div>
+  </div>
+
+</div>
+<script>
+(function(){
+  document.querySelectorAll('[data-quiz]').forEach(function(q){
+    var fb=q.querySelector('.qfb');
+    q.querySelectorAll('.opt').forEach(function(btn){
+      btn.addEventListener('click',function(){
+        var ok=btn.hasAttribute('data-correct');
+        q.querySelectorAll('.opt').forEach(function(b){
+          b.disabled=true;
+          if(b.hasAttribute('data-correct'))b.classList.add('ok');
+        });
+        if(!ok)btn.classList.add('err');
+        fb.innerHTML='<div class="note '+(ok?'green':'red')+'">'+(ok?'✅ <b>Верно.</b> ':'❌ <b>Не совсем.</b> ')+(btn.dataset.fb||'')+'</div>';
+      });
+    });
+  });
+})();
+</script>
+</body>
+</html>

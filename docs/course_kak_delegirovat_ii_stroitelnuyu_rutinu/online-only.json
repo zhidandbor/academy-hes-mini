@@ -1,0 +1,47 @@
+[
+  {
+    "kind": "test_questions_and_scoring",
+    "url": "https://school.a-sstroy.ru/tests/233701/22024235/start",
+    "reason": "starting a recorded attempt was blocked; questions and scoring remain on source platform"
+  },
+  {
+    "kind": "external_ai_chat",
+    "url": "https://giga.chat/",
+    "reason": "live service requires network and its own access"
+  },
+  {
+    "kind": "external_ai_chat",
+    "url": "https://alice.yandex.ru/",
+    "reason": "live service requires network and its own access"
+  },
+  {
+    "kind": "platform_account",
+    "url": "https://school.a-sstroy.ru/programs/233701",
+    "reason": "platform records course progress and results online"
+  },
+  {
+    "kind": "embedded_dependency_unavailable",
+    "url": "https://school.a-sstroy.ru/interactive/common/css/memo/graph.png",
+    "reason": "source request not saved; see acquisition.json"
+  },
+  {
+    "kind": "embedded_dependency_unavailable",
+    "url": "https://school.a-sstroy.ru/interactive/common/css/svg/pen.svg",
+    "reason": "source request not saved; see acquisition.json"
+  },
+  {
+    "kind": "embedded_dependency_unavailable",
+    "url": "https://school.a-sstroy.ru/interactive/common/images/memo/logos/action.svg",
+    "reason": "source request not saved; see acquisition.json"
+  },
+  {
+    "kind": "embedded_dependency_unavailable",
+    "url": "https://school.a-sstroy.ru/interactive/custom/style.css",
+    "reason": "source request not saved; see acquisition.json"
+  },
+  {
+    "kind": "embedded_dependency_unavailable",
+    "url": "https://school.a-sstroy.ru/interactive/doc/15d3feaf-92d6-4853-87cc-d4000e617113/img/logos/stroy.svg",
+    "reason": "source request not saved; see acquisition.json"
+  }
+]

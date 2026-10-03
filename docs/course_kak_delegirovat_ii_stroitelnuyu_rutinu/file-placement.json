@@ -1,0 +1,326 @@
+[
+  {
+    "lesson": 1,
+    "local": "assets/images/source-01.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_176b85c2a0df425894c4cc029044a234_20260720T114247.png"
+  },
+  {
+    "lesson": 1,
+    "local": "assets/images/source-02.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_25785b193a48454a8366fbaa3fe18559_20260720T111401.png"
+  },
+  {
+    "lesson": 1,
+    "local": "assets/images/source-03.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=27278852-43e1-4b6b-ba47-249c2c788fda"
+  },
+  {
+    "lesson": 1,
+    "local": "assets/images/source-04.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=95040798-8d5e-42c5-8529-ca13c7d21766"
+  },
+  {
+    "lesson": 1,
+    "local": "assets/images/source-05.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=1720b732-6c7c-49ee-9770-70f5e2540e88"
+  },
+  {
+    "lesson": 1,
+    "local": "embeds/embed-01/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv-1-1_livechat-gate.html"
+  },
+  {
+    "lesson": 1,
+    "local": "embeds/embed-02/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv%201-2_selfcheck-progress.html"
+  },
+  {
+    "lesson": 2,
+    "local": "assets/images/source-01.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_176b85c2a0df425894c4cc029044a234_20260720T114247.png"
+  },
+  {
+    "lesson": 2,
+    "local": "assets/images/source-02.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_25785b193a48454a8366fbaa3fe18559_20260720T111401.png"
+  },
+  {
+    "lesson": 2,
+    "local": "assets/images/source-06.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=b158dd5a-f418-4617-a45a-9d587450a222"
+  },
+  {
+    "lesson": 2,
+    "local": "embeds/embed-03/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv2-1_next-token-trainer.html"
+  },
+  {
+    "lesson": 2,
+    "local": "embeds/embed-04/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv2-2_quiz.html"
+  },
+  {
+    "lesson": 2,
+    "local": "embeds/embed-05/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv2-3_livechat-practice.html"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/source-01.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_176b85c2a0df425894c4cc029044a234_20260720T114247.png"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/source-02.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_25785b193a48454a8366fbaa3fe18559_20260720T111401.png"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/embed-06/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv2-2-1_najdi-vydumku.html"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/embed-07/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/15d3feaf-92d6-4853-87cc-d4000e617113/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/embed-08/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv2-2-2_livechat-selfcheck-practice.html"
+  },
+  {
+    "lesson": 4,
+    "local": "assets/images/source-01.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_176b85c2a0df425894c4cc029044a234_20260720T114247.png"
+  },
+  {
+    "lesson": 4,
+    "local": "assets/images/source-02.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_25785b193a48454a8366fbaa3fe18559_20260720T111401.png"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/embed-09/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv6-1_scenarios.html"
+  },
+  {
+    "lesson": 4,
+    "local": "assets/images/source-07.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=41a815d2-c14e-4061-bba2-5bd3e23f9aa5"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/embed-10/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv6-2_livechat-selfcheck-practice.html"
+  },
+  {
+    "lesson": 5,
+    "local": "assets/images/source-01.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_176b85c2a0df425894c4cc029044a234_20260720T114247.png"
+  },
+  {
+    "lesson": 5,
+    "local": "assets/images/source-02.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_25785b193a48454a8366fbaa3fe18559_20260720T111401.png"
+  },
+  {
+    "lesson": 5,
+    "local": "assets/images/source-08.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=92f0aa3c-d62a-4b22-b5e9-7e44180e0d88"
+  },
+  {
+    "lesson": 5,
+    "local": "assets/images/source-09.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=b4f672aa-62fe-46ad-9edf-d8349a44c5ce"
+  },
+  {
+    "lesson": 5,
+    "local": "assets/images/source-10.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=faad25c4-05e8-4da4-99f0-d081745d8843"
+  },
+  {
+    "lesson": 5,
+    "local": "assets/images/source-11.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=a14e3713-19ec-4e68-9e43-682c9868a426"
+  },
+  {
+    "lesson": 5,
+    "local": "embeds/embed-11/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv8-1_brick-builder.html"
+  },
+  {
+    "lesson": 5,
+    "local": "embeds/embed-12/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv8-2_livechat-selfcheck-practice.html"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/source-01.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_176b85c2a0df425894c4cc029044a234_20260720T114247.png"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/source-02.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_25785b193a48454a8366fbaa3fe18559_20260720T111401.png"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/source-12.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=8ef619bf-4d5f-44e1-99bf-8f05f9cda8ff"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/source-13.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=1dd1a35a-ab87-47ce-87ce-03177379c862"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/source-14.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=79a54686-1a37-4206-b2d8-b5141125dff7"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/source-15.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=d6fb6514-3aea-47f4-9cef-b7f49b936d4c"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/source-16.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=b9f282df-6a60-421a-816f-6678e27905d7"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/source-17.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=1ddcb425-1638-4a0b-8cbb-6137aeab531d"
+  },
+  {
+    "lesson": 6,
+    "local": "embeds/embed-13/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv17-1_livechat-gate.html"
+  },
+  {
+    "lesson": 6,
+    "local": "embeds/embed-14/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv17-2_selfcheck-progress.html"
+  },
+  {
+    "lesson": 6,
+    "local": "embeds/embed-15/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv17-3_curator-download.html"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/source-01.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_176b85c2a0df425894c4cc029044a234_20260720T114247.png"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/source-02.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_25785b193a48454a8366fbaa3fe18559_20260720T111401.png"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/source-18.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=71784367-f434-41d9-be2d-0497e209c19a"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/source-19.jpg",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=61dd674d-6124-41c5-9511-1f4d669b6fb3"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/source-20.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=72acac5f-8364-4082-bdc2-de98eceb734c"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/source-21.jpg",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=9b124e80-95ae-48e5-9ee7-ce443c81780f"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/source-22.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=2a8a8320-e1ca-439f-aa29-e570ce71517a"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/source-23.png",
+    "role": "изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=c477cb51-1867-4613-8a09-b1cd368d36bb"
+  },
+  {
+    "lesson": 7,
+    "local": "embeds/embed-16/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv19-1_caption-builder.html"
+  },
+  {
+    "lesson": 7,
+    "local": "embeds/embed-17/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv19-21_livechat-gate.html"
+  },
+  {
+    "lesson": 7,
+    "local": "embeds/embed-18/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv19-3_selfcheck-progress.html"
+  },
+  {
+    "lesson": 7,
+    "local": "embeds/embed-19/index.html",
+    "role": "локально сохранённая встроенная HTML-страница",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/interaktiv19-4_curator-download.html"
+  }
+]

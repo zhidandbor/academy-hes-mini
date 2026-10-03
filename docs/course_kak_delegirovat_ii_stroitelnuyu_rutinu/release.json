@@ -1,0 +1,24 @@
+{
+  "course": "course_kak_delegirovat_ii_stroitelnuyu_rutinu",
+  "title": "Как делегировать ИИ строительную рутину",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_kak_delegirovat_ii_stroitelnuyu_rutinu",
+  "entry": "index.html",
+  "files": 142,
+  "bytes": 10687402,
+  "embedded_link_warnings": [
+    "embeds\\embed-05\\index.html: missing blob",
+    "embeds\\embed-05\\index.html: missing url",
+    "embeds\\embed-08\\index.html: missing blob",
+    "embeds\\embed-08\\index.html: missing url",
+    "embeds\\embed-10\\index.html: missing blob",
+    "embeds\\embed-10\\index.html: missing url",
+    "embeds\\embed-12\\index.html: missing blob",
+    "embeds\\embed-12\\index.html: missing url",
+    "embeds\\embed-15\\index.html: missing blob",
+    "embeds\\embed-15\\index.html: missing url",
+    "embeds\\embed-19\\index.html: missing blob",
+    "embeds\\embed-19\\index.html: missing url"
+  ]
+}

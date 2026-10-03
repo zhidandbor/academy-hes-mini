@@ -1,6 +1,6 @@
 # Миникурсы Высшей инженерной школы
 
-[Открыть каталог миникурсов](https://zhidandbor.github.io/academy-hes-mini/) · [Главная библиотека Academy](https://zhidandbor.github.io/academy/) · [Основные курсы HES](https://zhidandbor.github.io/academy-hes/)
+[Открыть каталог миникурсов](https://zhidandbor.github.io/academy-hes-mini/) · [Главная библиотека Academy](https://zhidandbor.github.io/academy/) · [Основной репозиторий Academy](https://github.com/zhidandbor/academy) · [Основные курсы HES](https://zhidandbor.github.io/academy-hes/)
 
 Этот репозиторий содержит публичные статические выпуски двух миникурсов, собранных в проекте HES:
 

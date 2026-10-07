@@ -1,0 +1,65 @@
+[
+  {
+    "local_path": "attachments/files/01-secrety-velikih.pdf",
+    "source_url": "https://school.a-sstroy.ru/webcontent/courses/e336765efd5b4c23a79e0b76a5351826/Secrety_velikih_20181106T152110.pdf",
+    "role": "исходный PDF",
+    "size": 630417,
+    "sha256": "d48641b828cba4feb9c6c31bfb2d54875a0395765461f1a665cd62848e6cafdf"
+  },
+  {
+    "local_path": "attachments/files/02-ted-talks.pdf",
+    "source_url": "https://school.a-sstroy.ru/webcontent/courses/e336765efd5b4c23a79e0b76a5351826/TED%20Talks_20181106T152110.pdf",
+    "role": "исходный PDF",
+    "size": 501166,
+    "sha256": "bdccb122999236c9a99f4b0cdc117fd3bbabfc3b7a16c157eb1986183f3f1504"
+  },
+  {
+    "local_path": "attachments/files/03-yazyk-telodvizheniy.pdf",
+    "source_url": "https://school.a-sstroy.ru/webcontent/courses/c16b418dab7944d2a0755917fa92b19b/Yazyk%20telodvijeniy_20181112T151017.pdf",
+    "role": "исходный PDF",
+    "size": 6727400,
+    "sha256": "c3f176679d7bf77e17d5903611010e685c6c3cd4a4f0a7bfc8fedc050d6a5b22"
+  },
+  {
+    "local_path": "attachments/files/04-psihologiya-lzhi.pdf",
+    "source_url": "https://school.a-sstroy.ru/webcontent/courses/c16b418dab7944d2a0755917fa92b19b/Psihologiya%20lgi_20181112T151017.pdf",
+    "role": "исходный PDF",
+    "size": 6602870,
+    "sha256": "a2c4bc05e7a717b3f97b9e065277274edc0ff5f0cfd90fd22fc4a505efc99e42"
+  },
+  {
+    "local_path": "attachments/files/05-metodiki-spetssluzhb.pdf",
+    "source_url": "https://school.a-sstroy.ru/webcontent/courses/c16b418dab7944d2a0755917fa92b19b/Metodiki%20specsluzhb_20181112T151018.pdf",
+    "role": "исходный PDF",
+    "size": 6594681,
+    "sha256": "bd5e1f6db65dae3cbfe8b6cc2c3d2ca20617c9c8150292afd9021477f4eeaf47"
+  },
+  {
+    "local_path": "assets/images/authors/andrey-nyanchuk.png",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_1fc8335c196c44e79f2bb6d21942ffdb_20260904T105059.png",
+    "role": "исходное фото автора",
+    "size": 429368,
+    "sha256": "3f9efa21cea8b049c16e38b88360bdae680f6049c1d367bb49f380338be2065f"
+  },
+  {
+    "local_path": "assets/images/authors/ilya-stepanov.png",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_083fcf08151549339b001c1eecfa3225_20260907T164441.png",
+    "role": "исходное фото автора",
+    "size": 664999,
+    "sha256": "d4234db449e64296756c189ecaf893de1ffe9ea072178758ad019fc43ba7abff"
+  },
+  {
+    "local_path": "assets/images/authors/darya-varlamova.png",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_28bd0f92fa724be59b39cd64c1d04239_20230321T144454.png",
+    "role": "исходное фото автора",
+    "size": 113393,
+    "sha256": "397cb6d57a69876b63fe75925e195e477f71f07947b34bc2b6aebe91ec0e430f"
+  },
+  {
+    "local_path": "assets/images/authors/aleksandra-vilvovskaya.png",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_db2dcd41045443e7ab41d8fbea4fec86_20230321T121842.png",
+    "role": "исходное фото автора",
+    "size": 636855,
+    "sha256": "473f5dc0c54b5490fd491059af952144fd8ffc49c59aa6d95df92df162227f16"
+  }
+]

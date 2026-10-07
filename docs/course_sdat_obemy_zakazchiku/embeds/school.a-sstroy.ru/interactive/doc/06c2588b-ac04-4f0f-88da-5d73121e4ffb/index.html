@@ -1,0 +1,73 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '06c2588b-ac04-4f0f-88da-5d73121e4ffb';
+    window.docName = 'ИНТ';
+    window.locale = 'ru';
+    window.id = '2949';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":{"title":"Как ответить на обоснованные замечания. Часть2","text":""},"cardList":[{"media":{"type":"image","image":{"src":"/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/images/1.png"},"audio":null,"videos":[]},"question":"Что ответить по п.1?","answerList":[{"checked":false,"text":"Откорректировано"},{"checked":false,"text":"Замечание устранено"},{"checked":true,"text":"Акты ГРО и РО приложены к ИД, л.6-10"}],"negativeComment":"","positiveComment":""},{"media":{"type":"image","image":{"src":"/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/images/3.png"},"audio":null,"videos":[]},"question":"Что ответить по п.4?","answerList":[{"checked":false,"text":"ИС откорректированы"},{"checked":false,"text":"Замечание устранено"},{"checked":false,"text":"Штампы ИС исправлены в соответствии с ГОСТ Р 51872-2024"},{"checked":true,"text":"Штампы ИС исправлены в соответствии с ГОСТ Р 51872-2024, фактические размеры и высотные отметки нанесены на ИС"}],"negativeComment":"","positiveComment":""},{"media":{"type":"image","image":{"src":"/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/images/5.png"},"audio":null,"videos":[]},"question":"Что ответить по п.7?","answerList":[{"checked":false,"text":"Замечание устранено"},{"checked":true,"text":"В п.6 перечислены нормативные документы, относящиеся к виду работ, предъявляемых в АОСР"},{"checked":false,"text":"П. 6 откорректирован на АОСР"}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+{
+  "course": "course_sp543_dlya_pto",
+  "title": "Как специалисту ПТО работать по СП 543.1325800.2024",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_sp543_dlya_pto",
+  "entry": "index.html",
+  "files": 230,
+  "bytes": 6690716,
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "60f4f1b95887345d225c89fe3f86c3fd69daa37695cd8bf822d08ad8f275ac1f",
+      "published_sha256": "8d25dc3f7eb42aa2738a2875c8f78aaa9b5140c0e77fce9c0478db3f18dcbeed"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "7f86e36a02eabf4037a3612c1c792f584ceef645e3047167aeb0c8776bfc8205",
+      "published_sha256": "3abd999f179979e14e8f1dfceba8f193f9b2aa95810b1ecbf2a318035ce9a280"
+    },
+    {
+      "path": "lessons/02.html",
+      "source_sha256": "be0fb099a492b422441f19c07c628d9d0a2acb86d813d00188dd5dc525f9cc56",
+      "published_sha256": "fa0c9884cf1c66439b52271339dd1dddb5d11dd685155e41443580d71200cf10"
+    },
+    {
+      "path": "lessons/03.html",
+      "source_sha256": "faa8fd79574f8dff2354523ceb151763c0814940de1a7c3fcb12f8d7f05c97c7",
+      "published_sha256": "9d9422260e1aa6b16850e7b0803e5fa7c50eef1d7a8cf6d6e6623fadaec6225b"
+    },
+    {
+      "path": "lessons/04.html",
+      "source_sha256": "7f3011f85c49d4bfc1b173c7f040cb9defd23aeea7ee31f9eee32b6590ca0da5",
+      "published_sha256": "78d5636e85c26245b2e5da6506dec4b2a4beb5c92e253acb5c4fc652789b9152"
+    }
+  ]
+}

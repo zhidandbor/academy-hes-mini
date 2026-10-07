@@ -1,0 +1,22 @@
+{
+  "course": "course_pravovaya_neopredelennost_sp48",
+  "title": "Правовая неопределённость: изменения в СП 48",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_pravovaya_neopredelennost_sp48",
+  "entry": "index.html",
+  "files": 108,
+  "bytes": 3593850,
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "f29290ad737f0df8964b130f8fe646f5cb31526576ce483edfdcacd15888f159",
+      "published_sha256": "543ae75685a27775e463df490d0bbdb24eed444c95fb62d5cf1dc59ed11dba9d"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "854fa264b370c7885fcf4998b9869efe97c988b149883e155ae924c82495356f",
+      "published_sha256": "5452c1fec950ce9071f2aa32b75c534c237fa63cf69de84560e5d2356011e192"
+    }
+  ]
+}

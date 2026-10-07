@@ -1,0 +1,98 @@
+[
+  {
+    "lesson": 1,
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png"
+  },
+  {
+    "lesson": 1,
+    "local_path": "assets/images/lessons/01.png",
+    "role": "исходная иллюстрация",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=bdc2ae91-9de3-4c72-b9c9-3f9b55857e79"
+  },
+  {
+    "lesson": 2,
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png"
+  },
+  {
+    "lesson": 2,
+    "local_path": "assets/images/lessons/02.png",
+    "role": "исходная иллюстрация",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=174fb279-6816-4f5a-b816-5a7589d38cca"
+  },
+  {
+    "lesson": 3,
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png"
+  },
+  {
+    "lesson": 4,
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png"
+  },
+  {
+    "lesson": 4,
+    "local_path": "assets/images/lessons/04.png",
+    "role": "исходная иллюстрация",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=5c78e707-60e2-4efc-b6ac-f8385cdd8470"
+  },
+  {
+    "lesson": 5,
+    "local_path": "assets/images/authors/irina-barzhak.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_a0759a8c277f44acbba7eca8a8f30d6a_20260907T164725.png"
+  },
+  {
+    "lesson": 6,
+    "local_path": "assets/images/authors/irina-barzhak.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_a0759a8c277f44acbba7eca8a8f30d6a_20260907T164725.png"
+  },
+  {
+    "lesson": 7,
+    "local_path": "assets/images/authors/dimitriy-chumak.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_24911e8b21e145179174d045f2912fd4_20260907T161149.png"
+  },
+  {
+    "lesson": 8,
+    "local_path": "assets/images/authors/aleksandra-vilvovskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_db2dcd41045443e7ab41d8fbea4fec86_20230321T121842.png"
+  },
+  {
+    "lesson": 9,
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png"
+  },
+  {
+    "lesson": 10,
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png"
+  },
+  {
+    "lesson": 11,
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png"
+  },
+  {
+    "lesson": 12,
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "role": "исходное фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png"
+  },
+  {
+    "lesson": 12,
+    "local_path": "assets/images/lessons/12.png",
+    "role": "исходная иллюстрация",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=3b3a3a3e-87b3-40d4-9e09-89700dc90093"
+  }
+]

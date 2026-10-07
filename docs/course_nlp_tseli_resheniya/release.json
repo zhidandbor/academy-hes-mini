@@ -1,0 +1,17 @@
+{
+  "course": "course_nlp_tseli_resheniya",
+  "title": "Техники НЛП: как ставить цели и принимать решения",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_nlp_tseli_resheniya",
+  "entry": "index.html",
+  "files": 21,
+  "bytes": 392314,
+  "rewritten_files": [
+    {
+      "path": "index.html",
+      "source_sha256": "ee93f3db271338eef17b2d92544706b61ba27e64d692f36c5724bd4fe1a54527",
+      "published_sha256": "2e18ad779c953254e9d8b405fde8c94cde377cdc724bb73edf50088545977f3a"
+    }
+  ]
+}

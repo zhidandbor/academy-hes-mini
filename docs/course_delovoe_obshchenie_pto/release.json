@@ -1,0 +1,17 @@
+{
+  "course": "course_delovoe_obshchenie_pto",
+  "title": "Как инженеру ПТО чувствовать себя легко и свободно в деловом общении",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_delovoe_obshchenie_pto",
+  "entry": "index.html",
+  "files": 32,
+  "bytes": 23285504,
+  "rewritten_files": [
+    {
+      "path": "index.html",
+      "source_sha256": "b814931f9ef2cf41007e1799ef809b2bc75b1fdee179185ad7d2e1f2c7b8f65d",
+      "published_sha256": "4a0836a9cc3df603eb5372b5ce7637f9cdef8e732699e9deca2e3f61d86240e5"
+    }
+  ]
+}

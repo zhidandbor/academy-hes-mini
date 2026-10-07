@@ -1,0 +1,33 @@
+{
+  "checked_on": "2026-10-03",
+  "scope": "Проверены карточки Росстандарта и даты; утверждения уроков о конкретных пунктах, обязанностях сторон, документах соответствия и применимости к договорам не подтверждены этой проверкой.",
+  "source_text_changed": false,
+  "official_sources": [
+    {
+      "document": "СП 48.13330.2019",
+      "url": "https://protect.gost.ru/sp/details/278f4ffa-b29b-4733-b8ac-d9a5ff3775cc",
+      "observed_status": "Действует",
+      "observation": "Карточка перечисляет изменения № 1 и № 2. Полная отмена СП 48 не подтверждается."
+    },
+    {
+      "document": "Изменение № 2 к СП 48.13330.2019",
+      "url": "https://protect.gost.ru/sp/changesdetails/a7603f31-681d-4100-9494-b6fce1fb661b",
+      "observed_status": "Введено 22.05.2025",
+      "observation": "Карточка указывает приказ Минстроя России № 244/пр от 21.04.2025."
+    },
+    {
+      "document": "СП 543.1325800.2024",
+      "url": "https://protect.gost.ru/sp/details/aa507b62-ae20-4a8b-9556-fac0b95a9f0e",
+      "observed_status": "Действует",
+      "observation": "Карточка указывает дату введения 28.01.2025."
+    }
+  ],
+  "claims_requiring_clause_review": [
+    {"lesson": 1, "source_pid": "5b7af0af-0680-4f5c-9a6a-c729c603233d", "topic": "исключение требований к ИД и стройконтролю из СП 48 и распределение обязанностей", "status": "REVIEW_REQUIRED"},
+    {"lesson": 1, "topic": "пункт 7.1.4 СП 543, ПП РФ № 2425, распоряжение № 3646-р и решение КТС № 299", "status": "REVIEW_REQUIRED"},
+    {"lesson": 2, "source_pid": "025bf969-4aae-4e3d-a02e-2ef82b2b8a03", "topic": "формы журналов и переход с приложений СП 48 на СП 543", "status": "REVIEW_REQUIRED"},
+    {"lesson": 2, "source_pid": "5f338f98-c109-4bb8-ba3c-af1ecec057ea", "topic": "пункты 9.1.47 и 9.1.48 СП 48, пункты 4.3 и 4.5 СП 543, аккредитация по ПП РФ № 468", "status": "REVIEW_REQUIRED"},
+    {"lesson": 3, "source_pid": "c7395b3e-ff9e-4562-a22c-61fdfc396e00", "topic": "квалификация специалистов НРС и толкование требований к стройконтролю", "status": "REVIEW_REQUIRED"},
+    {"lesson": 4, "topic": "ПП РФ № 468, приказ Минстроя № 344/пр, СП 543, договорные обязанности и пункт 6.14 СП 48", "status": "REVIEW_REQUIRED"}
+  ]
+}

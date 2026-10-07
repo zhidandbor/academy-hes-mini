@@ -1,0 +1,52 @@
+{
+  "checked_on": "2026-10-03",
+  "scope": "Проверены обозначения, статус и даты по официальным карточкам Росстандарта. Содержание конкретных пунктов, применимость к объекту и договору, а также юридическая обязательность выводов уроков не подтверждены этой ограниченной проверкой.",
+  "source_text_changed": false,
+  "official_sources": [
+    {
+      "document": "СП 543.1325800.2024",
+      "url": "https://protect.gost.ru/sp/details/aa507b62-ae20-4a8b-9556-fac0b95a9f0e",
+      "status": "Действует",
+      "effective_from": "2025-01-28"
+    },
+    {
+      "document": "СП 246.1325800.2023",
+      "url": "https://protect.gost.ru/sp/details/ed768687-fb41-4444-a075-c4be68d4dabb",
+      "status": "Заменен",
+      "effective_until": "2026-07-04",
+      "replaced_by": "СП 246.1325800.2026"
+    },
+    {
+      "document": "СП 246.1325800.2026",
+      "url": "https://protect.gost.ru/sp/details/5bd895c1-0ebc-46d2-a64d-fae27d3cd30c",
+      "status": "Действует",
+      "effective_from": "2026-07-04"
+    },
+    {
+      "document": "СП 48.13330.2019",
+      "url": "https://protect.gost.ru/sp/details/278f4ffa-b29b-4733-b8ac-d9a5ff3775cc",
+      "status": "Действует",
+      "observation": "Карточка перечисляет изменения № 1 и № 2."
+    },
+    {
+      "document": "ГОСТ Р 51872-2024",
+      "url": "https://protect.gost.ru/gost/details/201cb77e-3cec-42a6-a47e-bad3caac224b",
+      "status": "Действует",
+      "effective_from": "2024-11-01"
+    },
+    {
+      "document": "ГОСТ Р 21.101-2026",
+      "url": "https://protect.gost.ru/gost/details/17bc12e8-6579-4145-b141-56855e772e7f",
+      "status": "Действует",
+      "effective_from": "2026-04-01",
+      "observation": "В памятке источника написано «ГОСТ 21.101» без полного обозначения и редакции; отождествление с этой карточкой требует проверки."
+    }
+  ],
+  "claims_requiring_clause_review": [
+    {"lesson": 1, "topic": "распределение обязанностей заказчика и подрядчика, п. 2 ст. 53 ГрК РФ и п. 9.1.8 СП 48", "status": "REVIEW_REQUIRED"},
+    {"lesson": 1, "topic": "ссылка на замененный СП 246.1325800.2023", "status": "DATED_SOURCE_REFERENCE"},
+    {"lesson": 2, "topic": "новые обязанности стройконтроля по СП 543, изменение ПД и РД, сроки и журналы", "status": "REVIEW_REQUIRED"},
+    {"lesson": 3, "topic": "состав ИД, входной и операционный контроль, ГОСТ 21.101 без редакции, ГОСТ Р 51872-2024", "status": "REVIEW_REQUIRED"},
+    {"lesson": 4, "topic": "ПП РФ № 468, приказ Минстроя № 344/пр, ст. 53 ГрК РФ и пределы применения СП 543", "status": "REVIEW_REQUIRED"}
+  ]
+}

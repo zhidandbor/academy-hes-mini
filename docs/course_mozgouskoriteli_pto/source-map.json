@@ -1,0 +1,150 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/223152",
+  "title": "Мозгоускорители: как инженеру ПТО повысить продуктивность мозга и прокачать когнитивные функции",
+  "description": "Научитесь приемам, которые помогут мозгу работать эффективнее.",
+  "overview_snapshot": "source_pages/overview.json",
+  "group_navigation_snapshot": "source_pages/group-navigation.json",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Мозгоускорители",
+      "local": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/223152/0bf983c9-294b-4ec7-bd17-4b2a81c15136/6ff62e4d-0593-4b63-8c80-9c066f73735f",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Секреты устройства и работы мозга. Фитнес для мозга",
+          "source_url": "https://school.a-sstroy.ru/programs/223152/0bf983c9-294b-4ec7-bd17-4b2a81c15136/6ff62e4d-0593-4b63-8c80-9c066f73735f",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Устройство мозга и основные принципы его работы",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/0bf983c9-294b-4ec7-bd17-4b2a81c15136/6ff62e4d-0593-4b63-8c80-9c066f73735f",
+              "local": "lessons/01.html",
+              "snapshot": "source_pages/lesson-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Профилактика работы мозга: развиваем нейропластичность",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/0bf983c9-294b-4ec7-bd17-4b2a81c15136/51666015-799d-44be-b301-42e29897f84a",
+              "local": "lessons/02.html",
+              "snapshot": "source_pages/lesson-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Фитнес для мозга: тренировка на каждый день",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/0bf983c9-294b-4ec7-bd17-4b2a81c15136/aac6c73a-d4cb-4ad8-b8ad-4b311a986ff8",
+              "local": "lessons/03.html",
+              "snapshot": "source_pages/lesson-03.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Тренировка когнитивных функций: память, внимание, концентрация",
+          "source_url": "https://school.a-sstroy.ru/programs/223152/7c9f4d65-2783-4f6f-82ba-8786f99f8955/5f481f0f-1496-4e17-96b0-a0a18cbcc319",
+          "lessons": [
+            {
+              "position": 4,
+              "title": "Память: как правильно закреплять, повторять и вспоминать.",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/7c9f4d65-2783-4f6f-82ba-8786f99f8955/5f481f0f-1496-4e17-96b0-a0a18cbcc319",
+              "local": "lessons/04.html",
+              "snapshot": "source_pages/lesson-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Эффективные способы запоминания: приемы кодирования Цицерона и Наполеона.",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/7c9f4d65-2783-4f6f-82ba-8786f99f8955/78c75dec-088c-45e2-ae22-ef38bee9b42f",
+              "local": "lessons/05.html",
+              "snapshot": "source_pages/lesson-05.json"
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Ресурсное состояние: как мозгу работать эффективнее",
+          "source_url": "https://school.a-sstroy.ru/programs/223152/193e96e0-15b3-4b5a-b646-0fcba456d98e/167c7ee1-f650-44be-8e22-8edcf15d6ae4",
+          "lessons": [
+            {
+              "position": 6,
+              "title": "Ресурсное состояние: что это такое и почему это так важно",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/193e96e0-15b3-4b5a-b646-0fcba456d98e/167c7ee1-f650-44be-8e22-8edcf15d6ae4",
+              "local": "lessons/06.html",
+              "snapshot": "source_pages/lesson-06.json"
+            },
+            {
+              "position": 7,
+              "title": "Техники, позволяющие определить пределы своей выносливости",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/193e96e0-15b3-4b5a-b646-0fcba456d98e/6e73100e-66ea-454f-82f1-ec656a91e14f",
+              "local": "lessons/07.html",
+              "snapshot": "source_pages/lesson-07.json"
+            },
+            {
+              "position": 8,
+              "title": "Телесная осознанность: учимся сканировать свое состояние и снимать напряжение",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/193e96e0-15b3-4b5a-b646-0fcba456d98e/83f0f612-b090-4bdb-90e2-8c7e79ef0bb7",
+              "local": "lessons/08.html",
+              "snapshot": "source_pages/lesson-08.json"
+            },
+            {
+              "position": 9,
+              "title": "Эмоциональная осознанность: учимся прислушиваться к настроению и регулировать его",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/193e96e0-15b3-4b5a-b646-0fcba456d98e/5d414689-4d5b-440f-995b-8179f5bbff40",
+              "local": "lessons/09.html",
+              "snapshot": "source_pages/lesson-09.json"
+            },
+            {
+              "position": 10,
+              "title": "Эмоциональная устойчивость: учимся быть гибкими и регулировать локус контроля",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/193e96e0-15b3-4b5a-b646-0fcba456d98e/b1d9df58-725a-4084-b624-077592cd4c9a",
+              "local": "lessons/10.html",
+              "snapshot": "source_pages/lesson-10.json"
+            },
+            {
+              "position": 11,
+              "title": "Аптечка скорой помощи: как правильно отдыхать",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/193e96e0-15b3-4b5a-b646-0fcba456d98e/16f27718-0a1b-4a39-87ab-0e56e9656029",
+              "local": "lessons/11.html",
+              "snapshot": "source_pages/lesson-11.json"
+            }
+          ]
+        },
+        {
+          "position": 4,
+          "title": "Сон, питание, витамины: как помочь мозгу раскрыть свой потенциал",
+          "source_url": "https://school.a-sstroy.ru/programs/223152/4724d51c-7c78-464f-9b11-7ee7cea10c3c/f42d1334-611e-423d-ad8f-20369648b026",
+          "lessons": [
+            {
+              "position": 12,
+              "title": "Сон: как использовать для запоминания и постановки целей.",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/4724d51c-7c78-464f-9b11-7ee7cea10c3c/f42d1334-611e-423d-ad8f-20369648b026",
+              "local": "lessons/12.html",
+              "snapshot": "source_pages/lesson-12.json"
+            },
+            {
+              "position": 13,
+              "title": "БАДы, витамины, ноотропы, типы питания, травы: как это влияет на работу мозга.",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/4724d51c-7c78-464f-9b11-7ee7cea10c3c/065677d3-5a1f-4e5b-ba01-7266f2690a66",
+              "local": "lessons/13.html",
+              "snapshot": "source_pages/lesson-13.json"
+            },
+            {
+              "position": 14,
+              "title": "Правило 5С: что на самом деле помогает мозгу.",
+              "source_url": "https://school.a-sstroy.ru/programs/223152/4724d51c-7c78-464f-9b11-7ee7cea10c3c/6fa93edc-8c63-41db-8a60-e5db2fc49804",
+              "local": "lessons/14.html",
+              "snapshot": "source_pages/lesson-14.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "test": {
+    "title": "Тест по теме «Мозгоускорители»",
+    "source_url": "https://school.a-sstroy.ru/tests/223152/21996845/start",
+    "local": "tests/index.html",
+    "intro_snapshot": "source_pages/test-intro.json",
+    "questions_status": "online_only"
+  }
+}

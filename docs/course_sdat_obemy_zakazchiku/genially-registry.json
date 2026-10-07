@@ -1,0 +1,75 @@
+[
+  {
+    "id": "690498f7ddfd95cd4a64f984",
+    "source_url": "https://view.genially.com/690498f7ddfd95cd4a64f984",
+    "lesson": 1,
+    "title": "Подписаться",
+    "pages": [
+      {
+        "number": 1,
+        "capture": "source_external/genially/690498f7ddfd95cd4a64f984-page-1.png",
+        "text": "Подписаться на Telegram-канал «Актион Строительство»",
+        "assets": [
+          {
+            "h": 1080,
+            "src": "https://compressed-images.genially.com/img/67236181c35a14001f81e68a/a7dfbc92-3e2c-416a-9b41-00cea0ac6a48.png/format=webp",
+            "w": 1920
+          }
+        ],
+        "local_assets": [
+          "source_external/genially/_assets/f705f87a3b305f473f7c.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "68ee72464c940173388a9bec",
+    "source_url": "https://view.genially.com/68ee72464c940173388a9bec",
+    "lesson": 2,
+    "title": "Временные здания и сооружения",
+    "pages": [
+      {
+        "number": 1,
+        "capture": "source_external/genially/68ee72464c940173388a9bec-page-1.png",
+        "text": "При строительстве объекта был обустроен временный городок. В ССР отдельной КС на обустройство временных зданий и сооружений нет, поэтому заказчик допускает применить процент на стоимость выполнения, чтобы покрыть расходы на временные здания.",
+        "assets": [
+          {
+            "h": 841,
+            "src": "https://compressed-images.genially.com/img/67236181c35a14001f81e68a/3c6925ef-c3c4-4b79-bd94-fb98342346c3.png/format=webp",
+            "w": 1124
+          }
+        ],
+        "local_assets": [
+          "source_external/genially/_assets/bc754139d6ad1838d178.webp"
+        ]
+      },
+      {
+        "number": 2,
+        "capture": "source_external/genially/68ee72464c940173388a9bec-page-2.png",
+        "text": "Как мы можем их доказать? (выберите правильный вариант ответа)",
+        "assets": [
+          {
+            "h": 626,
+            "src": "https://compressed-images.genially.com/img/67236181c35a14001f81e68a/bd8dc8c6-b1ce-4e57-b321-df15b4f0467f.png/format=webp",
+            "w": 732
+          },
+          {
+            "h": 591,
+            "src": "https://compressed-images.genially.com/img/67236181c35a14001f81e68a/6cbf379f-d95c-45ab-b9e8-d07004f02549.png/format=webp",
+            "w": 766
+          },
+          {
+            "h": 608,
+            "src": "https://compressed-images.genially.com/img/67236181c35a14001f81e68a/625d0f0d-4257-4bfa-adf8-aef4ec12248e.png/format=webp",
+            "w": 743
+          }
+        ],
+        "local_assets": [
+          "source_external/genially/_assets/58eb40e7d182eab8cd4f.webp",
+          "source_external/genially/_assets/84ef073854eee24e580b.webp",
+          "source_external/genially/_assets/40fc7409fe16d196bde4.webp"
+        ]
+      }
+    ]
+  }
+]

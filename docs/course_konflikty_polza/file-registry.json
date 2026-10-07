@@ -1,0 +1,62 @@
+[
+  {
+    "local_path": "assets/images/lessons/01.png",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=bdc2ae91-9de3-4c72-b9c9-3f9b55857e79",
+    "role": "исходная иллюстрация",
+    "size": 777378,
+    "sha256": "5932148dbce0cdc2fad9d5fc6299f9de852f0bb7f3621c5b64059309ba82fba3"
+  },
+  {
+    "local_path": "assets/images/lessons/02.png",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=174fb279-6816-4f5a-b816-5a7589d38cca",
+    "role": "исходная иллюстрация",
+    "size": 217924,
+    "sha256": "79facefb908db3d6d9d979ae18f269a849c3e0cc53077f7c1e2e7f2c1e6df62a"
+  },
+  {
+    "local_path": "assets/images/lessons/04.png",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=5c78e707-60e2-4efc-b6ac-f8385cdd8470",
+    "role": "исходная иллюстрация",
+    "size": 196903,
+    "sha256": "245e2dd107020aa2cc29f8d264f74903a50d1fd8b4a8f24c15fc44e44c0b3240"
+  },
+  {
+    "local_path": "assets/images/lessons/12.png",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=3b3a3a3e-87b3-40d4-9e09-89700dc90093",
+    "role": "исходная иллюстрация",
+    "size": 188910,
+    "sha256": "ff74ef51c3e0bca58f95070b78cc6ba7ee5ebde22c1a744917c0b5a3146e8f2f"
+  },
+  {
+    "local_path": "assets/images/authors/yuliya-ogarkova-dubinskaya.png",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8bcecd62447b43a1bf9746506023c699_20260908T114559.png",
+    "role": "исходное фото автора",
+    "author": "Юлия Огаркова-Дубинская",
+    "size": 277886,
+    "sha256": "96d5e0dbb6985161a30c39fd5007e810bbe11e4c6126247bd3c26869642d6c71"
+  },
+  {
+    "local_path": "assets/images/authors/irina-barzhak.png",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_a0759a8c277f44acbba7eca8a8f30d6a_20260907T164725.png",
+    "role": "исходное фото автора",
+    "author": "Ирина Баржак",
+    "size": 814120,
+    "sha256": "669c978dfa2c1f19d4e57d0e091ee1ce7c858625efce4698303538eae1c54056"
+  },
+  {
+    "local_path": "assets/images/authors/dimitriy-chumak.png",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_24911e8b21e145179174d045f2912fd4_20260907T161149.png",
+    "role": "исходное фото автора",
+    "author": "Димитрий Чумак",
+    "size": 66849,
+    "sha256": "01617639631ec1a0b41e2392156f2eea769715903908691e22b957a00353af55"
+  },
+  {
+    "local_path": "assets/images/authors/aleksandra-vilvovskaya.png",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_db2dcd41045443e7ab41d8fbea4fec86_20230321T121842.png",
+    "role": "исходное фото автора",
+    "author": "Александра Вильвовская",
+    "size": 636855,
+    "sha256": "473f5dc0c54b5490fd491059af952144fd8ffc49c59aa6d95df92df162227f16"
+  }
+]

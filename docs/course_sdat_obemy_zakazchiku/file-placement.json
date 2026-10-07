@@ -1,0 +1,500 @@
+[
+  {
+    "lesson": 1,
+    "local": "assets/images/author-db7cf746016d.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png"
+  },
+  {
+    "lesson": 1,
+    "local": "attachments/exports/general-id-composition.pdf",
+    "role": "штатный PDF-экспорт встроенного материала",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html"
+  },
+  {
+    "lesson": 1,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/images/1.png",
+    "role": "изображение встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/images/1.png"
+  },
+  {
+    "lesson": 1,
+    "local": "source_embeds/848eb551-b33f-4f8f-9c06-286cc721399e/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html"
+  },
+  {
+    "lesson": 1,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html"
+  },
+  {
+    "lesson": 1,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/848eb551-b33f-4f8f-9c06-286cc721399e.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html"
+  },
+  {
+    "lesson": 1,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/exports/848eb551-b33f-4f8f-9c06-286cc721399e.pdf",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/learningapps/pa4ax809525.png",
+    "role": "созданный статический снимок LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pa4ax809525"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/learningapps/images/bgnjab5fue4.jpg",
+    "role": "исходное изображение LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pa4ax809525"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/learningapps/pojhdfy3t25.png",
+    "role": "созданный статический снимок LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pojhdfy3t25"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/learningapps/images/fcdvvapwykl.jpg",
+    "role": "исходное изображение LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pojhdfy3t25"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/learningapps/images/vfyafbbstyp.jpg",
+    "role": "исходное изображение LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pojhdfy3t25"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/learningapps/images/yjrfdtm5iv3.png",
+    "role": "исходное изображение LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pojhdfy3t25"
+  },
+  {
+    "lesson": 1,
+    "local": "assets/images/4faa5b6f-fe26-4d5b-9105-f4157708997e.png",
+    "role": "исходное изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=4faa5b6f-fe26-4d5b-9105-f4157708997e"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/genially/690498f7ddfd95cd4a64f984-page-1.png",
+    "role": "созданный статический снимок Genially",
+    "source_url": "https://view.genially.com/690498f7ddfd95cd4a64f984"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/genially/_assets/f705f87a3b305f473f7c.webp",
+    "role": "исходный графический ресурс Genially",
+    "source_url": "https://view.genially.com/690498f7ddfd95cd4a64f984"
+  },
+  {
+    "lesson": 1,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/848eb551-b33f-4f8f-9c06-286cc721399e.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html"
+  },
+  {
+    "lesson": 1,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/exports/848eb551-b33f-4f8f-9c06-286cc721399e.pdf",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html"
+  },
+  {
+    "lesson": 1,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/assets/4354620d43b1ce4e3574.png",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=4faa5b6f-fe26-4d5b-9105-f4157708997e"
+  },
+  {
+    "lesson": 1,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/assets/e6ec68eb6b75699a7935.png",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/images/1.png"
+  },
+  {
+    "lesson": 1,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/assets/92f379c0cdf90cea8a85.png",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png"
+  },
+  {
+    "lesson": 2,
+    "local": "assets/images/author-db7cf746016d.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png"
+  },
+  {
+    "lesson": 2,
+    "local": "assets/images/76a921fd-c1c7-448a-b226-19f116ab83e6.png",
+    "role": "исходное изображение урока",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=76a921fd-c1c7-448a-b226-19f116ab83e6"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/learningapps/p3zq9urgn25.png",
+    "role": "созданный статический снимок LearningApps",
+    "source_url": "https://learningapps.org/watch?v=p3zq9urgn25"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/learningapps/images/nfoont3h4c0.jpg",
+    "role": "исходное изображение LearningApps",
+    "source_url": "https://learningapps.org/watch?v=p3zq9urgn25"
+  },
+  {
+    "lesson": 2,
+    "local": "source_embeds/30549da3-10ea-4b4e-a32b-4c79dd112e22/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/30549da3-10ea-4b4e-a32b-4c79dd112e22/index.html"
+  },
+  {
+    "lesson": 2,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/30549da3-10ea-4b4e-a32b-4c79dd112e22/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/30549da3-10ea-4b4e-a32b-4c79dd112e22/index.html"
+  },
+  {
+    "lesson": 2,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/30549da3-10ea-4b4e-a32b-4c79dd112e22.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/30549da3-10ea-4b4e-a32b-4c79dd112e22/index.html"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/genially/68ee72464c940173388a9bec-page-1.png",
+    "role": "созданный статический снимок Genially",
+    "source_url": "https://view.genially.com/68ee72464c940173388a9bec"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/genially/_assets/bc754139d6ad1838d178.webp",
+    "role": "исходный графический ресурс Genially",
+    "source_url": "https://view.genially.com/68ee72464c940173388a9bec"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/genially/68ee72464c940173388a9bec-page-2.png",
+    "role": "созданный статический снимок Genially",
+    "source_url": "https://view.genially.com/68ee72464c940173388a9bec"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/genially/_assets/58eb40e7d182eab8cd4f.webp",
+    "role": "исходный графический ресурс Genially",
+    "source_url": "https://view.genially.com/68ee72464c940173388a9bec"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/genially/_assets/84ef073854eee24e580b.webp",
+    "role": "исходный графический ресурс Genially",
+    "source_url": "https://view.genially.com/68ee72464c940173388a9bec"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/genially/_assets/40fc7409fe16d196bde4.webp",
+    "role": "исходный графический ресурс Genially",
+    "source_url": "https://view.genially.com/68ee72464c940173388a9bec"
+  },
+  {
+    "lesson": 2,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/30549da3-10ea-4b4e-a32b-4c79dd112e22.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/30549da3-10ea-4b4e-a32b-4c79dd112e22/index.html"
+  },
+  {
+    "lesson": 2,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/assets/a16c29f449cdac0bbc8c.png",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=76a921fd-c1c7-448a-b226-19f116ab83e6"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/author-db7cf746016d.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png"
+  },
+  {
+    "lesson": 3,
+    "local": "source_embeds/3a015856-5e33-404f-946f-bdb67fd23ab5/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/3a015856-5e33-404f-946f-bdb67fd23ab5/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/3a015856-5e33-404f-946f-bdb67fd23ab5/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/3a015856-5e33-404f-946f-bdb67fd23ab5/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/3a015856-5e33-404f-946f-bdb67fd23ab5.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/3a015856-5e33-404f-946f-bdb67fd23ab5/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "source_embeds/7df53e00-ce7f-484e-b190-d94229c42af0/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7df53e00-ce7f-484e-b190-d94229c42af0/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/7df53e00-ce7f-484e-b190-d94229c42af0/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7df53e00-ce7f-484e-b190-d94229c42af0/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/7df53e00-ce7f-484e-b190-d94229c42af0.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7df53e00-ce7f-484e-b190-d94229c42af0/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "source_embeds/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "source_embeds/06c2588b-ac04-4f0f-88da-5d73121e4ffb/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/06c2588b-ac04-4f0f-88da-5d73121e4ffb.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "source_external/learningapps/pi2wmav8525.png",
+    "role": "созданный статический снимок LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pi2wmav8525"
+  },
+  {
+    "lesson": 3,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/3a015856-5e33-404f-946f-bdb67fd23ab5.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/3a015856-5e33-404f-946f-bdb67fd23ab5/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/7df53e00-ce7f-484e-b190-d94229c42af0.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7df53e00-ce7f-484e-b190-d94229c42af0/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/06c2588b-ac04-4f0f-88da-5d73121e4ffb.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "assets/images/author-db7cf746016d.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png"
+  },
+  {
+    "lesson": 4,
+    "local": "source_embeds/801f04f8-c23c-4dd5-8649-447aa69d68fe/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/801f04f8-c23c-4dd5-8649-447aa69d68fe/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/801f04f8-c23c-4dd5-8649-447aa69d68fe/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/801f04f8-c23c-4dd5-8649-447aa69d68fe/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/801f04f8-c23c-4dd5-8649-447aa69d68fe.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/801f04f8-c23c-4dd5-8649-447aa69d68fe/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/images/1.jpg",
+    "role": "изображение встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/images/1.jpg"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/images/2.jpg",
+    "role": "изображение встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/images/2.jpg"
+  },
+  {
+    "lesson": 4,
+    "local": "source_embeds/0eb56968-80ee-431a-a1ca-45090fb8fe8a/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/0eb56968-80ee-431a-a1ca-45090fb8fe8a.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "source_external/learningapps/pwf3beq8j25.png",
+    "role": "созданный статический снимок LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pwf3beq8j25"
+  },
+  {
+    "lesson": 4,
+    "local": "source_embeds/43946a03-45ea-48fe-b82b-9f09f2a1e12d/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/43946a03-45ea-48fe-b82b-9f09f2a1e12d/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/43946a03-45ea-48fe-b82b-9f09f2a1e12d/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/43946a03-45ea-48fe-b82b-9f09f2a1e12d/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/43946a03-45ea-48fe-b82b-9f09f2a1e12d.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/43946a03-45ea-48fe-b82b-9f09f2a1e12d/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/801f04f8-c23c-4dd5-8649-447aa69d68fe.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/801f04f8-c23c-4dd5-8649-447aa69d68fe/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/0eb56968-80ee-431a-a1ca-45090fb8fe8a.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/43946a03-45ea-48fe-b82b-9f09f2a1e12d.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/43946a03-45ea-48fe-b82b-9f09f2a1e12d/index.html"
+  },
+  {
+    "lesson": 5,
+    "local": "assets/images/author-db7cf746016d.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png"
+  },
+  {
+    "lesson": 5,
+    "local": "attachments/source/primer.pdf",
+    "role": "исходный файл по ссылке урока (PDF)",
+    "source_url": "https://drive.google.com/file/d/1l8qYcjPvqYA60PDKbXewaQVCn1d5CDtI/view?usp=sharing"
+  },
+  {
+    "lesson": 5,
+    "local": "attachments/previews/primer-page-1.png",
+    "role": "созданное изображение страницы PDF",
+    "source_url": "https://drive.google.com/file/d/1l8qYcjPvqYA60PDKbXewaQVCn1d5CDtI/view?usp=sharing"
+  },
+  {
+    "lesson": 5,
+    "local": "attachments/previews/primer-page-2.png",
+    "role": "созданное изображение страницы PDF",
+    "source_url": "https://drive.google.com/file/d/1l8qYcjPvqYA60PDKbXewaQVCn1d5CDtI/view?usp=sharing"
+  },
+  {
+    "lesson": 5,
+    "local": "attachments/previews/primer-page-3.png",
+    "role": "созданное изображение страницы PDF",
+    "source_url": "https://drive.google.com/file/d/1l8qYcjPvqYA60PDKbXewaQVCn1d5CDtI/view?usp=sharing"
+  },
+  {
+    "lesson": 5,
+    "local": "attachments/previews/primer-page-4.png",
+    "role": "созданное изображение страницы PDF",
+    "source_url": "https://drive.google.com/file/d/1l8qYcjPvqYA60PDKbXewaQVCn1d5CDtI/view?usp=sharing"
+  },
+  {
+    "lesson": 5,
+    "local": "source_embeds/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd/index.html"
+  },
+  {
+    "lesson": 5,
+    "local": "embeds/school.a-sstroy.ru/interactive/doc/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd/index.html",
+    "role": "локализованный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd/index.html"
+  },
+  {
+    "lesson": 5,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd.html",
+    "role": "копия из ранее созданного архива проекта",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd/index.html"
+  },
+  {
+    "lesson": 5,
+    "local": "source_external/learningapps/p5hzk0t7n25.png",
+    "role": "созданный статический снимок LearningApps",
+    "source_url": "https://learningapps.org/watch?v=p5hzk0t7n25"
+  },
+  {
+    "lesson": 5,
+    "local": "source_external/video/5JTc2VVyUUz2KywFQF8Zod-poster.png",
+    "role": "созданный снимок заставки видео",
+    "source_url": "https://kinescope.io/embed/5JTc2VVyUUz2KywFQF8Zod"
+  },
+  {
+    "lesson": 5,
+    "local": "source_external/learningapps/pmc0w1szt25.png",
+    "role": "созданный статический снимок LearningApps",
+    "source_url": "https://learningapps.org/watch?v=pmc0w1szt25"
+  },
+  {
+    "lesson": 5,
+    "local": "project_reference/ispolnitelnaya_dokumentatsiya/source_interactive/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd.html",
+    "role": "копия подтверждённого файла из ранее созданного архива",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd/index.html"
+  }
+]

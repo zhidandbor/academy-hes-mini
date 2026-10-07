@@ -1,0 +1,77 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Connect-cards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'ef88c0e2-8aa5-4a01-81e3-afbef6e60b55';
+    window.docName = '4 урок 2 задание стресс';
+    window.locale = 'ru';
+    window.id = '2235';
+    window.moduleId = '245';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var pairs = [{"leftCard":{"pairId":0,"text":"<p>Человек начал замечать признаки выгорания, но его работа и жизнь еще не разрушены полностью</p>"},"rightCard":{"pairId":0,"text":"<p>Имеет смысл менять режим, нагрузку, приоритеты и способы самоподдержки</p>"}},{"leftCard":{"pairId":1,"text":"<p>Человек надеется восстановиться только за счет отпуска, не меняя причины перегрузки</p>"},"rightCard":{"pairId":1,"text":"<p>Такой подход даст слабый результат, потому что проблема будет воспроизводиться снова</p>"}},{"leftCard":{"pairId":2,"text":"<p>У человека выгорание затронуло не только работу, но и всю систему жизни</p>"},"rightCard":{"pairId":2,"text":"<p>Локальных мер уже недостаточно, нужна глубокая перестройка жизни и длительная помощь специалиста</p>"}},{"leftCard":{"pairId":3,"text":"<p>Человек хочет реально выйти из выгорания на стадии истощения</p>"},"rightCard":{"pairId":3,"text":"<p>Нужно соединять работу с симптомами и работу с причинами</p>"}}];
+    var env = 'prod';
+    var title = 'Как работать с выгоранием правильно';
+    var description = 'Соотнесите ситуацию и наиболее точное действие.';
+    var comment = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+        if (window.env === 'dev' || window.env === 'test') {
+            window.WidgetLoader.dev();
+        }
+
+        if (window.env === 'rc') {
+            window.WidgetLoader.rc();
+        }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waConnectCards',
+                version: '1_0_0'
+            },
+            initConnectorCards
+        );
+    }
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initConnectorCards() {
+        window.ActionConnectCards.init(
+            {
+                title,
+                description,
+                pairs,
+                comment,
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

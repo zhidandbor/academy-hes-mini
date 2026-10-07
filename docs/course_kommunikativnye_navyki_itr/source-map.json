@@ -1,0 +1,65 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/228066",
+  "title": "Коммуникативные навыки в строительстве: быстрокурс для ИТР",
+  "description": "Всего за несколько уроков научитесь уверенно вести переговоры с контрагентами, предотвращать конфликты, а также эффективно управлять процессами на стройке",
+  "overview_snapshot": "source_pages/overview.json",
+  "topics": [
+    {
+      "position": 1,
+      "title": "МИКРОКУРСЫ. 2026",
+      "local": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/228066/3e75d725-d8ba-4f86-9b85-7e121fc7c197/653d3389-4dd1-4f6b-8459-d925da73f122",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Коммуникативные навыки в строительстве",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Что важно знать про коммуникативные навыки",
+              "source_url": "https://school.a-sstroy.ru/programs/228066/3e75d725-d8ba-4f86-9b85-7e121fc7c197/653d3389-4dd1-4f6b-8459-d925da73f122",
+              "local": "lessons/01.html",
+              "snapshot": "source_pages/lesson-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Как коммуникация помогает ИТР в работе",
+              "source_url": "https://school.a-sstroy.ru/programs/228066/3e75d725-d8ba-4f86-9b85-7e121fc7c197/3ead2a46-5c0c-459d-ab65-f666c23ddc72",
+              "local": "lessons/02.html",
+              "snapshot": "source_pages/lesson-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Развиваем креативные навыки",
+              "source_url": "https://school.a-sstroy.ru/programs/228066/3e75d725-d8ba-4f86-9b85-7e121fc7c197/f5e469b2-fa5e-41ba-9340-066b34c778cc",
+              "local": "lessons/03.html",
+              "snapshot": "source_pages/lesson-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Формируем критическое мышление",
+              "source_url": "https://school.a-sstroy.ru/programs/228066/3e75d725-d8ba-4f86-9b85-7e121fc7c197/87fa1f01-df39-4bcc-916b-5f5fe1867c2a",
+              "local": "lessons/04.html",
+              "snapshot": "source_pages/lesson-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Применяем в работе эмоциональный интеллект",
+              "source_url": "https://school.a-sstroy.ru/programs/228066/3e75d725-d8ba-4f86-9b85-7e121fc7c197/f153ed71-d049-42d0-ae9b-7ecf369e19ea",
+              "local": "lessons/05.html",
+              "snapshot": "source_pages/lesson-05.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "test": {
+    "title": "Заключительный тест по всем темам",
+    "overview_label": "Тест для самопроверки",
+    "source_url": "https://school.a-sstroy.ru/tests/228066/22008647/start",
+    "local": "tests/index.html",
+    "intro_snapshot": "source_pages/test-intro.json",
+    "questions_status": "online_only"
+  }
+}

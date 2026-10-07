@@ -1,0 +1,81 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>CardsDeck</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'f53aa309-aa0b-41df-825d-5bd99f501e13';
+    window.docName = '2 задание 6 урок стресс';
+    window.locale = 'ru';
+    window.id = '2048';
+    window.moduleId = '247';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var cardsStack = [{"cards":[{"text":"быстро снизить телесное напряжение, чтобы снова говорить и думать","imageUrl":null},{"text":"восстановить дыхание и вернуть фокус","imageUrl":null},{"text":"снять мышечный зажим перед выступлением или переговорами","imageUrl":null}],"columnId":"1","imageUrl":null,"title":"Подходит в момент острой тревоги"},{"cards":[{"text":"понять, что именно в ситуации вызвало такой уровень напряжения","imageUrl":null},{"text":"проверить, есть ли здесь реальная угроза или катастрофическая интерпретация","imageUrl":null},{"text":"разобрать, это разовая реакция или уже привычный сценарий стресса","imageUrl":null}],"columnId":"2","imageUrl":null,"title":"Подходит после того, как состояние уже стало более управляемым"}];
+        var env = 'prod';
+        var title = 'Что делать со стрессом что в моменте, а что — после';
+        var description = 'Разделите действия на 2 колонки:';
+        var comment = 'Телесные техники нужны не для полной проработки стресса, а для возвращения управляемости здесь и сейчас. После этого важно перейти к анализу причины.';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waCardsDeck',
+                    version: '1_0_0'
+                },
+                initCardsDeck
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initCardsDeck() {
+            window.ActionCardsDeck.init({
+                title,
+                description,
+                comment,
+                cardsStack
+            });
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

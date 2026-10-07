@@ -1,0 +1,49 @@
+[
+  {
+    "lesson": 1,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/8sMRcxThFMjNXYv9Noh2kL",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 2,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/nvq9qj49QFB5Q5LdbsfyXM",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 4,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/e9dvAETa864HzBxidvXobz",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 5,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/tLY9cRif5FrcxMrAWJ7SDF",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 6,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/sEEpvKjJiAn12CfQcz4nFe",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 7,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/g2xsMiSQPBmYZPjJPuKiPf",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 8,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/aZatpLPazFsBzD4eq82u96",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "kind": "test",
+    "source_url": "https://school.a-sstroy.ru/tests/223158/21996860/start",
+    "reason": "Ответы, оценка и результаты проверяются сервером исходной платформы."
+  }
+]

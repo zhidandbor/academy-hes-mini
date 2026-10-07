@@ -1,0 +1,16 @@
+[
+  {
+    "local_path": "assets/images/lessons/06.png",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=b444bcd5-6d1c-41b8-959b-04c73ced7de5",
+    "role": "исходная иллюстрация",
+    "size": 82967,
+    "sha256": "ee70c56e52399d6f122ff123c77f84c3f9407ed95bc04461e4aad8f8a716db09"
+  },
+  {
+    "local_path": "assets/images/lessons/07.png",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=6c6f8439-0f25-42be-b64b-2833786a3ac3",
+    "role": "исходная иллюстрация",
+    "size": 50326,
+    "sha256": "6bafe19bce9e1f1ba42730bb50bd240a933f8653287fb690c59cac55df33f991"
+  }
+]

@@ -1,0 +1,81 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>CardsDeck</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '0ee21185-5ab0-4cd2-b9b2-8eae2f51c487';
+    window.docName = '2 урок про стресс задание 1';
+    window.locale = 'ru';
+    window.id = '2046';
+    window.moduleId = '247';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var cardsStack = [{"cards":[{"text":"дрожь в руках перед важным разговором","imageUrl":null},{"text":"холодные ладони перед выступлением","imageUrl":null},{"text":"короткое замирание в напряженной ситуации","imageUrl":null}],"columnId":"1","imageUrl":null,"title":"Стадия тревоги"},{"cards":[{"text":"ощущение пустоты и внутренней выключенности","imageUrl":null},{"text":"циничное или раздраженное отношение к людям","imageUrl":null},{"text":"снижение чувства смысла работы","imageUrl":null}],"columnId":"2","imageUrl":null,"title":"Стадия истощения"}];
+        var env = 'prod';
+        var title = 'Проявление стресса';
+        var description = 'Разделите проявления на две колонки';
+        var comment = 'На стадии тревоги организм мобилизуется и готовит человека к действию. Поэтому здесь чаще видны телесные и быстрые реакции. На стадии истощения человек уже не собирается,';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waCardsDeck',
+                    version: '1_0_0'
+                },
+                initCardsDeck
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initCardsDeck() {
+            window.ActionCardsDeck.init({
+                title,
+                description,
+                comment,
+                cardsStack
+            });
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

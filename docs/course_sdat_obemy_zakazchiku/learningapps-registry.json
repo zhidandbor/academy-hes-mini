@@ -1,0 +1,131 @@
+[
+  {
+    "source_url": "https://learningapps.org/watch?v=pa4ax809525",
+    "title": "Корявый реестр",
+    "id": "pa4ax809525",
+    "screen": "source_external/learningapps/pa4ax809525.png",
+    "images": [
+      {
+        "alt": "",
+        "height": 1175,
+        "src": "https://dbimg.eu/i/bgnjab5fue4.jpg",
+        "width": 1119,
+        "local": "source_external/learningapps/images/bgnjab5fue4.jpg"
+      }
+    ],
+    "text": "",
+    "dom": "- iframe [active] [id=\"frame\"]:\n  - generic: \n  - link \"Показать задание\":\n    - /url: JavaScript:AppClient.showTaskPanel()\n    - img \"Показать задание\"\n  - link \"Показать упражнение в полноэкранном режиме\":\n    - /url: /watch?v=pa4ax809525\n    - img \"Показать упражнение в полноэкранном режиме\""
+  },
+  {
+    "source_url": "https://learningapps.org/watch?v=pojhdfy3t25",
+    "title": "Ошибки в АОСР",
+    "id": "pojhdfy3t25",
+    "screen": "source_external/learningapps/pojhdfy3t25.png",
+    "images": [
+      {
+        "alt": "",
+        "height": 707,
+        "src": "https://dbimg.eu/i/fcdvvapwykl.jpg",
+        "width": 1096,
+        "local": "source_external/learningapps/images/fcdvvapwykl.jpg"
+      },
+      {
+        "alt": "",
+        "height": 561,
+        "src": "https://dbimg.eu/i/vfyafbbstyp.jpg",
+        "width": 1093,
+        "local": "source_external/learningapps/images/vfyafbbstyp.jpg"
+      },
+      {
+        "alt": "",
+        "height": 1142,
+        "src": "https://dbimg.eu/i/yjrfdtm5iv3.png",
+        "width": 1620,
+        "local": "source_external/learningapps/images/yjrfdtm5iv3.png"
+      },
+      {
+        "alt": "",
+        "height": 280,
+        "src": "https://learningapps.org/tools/71/37/One-Finger-Move.png",
+        "width": 240
+      }
+    ],
+    "dom": "- iframe [active] [id=\"frame\"]:\n  - generic: \n  - generic: Дата в паспорте не соответствует дате в АОСР\n  - generic: Нормативный документ не регламентирует под выполненный тип работ\n  - generic: Объем материала в паспорте не соответствует объему материала в ИС\n  - link \"Показать задание\":\n    - /url: JavaScript:AppClient.showTaskPanel()\n    - img \"Показать задание\"\n  - link \"Показать упражнение в полноэкранном режиме\":\n    - /url: /watch?v=pojhdfy3t25\n    - img \"Показать упражнение в полноэкранном режиме\""
+  },
+  {
+    "source_url": "https://learningapps.org/watch?v=p3zq9urgn25",
+    "title": "Смета и ВОР",
+    "id": "p3zq9urgn25",
+    "screen": "source_external/learningapps/p3zq9urgn25.png",
+    "images": [
+      {
+        "alt": "",
+        "height": 793,
+        "src": "https://dbimg.eu/i/nfoont3h4c0.jpg",
+        "width": 2000,
+        "local": "source_external/learningapps/images/nfoont3h4c0.jpg"
+      }
+    ],
+    "dom": "- iframe [active] [id=\"frame\"]:\n  - generic: \n  - paragraph: Задание\n  - generic: Нажми на маркер и выбери правильное значение для сметы из ВОР\n  - button \"OK\"\n  - link \"Показать задание\":\n    - /url: JavaScript:AppClient.showTaskPanel()\n    - img \"Показать задание\"\n  - link \"Показать упражнение в полноэкранном режиме\":\n    - /url: /watch?v=p3zq9urgn25\n    - img \"Показать упражнение в полноэкранном режиме\""
+  },
+  {
+    "source_url": "https://learningapps.org/watch?v=pi2wmav8525",
+    "title": "Как правильно ответить на замечание",
+    "id": "pi2wmav8525",
+    "screen": "source_external/learningapps/pi2wmav8525.png",
+    "images": [
+      {
+        "alt": "",
+        "height": 280,
+        "src": "https://learningapps.org/tools/70/26/One-Finger-Move.png",
+        "width": 240
+      }
+    ],
+    "dom": "- iframe [active] [id=\"frame\"]:\n  - generic: \"3\"\n  - text: Изучаем разницу в характеристиках материала, заложенного в проекте, и использованного по факту\n  - generic: \"4\"\n  - text: Изучаем технические характеристики в паспорте на материал\n  - generic: \n  - generic: \"1\"\n  - text: Готовим Акт отступления от РД\n  - generic: \"5\"\n  - text: Подписываем акт у всех заинтересованных участников строительства\n  - generic: \"2\"\n  - text: Прикладываем акт и паспорт на материал в состав ИД\n  - link \"Показать задание\":\n    - /url: JavaScript:AppClient.showTaskPanel()\n    - img \"Показать задание\"\n  - link \"Показать упражнение в полноэкранном режиме\":\n    - /url: /watch?v=pi2wmav8525\n    - img \"Показать упражнение в полноэкранном режиме\""
+  },
+  {
+    "source_url": "https://learningapps.org/watch?v=pwf3beq8j25",
+    "title": "Передача исполнительной документации на подпись",
+    "id": "pwf3beq8j25",
+    "screen": "source_external/learningapps/pwf3beq8j25.png",
+    "images": [
+      {
+        "alt": "",
+        "height": 280,
+        "src": "https://learningapps.org/tools/70/26/One-Finger-Move.png",
+        "width": 240
+      }
+    ],
+    "dom": "- iframe [active] [id=\"frame\"]:\n  - generic: \"6\"\n  - text: Составить допсоглашение сторон Заказчик-Подрядчик или составить акт о замене (зависит от условий договора)\n  - generic: \"4\"\n  - text: Получить подтверждение о согласовании замены\n  - generic: \"2\"\n  - text: Определить, какой материал подлежит замене\n  - generic: \n  - generic: \"5\"\n  - text: Найти материал, характеристики которого не уступают указанным в проекте\n  - generic: \"3\"\n  - text: Направить письмо заказчику о согласовании замены с указанием причины\n  - generic: \"1\"\n  - text: Закупить согласованный материал\n  - link \"Показать задание\":\n    - /url: JavaScript:AppClient.showTaskPanel()\n    - img \"Показать задание\"\n  - link \"Показать упражнение в полноэкранном режиме\":\n    - /url: /watch?v=pwf3beq8j25\n    - img \"Показать упражнение в полноэкранном режиме\""
+  },
+  {
+    "source_url": "https://learningapps.org/watch?v=p5hzk0t7n25",
+    "title": "Передаем исполнительную документацию на подпись",
+    "id": "p5hzk0t7n25",
+    "screen": "source_external/learningapps/p5hzk0t7n25.png",
+    "images": [
+      {
+        "alt": "",
+        "height": 280,
+        "src": "https://learningapps.org/tools/70/26/One-Finger-Move.png",
+        "width": 240
+      }
+    ],
+    "dom": "- iframe [active] [id=\"frame\"]:\n  - generic: \"1\"\n  - text: Подготовить реестр и сопроводительное письмо\n  - generic: \n  - generic: \"6\"\n  - text: Уточнить у ответственного представителя Заказчика, когда можно привети ИД на подпись\n  - generic: \"4\"\n  - text: Приехать к назначенному времени\n  - generic: \"2\"\n  - text: Передать ответственному представителю Заказчика комплект документов\n  - generic: \"3\"\n  - text: Подписать сопроводительное письмо и реестр у указанием даты\n  - generic: \"5\"\n  - text: Уточнить, в течение какого времени можно будет забрать ИД\n  - link \"Показать задание\":\n    - /url: JavaScript:AppClient.showTaskPanel()\n    - img \"Показать задание\"\n  - link \"Показать упражнение в полноэкранном режиме\":\n    - /url: /watch?v=p5hzk0t7n25\n    - img \"Показать упражнение в полноэкранном режиме\""
+  },
+  {
+    "source_url": "https://learningapps.org/watch?v=pmc0w1szt25",
+    "title": "От момента печати ИД и до ее передачи заказчику",
+    "id": "pmc0w1szt25",
+    "screen": "source_external/learningapps/pmc0w1szt25.png",
+    "images": [
+      {
+        "alt": "",
+        "height": 280,
+        "src": "https://learningapps.org/tools/70/26/One-Finger-Move.png",
+        "width": 240
+      }
+    ],
+    "dom": "- iframe [active] [id=\"frame\"]:\n  - generic: \"8\"\n  - text: Передаем комплект и просим расписаться в его получении на реестре и сопроводительном письме\n  - generic: \"10\"\n  - text: Связываемся с представителем Заказчика и уточняем, когда можно передать ИД\n  - generic: \"5\"\n  - text: Готовим сопроводительное письмо и реестр передаваемой документации (в 2-х экземплярах)\n  - generic: \"3\"\n  - text: Ставим печати «Копия верна» и «Выполнено в соответствии в проектом» (при необходимости)\n  - generic: \"1\"\n  - text: Печатаем комплект\n  - generic: \"4\"\n  - text: Проверяем комплектность ИД, расставляем нумерацию страниц\n  - generic: \n  - generic: \"6\"\n  - text: Подписываем комплект у производителя работ и представителя СК Подрядчика\n  - generic: \"7\"\n  - text: В назначенное время привозим комплект ИД представителю Заказчика\n  - generic: \"2\"\n  - text: Один реестр и сопроводительное письмо оставляем себе\n  - generic: \"9\"\n  - text: Уточняем, в течение какого времени можно забрать подписанную ИД\n  - link \"Показать задание\":\n    - /url: JavaScript:AppClient.showTaskPanel()\n    - img \"Показать задание\"\n  - link \"Показать упражнение в полноэкранном режиме\":\n    - /url: /watch?v=pmc0w1szt25\n    - img \"Показать упражнение в полноэкранном режиме\""
+  }
+]

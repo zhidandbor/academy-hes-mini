@@ -1,0 +1,129 @@
+{
+  "course": {
+    "title": "Как инженеру ПТО чувствовать себя легко и свободно в деловом общении",
+    "source_url": "https://school.a-sstroy.ru/programs/223154",
+    "local_path": "index.html",
+    "topic": "Язык тела"
+  },
+  "blocks": [
+    {
+      "title": "Деловое общение и публичные выступления",
+      "first": 1,
+      "last": 4,
+      "local_topic_path": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/e336765e-fd5b-4c23-a79e-0b76a5351826/0a896ec6-e8ac-41e1-9bc1-809b621fb926"
+    },
+    {
+      "title": "Собственный стиль общения",
+      "first": 5,
+      "last": 8,
+      "local_topic_path": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/c16b418d-ab79-44d2-a075-5917fa92b19b/c48d3ef5-555d-41ae-aa64-570319f71cfc"
+    },
+    {
+      "title": "Телесная осознанность и телесные привычки",
+      "first": 9,
+      "last": 10,
+      "local_topic_path": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/dd0b2097-3659-4ea7-a7b0-efe31aecf080/9005d2b6-01be-47e5-8834-7f4a0c8acaf2"
+    },
+    {
+      "title": "Управление стрессом и конфликтами через тело",
+      "first": 11,
+      "last": 12,
+      "local_topic_path": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/c7251df9-8ce5-4ac8-96e5-e62252685906/e9cd753a-48f8-41cb-a388-51b0685a9a5a"
+    }
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "block": 1,
+      "title": "Как убедительно и без страха выступать перед публикой, используя язык жестов",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/e336765e-fd5b-4c23-a79e-0b76a5351826/0a896ec6-e8ac-41e1-9bc1-809b621fb926",
+      "local_path": "lessons/01.html"
+    },
+    {
+      "number": 2,
+      "block": 1,
+      "title": "Как использовать столы, стулья и трибуну во время публичного выступления",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/e336765e-fd5b-4c23-a79e-0b76a5351826/adeee326-e6a9-4879-a8e3-cdb80839be39",
+      "local_path": "lessons/02.html"
+    },
+    {
+      "number": 3,
+      "block": 1,
+      "title": "Как избегать жестов-паразитов в общении и публичных выступлениях",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/e336765e-fd5b-4c23-a79e-0b76a5351826/69dc1ed2-0421-4fc9-af62-324f201f04f6",
+      "local_path": "lessons/03.html"
+    },
+    {
+      "number": 4,
+      "block": 1,
+      "title": "Финал вашего выступления",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/e336765e-fd5b-4c23-a79e-0b76a5351826/414d6159-9a9b-4187-be6d-b874fab3ee39",
+      "local_path": "lessons/04.html"
+    },
+    {
+      "number": 5,
+      "block": 2,
+      "title": "Как производить идеальное впечатление. Часть I. О чем «говорят» наши ноги.",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/c16b418d-ab79-44d2-a075-5917fa92b19b/c48d3ef5-555d-41ae-aa64-570319f71cfc",
+      "local_path": "lessons/05.html"
+    },
+    {
+      "number": 6,
+      "block": 2,
+      "title": "Как производить идеальное впечатление. Часть II. Положение головы, взгляд, губы, руки.",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/c16b418d-ab79-44d2-a075-5917fa92b19b/cf6f1824-9aee-4cb2-87b8-60e6f744af7e",
+      "local_path": "lessons/06.html"
+    },
+    {
+      "number": 7,
+      "block": 2,
+      "title": "Как считывать внутреннее состояние собеседника, управлять его вниманием и вызывать симпатию",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/c16b418d-ab79-44d2-a075-5917fa92b19b/cc35f015-d95f-4444-82f2-42026aaf7616",
+      "local_path": "lessons/07.html"
+    },
+    {
+      "number": 8,
+      "block": 2,
+      "title": "Как распознавать чужие эмоции",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/c16b418d-ab79-44d2-a075-5917fa92b19b/cf937dbd-967f-44ac-a0ce-53db23512d4a",
+      "local_path": "lessons/08.html"
+    },
+    {
+      "number": 9,
+      "block": 3,
+      "title": "Телесная осознанность: учимся сканировать свое состояние и снимать напряжение.",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/dd0b2097-3659-4ea7-a7b0-efe31aecf080/9005d2b6-01be-47e5-8834-7f4a0c8acaf2",
+      "local_path": "lessons/09.html"
+    },
+    {
+      "number": 10,
+      "block": 3,
+      "title": "Телесные привычки: как их осознать и с ними работать, чтобы стать эффективнее.",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/dd0b2097-3659-4ea7-a7b0-efe31aecf080/a576a4d1-2f1c-4dcc-95dc-22bcaadb4f2e",
+      "local_path": "lessons/10.html"
+    },
+    {
+      "number": 11,
+      "block": 4,
+      "title": "Как управлять стрессом через тело",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/c7251df9-8ce5-4ac8-96e5-e62252685906/e9cd753a-48f8-41cb-a388-51b0685a9a5a",
+      "local_path": "lessons/11.html"
+    },
+    {
+      "number": 12,
+      "block": 4,
+      "title": "Как управлять конфликтом через тело",
+      "source_url": "https://school.a-sstroy.ru/programs/223154/c7251df9-8ce5-4ac8-96e5-e62252685906/977d81f4-0784-4973-ac45-89edca9be925",
+      "local_path": "lessons/12.html"
+    }
+  ],
+  "test": {
+    "title": "Тест по теме «Язык тела»",
+    "source_url": "https://school.a-sstroy.ru/tests/223154/21996850/start",
+    "local_path": "tests/index.html"
+  }
+}

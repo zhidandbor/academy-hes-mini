@@ -1,0 +1,212 @@
+[
+  {
+    "lesson": 1,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/xzAeNM2NGeiTtRVzwNT3CW",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 1,
+    "position": 2,
+    "source_url": "https://kinescope.io/embed/4v8aShE5MDZaDAPb2X1XY1",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 1,
+    "position": 3,
+    "source_url": "https://kinescope.io/embed/9UTeHvJ5hF7h3T8KbyxURg",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 1,
+    "position": 4,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/6c41a3a0-efba-4e63-af2c-b6e8e45fe390/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 1,
+    "position": 5,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/30f8c4d3-4b46-4dc2-8a44-cc4e587be1d9/index.html",
+    "kind": "Flipcard",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 2,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/pf8RXia1STVx6Tzz9TGehq",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 2,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/0ee21185-5ab0-4cd2-b9b2-8eae2f51c487/index.html",
+    "kind": "CardsDeck",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 2,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/4a130c89-5fc2-454a-91f9-91ed2b6da03c/index.html",
+    "kind": "Connect-cards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 3,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/dCLsCK57URM7wgc7jKPHf5",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 3,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/9cbec75b-7521-4bb5-932b-62771610e16d/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 3,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/f8d87799-59c3-420f-846e-b95c25b94ad5/index.html",
+    "kind": "Flipcard",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 4,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/dYR9muBccX66qWdoLk3is6",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 4,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7431a818-8b48-47e6-be18-31f4b1f84480/index.html",
+    "kind": "CardsDeck",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 4,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/ef88c0e2-8aa5-4a01-81e3-afbef6e60b55/index.html",
+    "kind": "Connect-cards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 5,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/b5qpus6sgtJvs1Y8Vv5cc7",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 5,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/095bf45d-36ed-47ab-80a4-32c2a8e95b31/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 5,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/6475eb11-a9a1-40a2-94d9-2947dda82253/index.html",
+    "kind": "Flipcard",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 6,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/p4FJeYQGDsBhaAUrUvRvfW",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 6,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/1d155a09-7c3a-489e-a30c-659d5fb2c509/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 6,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/f53aa309-aa0b-41df-825d-5bd99f501e13/index.html",
+    "kind": "CardsDeck",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 7,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/iSpf9xoJQKKT9jzE7gufu5",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 7,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/18cbfd14-0a00-4c2d-a254-57b289e695c4/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 7,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/fe88cd7b-9ecb-4a92-af10-5c699f546d44/index.html",
+    "kind": "Connect-cards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 8,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/ghzyfycpHPFHgXhJEmrfNd",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 8,
+    "position": 2,
+    "source_url": "https://kinescope.io/embed/v9bnCCkJaTgbEWXG65H1G2",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 8,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/b773405d-c904-4428-a9be-4ce929683e5e/index.html",
+    "kind": "CardsDeck",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 8,
+    "position": 4,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/e47e53ef-e41d-4b78-bdcc-bd502800be5d/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 9,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/3hDiVfBwfnYQDUdn3iVUfA",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 9,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7b186799-32d9-4d43-830e-29039b817c52/index.html",
+    "kind": "CardsDeck",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 9,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/e8a30e62-153b-4af3-b34e-2d2fb93f91ba/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  }
+]

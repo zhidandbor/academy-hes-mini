@@ -1,0 +1,103 @@
+[
+  {
+    "lesson": 1,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/psdfQRUCb3EJ3E3DosP1u7",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 1,
+    "kind": "external PDF",
+    "source_url": "http://knigikratko.ru/for_om/obzor_konflikty_na_rabote_20181225T104307.pdf",
+    "reason": "Исходная ссылка есть, но PDF не получен: в текущей среде загрузка завершилась ошибкой TLS."
+  },
+  {
+    "lesson": 2,
+    "kind": "external PDF",
+    "source_url": "http://knigikratko.ru/for_om/obzor_konflikty_na_rabote_20181225T104307.pdf",
+    "reason": "Исходная ссылка есть, но PDF не получен: в текущей среде загрузка завершилась ошибкой TLS."
+  },
+  {
+    "lesson": 3,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/qahvFkaxbHvRiw5R1BP9Ad",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 3,
+    "kind": "external PDF",
+    "source_url": "http://knigikratko.ru/for_om/obzor_konflikty_na_rabote_20181225T104307.pdf",
+    "reason": "Исходная ссылка есть, но PDF не получен: в текущей среде загрузка завершилась ошибкой TLS."
+  },
+  {
+    "lesson": 4,
+    "kind": "external PDF",
+    "source_url": "http://knigikratko.ru/for_om/obzor_konflikty_na_rabote_20181225T104307.pdf",
+    "reason": "Исходная ссылка есть, но PDF не получен: в текущей среде загрузка завершилась ошибкой TLS."
+  },
+  {
+    "lesson": 5,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/i1pUnGgimBM1PnXsvMH1TV",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 6,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/oi496pqSWYY9EpvVE4esA2",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 8,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/tYQiACbKU7LidM44iXnV3j",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 9,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/0bgRsPyhYFgM3bUesFQeuT",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 9,
+    "kind": "external PDF",
+    "source_url": "http://knigikratko.ru/for_om/obzor_peregovory_bez_porazhenija.pdf",
+    "reason": "Исходная ссылка есть, но PDF не получен: в текущей среде загрузка завершилась ошибкой TLS."
+  },
+  {
+    "lesson": 10,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/nvohQ5P9eY2TUSubVLDYHm",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 10,
+    "kind": "external PDF",
+    "source_url": "http://knigikratko.ru/for_om/obzor_peregovory_bez_porazhenija.pdf",
+    "reason": "Исходная ссылка есть, но PDF не получен: в текущей среде загрузка завершилась ошибкой TLS."
+  },
+  {
+    "lesson": 11,
+    "kind": "external PDF",
+    "source_url": "http://knigikratko.ru/for_om/obzor_peregovory_bez_porazhenija.pdf",
+    "reason": "Исходная ссылка есть, но PDF не получен: в текущей среде загрузка завершилась ошибкой TLS."
+  },
+  {
+    "lesson": 12,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/8evo9ypjjBEaSuVQyfzYR6",
+    "reason": "Исходный потоковый проигрыватель требует сети; штатный видеофайл не предоставлен."
+  },
+  {
+    "lesson": 12,
+    "kind": "external PDF",
+    "source_url": "http://knigikratko.ru/for_om/obzor_peregovory_bez_porazhenija.pdf",
+    "reason": "Исходная ссылка есть, но PDF не получен: в текущей среде загрузка завершилась ошибкой TLS."
+  },
+  {
+    "kind": "test",
+    "source_url": "https://school.a-sstroy.ru/tests/223156/21996855/start",
+    "reason": "Ответы, оценка и результаты проверяются сервером исходной платформы."
+  }
+]

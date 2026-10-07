@@ -1,0 +1,81 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>CardsDeck</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'b773405d-c904-4428-a9be-4ce929683e5e';
+    window.docName = '1 задание 8 урок стресс';
+    window.locale = 'ru';
+    window.id = '2051';
+    window.moduleId = '247';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var cardsStack = [{"cards":[{"text":"сначала быстро пройтись или подвигаться, а потом письменно разобрать, что именно пугает","imageUrl":null},{"text":"после всплеска эмоций задать себе вопрос, какой сценарий я уже придумал","imageUrl":null},{"text":"безопасно вывести напряжение в движение, дыхание или голос, а не оставлять его внутри","imageUrl":null}],"columnId":"1","imageUrl":"/interactive/doc/b773405d-c904-4428-a9be-4ce929683e5e/images/1.png","title":"скорее снижает стресс"},{"cards":[{"text":"перед сложным разговором мысленно несколько раз прокрутить самый плохой исход","imageUrl":null},{"text":"заметить раздражение, но уговаривать себя, что «нормальный человек не должен так реагировать»","imageUrl":null},{"text":"пытаться сразу логически объяснить себе, почему переживать глупо","imageUrl":null}],"columnId":"2","imageUrl":"/interactive/doc/b773405d-c904-4428-a9be-4ce929683e5e/images/2.jpg","title":"скорее закрепляет стресс"}];
+        var env = 'prod';
+        var title = 'Что усиливает стресс';
+        var description = 'Разделите действия на 2 колонки';
+        var comment = '';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waCardsDeck',
+                    version: '1_0_0'
+                },
+                initCardsDeck
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initCardsDeck() {
+            window.ActionCardsDeck.init({
+                title,
+                description,
+                comment,
+                cardsStack
+            });
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

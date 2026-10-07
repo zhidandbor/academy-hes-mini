@@ -1,0 +1,67 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/228064",
+  "title": "Как сдать объемы выполненных работ заказчику",
+  "description": "Отработаете навыки успешной сдачи объемов заказчику",
+  "overview_snapshot": "source_pages/overview.json",
+  "topics": [
+    {
+      "position": 1,
+      "title": "МИКРОКУРСЫ. 2026",
+      "local": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/228064/8762b422-a850-4842-9642-d6f59c5959b1/691a33a2-d7b8-46cd-876e-269dd2bc7401",
+      "note": "lesson_breadcrumb_theme",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Как сдать объемы заказчику",
+          "note": "overview_card_and_lesson_header_title",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Вспоминаем состав ИД",
+              "source_url": "https://school.a-sstroy.ru/programs/228064/8762b422-a850-4842-9642-d6f59c5959b1/691a33a2-d7b8-46cd-876e-269dd2bc7401",
+              "local": "lessons/01.html",
+              "snapshot": "source_pages/lesson-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Проверяем смету",
+              "source_url": "https://school.a-sstroy.ru/programs/228064/8762b422-a850-4842-9642-d6f59c5959b1/91023765-cec1-40b3-ab70-f414523f1875",
+              "local": "lessons/02.html",
+              "snapshot": "source_pages/lesson-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Что делать в случае замечаний",
+              "source_url": "https://school.a-sstroy.ru/programs/228064/8762b422-a850-4842-9642-d6f59c5959b1/ceaa6d06-97d9-4d4e-9193-8a47822a2c61",
+              "local": "lessons/03.html",
+              "snapshot": "source_pages/lesson-03.json"
+            },
+            {
+              "position": 4,
+              "title": "В каких случаях необходимо оформлять изменения проекта",
+              "source_url": "https://school.a-sstroy.ru/programs/228064/8762b422-a850-4842-9642-d6f59c5959b1/f8c733a5-cbb0-4395-ba08-d98f24750efa",
+              "local": "lessons/04.html",
+              "snapshot": "source_pages/lesson-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Передаем исполнительную документацию на подпись",
+              "source_url": "https://school.a-sstroy.ru/programs/228064/8762b422-a850-4842-9642-d6f59c5959b1/7ed7cbbd-3400-4960-83f4-e91a1bec1085",
+              "local": "lessons/05.html",
+              "snapshot": "source_pages/lesson-05.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "test": {
+    "title": "Заключительный тест по всем темам",
+    "overview_label": "Тест для самопроверки",
+    "source_url": "https://school.a-sstroy.ru/tests/228064/22008642/start",
+    "local": "tests/index.html",
+    "intro_snapshot": "source_pages/test-intro.json",
+    "questions_status": "online_only"
+  }
+}

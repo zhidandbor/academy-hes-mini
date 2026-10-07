@@ -1,0 +1,22 @@
+{
+  "course": "course_sdat_obemy_zakazchiku",
+  "title": "Как сдать объёмы выполненных работ заказчику",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_sdat_obemy_zakazchiku",
+  "entry": "index.html",
+  "files": 143,
+  "bytes": 10732771,
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "af5978f51788640fdb3e62ccae6e9f3036d410ef52e08257b2d3ae7216403226",
+      "published_sha256": "9b00752e9f9560bc834aaaa8b9172798cdac3d511333285416be7b6a393cd885"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "63799ad0858df6b0a82a7484e6f0b7cbd2e22e3efa374e897f108b2ab009b781",
+      "published_sha256": "dfebfc419bd4f46dac72039df63dc4a4b216f3379aec1f4a7284dd9087ee6347"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Connect-cards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'fe88cd7b-9ecb-4a92-af10-5c699f546d44';
+    window.docName = '7 урок 2 задание стресс';
+    window.locale = 'ru';
+    window.id = '2239';
+    window.moduleId = '245';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var pairs = [{"leftCard":{"pairId":0,"text":"<p>Человек ловит себя на том, что как будто «проваливается» в разговоре, теряет опору и внутреннюю собранность</p>"},"rightCard":{"pairId":0,"text":"<p>Сначала вернуть устойчивость и вертикаль</p>"}},{"leftCard":{"pairId":1,"text":"<p>Перед сложной встречей дыхание стало поверхностным, а живот постоянно втянут</p>"},"rightCard":{"pairId":1,"text":"<p>Не форсировать вдох, а сначала заметить дыхание и немного отпустить живот</p>"}},{"leftCard":{"pairId":2,"text":"<p>Во время напряженного обсуждения человек фиксируется только на 1 источнике угрозы и перестает видеть ситуацию целиком</p>"},"rightCard":{"pairId":2,"text":"<p>Расширить внимание и включить периферическое зрение</p>"}},{"leftCard":{"pairId":3,"text":"<p>Перед ответом на резкий вопрос человек чувствует зажим в лице, челюсти, верхе груди и плечах</p>"},"rightCard":{"pairId":3,"text":"<p>Отпустить центральную линию тела: лоб, челюсть, верх груди, плечи</p>"}}];
+    var env = 'prod';
+    var title = 'Первый шаг в стрессовых ситуациях';
+    var description = 'Соотнесите сбой в стрессовой реакции и наиболее точный первый шаг.';
+    var comment = 'Если точнее определить, что именно сейчас нарушено, легче выбрать действие, которое действительно снижает телесный стрессовый отклик.';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+        if (window.env === 'dev' || window.env === 'test') {
+            window.WidgetLoader.dev();
+        }
+
+        if (window.env === 'rc') {
+            window.WidgetLoader.rc();
+        }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waConnectCards',
+                version: '1_0_0'
+            },
+            initConnectorCards
+        );
+    }
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initConnectorCards() {
+        window.ActionConnectCards.init(
+            {
+                title,
+                description,
+                pairs,
+                comment,
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

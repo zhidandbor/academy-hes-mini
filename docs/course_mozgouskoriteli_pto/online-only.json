@@ -1,0 +1,96 @@
+[
+  {
+    "lesson": 1,
+    "source_url": "https://kinescope.io/embed/mgnSQSb7woTgEgPi9tuU2t",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 2,
+    "source_url": "https://kinescope.io/embed/368oVPbTRDkou6vKGSxDGJ",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 3,
+    "source_url": "https://kinescope.io/embed/aFzh4vsAQcy3bw1zLz24YS",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 4,
+    "source_url": "https://kinescope.io/embed/7uL6bq586M1R9gYJz1z4ta",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 5,
+    "source_url": "https://kinescope.io/embed/ftjLcSyUjgbyuitCkFtcT4",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 6,
+    "source_url": "https://kinescope.io/embed/gUjcyufYmSCqKXVqYozNBe",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 7,
+    "source_url": "https://kinescope.io/embed/0F39vbmNn2S9CMeswsw87R",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 8,
+    "source_url": "https://kinescope.io/embed/fQFt4p7MQeN5UvwdTnNdT4",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 9,
+    "source_url": "https://kinescope.io/embed/pmFUhFh6eeA1Rp5xpymQRN",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 10,
+    "source_url": "https://kinescope.io/embed/hd24o6dDo8kgwG4xCWup8t",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 11,
+    "source_url": "https://kinescope.io/embed/iz5w9mJQUNRhu4NUHuWKz1",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 12,
+    "source_url": "https://kinescope.io/embed/4kNfKaiGEtC2aKANpQQy7F",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 13,
+    "source_url": "https://kinescope.io/embed/k5uoZv4yC8u7QH3c4gNy3k",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "lesson": 14,
+    "source_url": "https://kinescope.io/embed/uDJabq91ugQPsHocTxujQH",
+    "kind": "Kinescope video",
+    "reason": "streaming_video_requires_provider; no_native_video_download_confirmed"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/tests/223152/21996845/start",
+    "kind": "platform_test",
+    "reason": "questions_scoring_and_results_require_server"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/223152",
+    "kind": "lesson_outline_export",
+    "reason": "download_summary_button_observed_but_no_browser_download_file_produced; native_export_unverified"
+  }
+]

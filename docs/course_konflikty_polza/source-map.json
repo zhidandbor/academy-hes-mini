@@ -1,0 +1,122 @@
+{
+  "course": {
+    "title": "Конфликты: как оценивать и решать с максимальной пользой",
+    "source_url": "https://school.a-sstroy.ru/programs/223156",
+    "local_path": "index.html",
+    "topic": "Конфликты: как оценивать и решать с максимальной пользой"
+  },
+  "blocks": [
+    {
+      "title": "Конфликт: как выжить и извлечь пользу",
+      "first": 1,
+      "last": 4,
+      "source_url": "https://school.a-sstroy.ru/programs/223156/4cf9151b-60ee-4ded-8be8-56d9e1077006/a50f2eb1-493e-4a25-81de-26ba24dc3a95",
+      "local_topic_path": "modules/01.html"
+    },
+    {
+      "title": "Конфликты: как общаться без конфликтогенов и управлять собой",
+      "first": 5,
+      "last": 8,
+      "source_url": "https://school.a-sstroy.ru/programs/223156/b79035fe-5265-402a-8c95-1eef1e7afd0e/cd377a45-f508-4261-9c9d-0f608877d6fe",
+      "local_topic_path": "modules/01.html"
+    },
+    {
+      "title": "Конфликт: как сохранить свои ресурсы и уважение к оппоненту",
+      "first": 9,
+      "last": 12,
+      "source_url": "https://school.a-sstroy.ru/programs/223156/5812211c-90da-4865-8e37-bf7474e673c2/195d21e9-0da4-45b5-b38a-4dcb4ca9bb01",
+      "local_topic_path": "modules/01.html"
+    }
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "block": 1,
+      "title": "Определение и виды конфликта",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/4cf9151b-60ee-4ded-8be8-56d9e1077006/a50f2eb1-493e-4a25-81de-26ba24dc3a95",
+      "local_path": "lessons/01.html"
+    },
+    {
+      "number": 2,
+      "block": 1,
+      "title": "Причины и функции конфликта. Структура конфликта",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/4cf9151b-60ee-4ded-8be8-56d9e1077006/b169c21f-562d-4329-a870-87fe49ce6eb4",
+      "local_path": "lessons/02.html"
+    },
+    {
+      "number": 3,
+      "block": 1,
+      "title": "Конструктивные и деструктивные свойства конфликта",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/4cf9151b-60ee-4ded-8be8-56d9e1077006/98a6110e-ec34-4e70-a547-4032b7f65998",
+      "local_path": "lessons/03.html"
+    },
+    {
+      "number": 4,
+      "block": 1,
+      "title": "Динамика конфликта. Этапы развития конфликта и их особенности",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/4cf9151b-60ee-4ded-8be8-56d9e1077006/4c93f8a5-af78-411a-b636-187ba987e6f8",
+      "local_path": "lessons/04.html"
+    },
+    {
+      "number": 5,
+      "block": 2,
+      "title": "Главный закон конфликтологии",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/b79035fe-5265-402a-8c95-1eef1e7afd0e/cd377a45-f508-4261-9c9d-0f608877d6fe",
+      "local_path": "lessons/05.html"
+    },
+    {
+      "number": 6,
+      "block": 2,
+      "title": "Конфликтогены: какие слова и фразы употреблять нельзя",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/b79035fe-5265-402a-8c95-1eef1e7afd0e/ce12743b-517e-4929-a3c4-4f8247ada609",
+      "local_path": "lessons/06.html"
+    },
+    {
+      "number": 7,
+      "block": 2,
+      "title": "Обратная связь: как общаться без конфликтов",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/b79035fe-5265-402a-8c95-1eef1e7afd0e/a3170555-e2f2-45ca-9299-9c2cbc6e147b",
+      "local_path": "lessons/07.html"
+    },
+    {
+      "number": 8,
+      "block": 2,
+      "title": "Embodiment: как управлять конфликтами через тело",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/b79035fe-5265-402a-8c95-1eef1e7afd0e/461bb32c-7a5f-4455-91b7-6a2157925b1a",
+      "local_path": "lessons/08.html"
+    },
+    {
+      "number": 9,
+      "block": 3,
+      "title": "Конфликты типа \"группа-группа\" и \"личность-группа\" и их реализация в офисной коммуникации.",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/5812211c-90da-4865-8e37-bf7474e673c2/195d21e9-0da4-45b5-b38a-4dcb4ca9bb01",
+      "local_path": "lessons/09.html"
+    },
+    {
+      "number": 10,
+      "block": 3,
+      "title": "Агрессия: как принять и совладать. Что такое \"хорошая агрессия\" и ассертивное поведение.",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/5812211c-90da-4865-8e37-bf7474e673c2/b7970168-f9d4-4abb-8a27-4179c3a9c87e",
+      "local_path": "lessons/10.html"
+    },
+    {
+      "number": 11,
+      "block": 3,
+      "title": "Основные типы конфликтных личностей. Медиация, или Когда \"третий не лишний\".",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/5812211c-90da-4865-8e37-bf7474e673c2/e55ef042-f5cc-4c22-b3f3-ab9a23df1a92",
+      "local_path": "lessons/11.html"
+    },
+    {
+      "number": 12,
+      "block": 3,
+      "title": "Стратегии разрешения конфликта.",
+      "source_url": "https://school.a-sstroy.ru/programs/223156/5812211c-90da-4865-8e37-bf7474e673c2/348b28f5-331d-4dd1-a8c3-78d0eb9877b0",
+      "local_path": "lessons/12.html"
+    }
+  ],
+  "test": {
+    "title": "Тест по теме «Конфликты: как оценивать и решать с максимальной пользой»",
+    "source_url": "https://school.a-sstroy.ru/tests/223156/21996855/start",
+    "local_path": "tests/index.html"
+  }
+}

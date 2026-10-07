@@ -1,0 +1,73 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'f018b0eb-c292-45b4-947e-071ff2b89d9c';
+    window.docName = 'Что изменилось в СП 48.13330.2019 и как внедрить новые требования в работу';
+    window.locale = 'ru';
+    window.id = '1784';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":{"title":"Что изменилось в СП 48.13330.2019 и как внедрить новые требования в работу","text":""},"cardList":[{"media":null,"question":"Какой документ с 22 мая 2025 года перестал содержать требования к исполнительной документации и строительному контролю?","answerList":[{"checked":false,"text":"СП 543.1325800.2024"},{"checked":true,"text":"СП 48.13330.2019"},{"checked":false,"text":"Приказ Минстроя № 344/пр"},{"checked":false,"text":"ПП РФ № 468"}],"negativeComment":"","positiveComment":""},{"media":null,"question":"Кто по СП 543.1325800.2024 отвечает за проверку рабочей документации на соответствие проекту и нормативам при входном контроле?","answerList":[{"checked":false,"text":"Только заказчик"},{"checked":false,"text":"Заказчик и подрядчик"},{"checked":true,"text":"Лицо, осуществляющее строительство"},{"checked":false,"text":"Специалист из экспертизы"}],"negativeComment":"","positiveComment":""},{"media":null,"question":"Какой из следующих документов должен быть обязательно у продукции, включенной в перечень Постановления Правительства РФ № 2425 от 23.12.2021?","answerList":[{"checked":false,"text":"Сертификат пожарной безопасности"},{"checked":false,"text":"Паспорт качества"},{"checked":true,"text":"Сертификат соответствия или декларация о соответствии"},{"checked":false,"text":"Свидетельство о государственной регистрации"}],"negativeComment":"","positiveComment":""},{"media":null,"question":"Что следует сделать, если при входном контроле строительной продукции отсутствуют маркировка и сопроводительная документация (по СП 543)?","answerList":[{"checked":false,"text":"Использовать продукцию после устного согласования с заказчиком"},{"checked":false,"text":"Провести испытания и сразу применить"},{"checked":true,"text":"Использовать продукцию после подтверждения соответствия установленным образом"},{"checked":false,"text":"Передать продукцию на склад до завершения строительства"}],"negativeComment":"","positiveComment":""},{"media":null,"question":"Чья подпись теперь обязательна в журнале входного контроля согласно СП 543?","answerList":[{"checked":false,"text":"Только представителя подрядчика"},{"checked":false,"text":"Только представителя проектировщика"},{"checked":true,"text":"Представителя подрядчика и представителя застройщика"},{"checked":false,"text":"Представителя ГСН"}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

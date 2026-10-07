@@ -1,0 +1,79 @@
+[
+  {
+    "lesson": 1,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/trM7GFVv5w5R8cJQn76pFd",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 1,
+    "kind": "external link",
+    "source_url": "https://links.action-media.ru/DnCk",
+    "reason": "Внешняя связанная программа доступна через сеть."
+  },
+  {
+    "lesson": 2,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/pwin3jGdLse5veEstBRLYj",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 3,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/agSErzBvMpidV9f8h75qmV",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 4,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/gah3RiMRnjNWi6RwLQ4ZUw",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 5,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/dyY5eTPrshgnbguZ2ySWAk",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 6,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/5fo5JBCYLseY3gYGCCRe4x",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 7,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/dhtYsJ9h7kptrtwNKjtDDT",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 8,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/f9GxPMTYosdrBuZwS1wSFg",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 9,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/5kQX95FYK5ntEcwAWZbgNS",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 10,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/bW3fjmF1zxWcW8vU4KTHfu",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "lesson": 12,
+    "kind": "video",
+    "source_url": "https://kinescope.io/embed/tYQiACbKU7LidM44iXnV3j",
+    "reason": "Потоковое видео доступно только через исходный плеер; штатный видеофайл не получен."
+  },
+  {
+    "kind": "test",
+    "source_url": "https://school.a-sstroy.ru/tests/223154/21996850/start",
+    "reason": "Проверка ответов и результаты выполняются на исходной платформе."
+  }
+]

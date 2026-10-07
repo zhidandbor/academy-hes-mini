@@ -1,0 +1,87 @@
+{
+  "course": {
+    "title": "Техники НЛП: как ставить цели и принимать решения",
+    "source_url": "https://school.a-sstroy.ru/programs/223158",
+    "local_path": "index.html",
+    "topic": "Техники НЛП: как ставить цели и принимать решения"
+  },
+  "blocks": [
+    {
+      "title": "НЛП: понятие, история и целеполагание",
+      "first": 1,
+      "last": 3,
+      "source_url": "https://school.a-sstroy.ru/programs/223158/9adeed20-4dce-4c00-8475-d7b51affdaf6/9eb9d1f1-338e-4294-827c-0d87f6b8c44f",
+      "local_topic_path": "modules/01.html"
+    },
+    {
+      "title": "Конкретные техники НЛП для постановки целей и принятия решений",
+      "first": 4,
+      "last": 8,
+      "source_url": "https://school.a-sstroy.ru/programs/223158/6852feeb-3113-4c51-bebc-089b4eb6979b/62df0561-2541-4cbf-ad44-a2fc14b890c9",
+      "local_topic_path": "modules/01.html"
+    }
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "block": 1,
+      "title": "Понятие и история нейролингвистического программирования (НЛП). Как разрабатываются алгоритмы",
+      "source_url": "https://school.a-sstroy.ru/programs/223158/9adeed20-4dce-4c00-8475-d7b51affdaf6/9eb9d1f1-338e-4294-827c-0d87f6b8c44f",
+      "local_path": "lessons/01.html"
+    },
+    {
+      "number": 2,
+      "block": 1,
+      "title": "Целеполагание в НЛП. Хорошо сформулированный результат. Часть 1: как увидеть цель.",
+      "source_url": "https://school.a-sstroy.ru/programs/223158/9adeed20-4dce-4c00-8475-d7b51affdaf6/ef636a2e-f2f6-475a-a435-f99d8059cb48",
+      "local_path": "lessons/02.html"
+    },
+    {
+      "number": 3,
+      "block": 1,
+      "title": "Целеполагание в НЛП. Хорошо сформулированный результат. Часть 2: последствия и вторичная выгода",
+      "source_url": "https://school.a-sstroy.ru/programs/223158/9adeed20-4dce-4c00-8475-d7b51affdaf6/3dfb0a2d-5e40-4582-8d20-2abdfc281b05",
+      "local_path": "lessons/03.html"
+    },
+    {
+      "number": 4,
+      "block": 2,
+      "title": "Метамодель в НЛП: как прояснить свой или чужой запрос.",
+      "source_url": "https://school.a-sstroy.ru/programs/223158/6852feeb-3113-4c51-bebc-089b4eb6979b/62df0561-2541-4cbf-ad44-a2fc14b890c9",
+      "local_path": "lessons/04.html"
+    },
+    {
+      "number": 5,
+      "block": 2,
+      "title": "НЛП: цели и ценности. Ради чего это всё?",
+      "source_url": "https://school.a-sstroy.ru/programs/223158/6852feeb-3113-4c51-bebc-089b4eb6979b/d5e8c860-a651-4bd7-b74a-ee085cea10a8",
+      "local_path": "lessons/05.html"
+    },
+    {
+      "number": 6,
+      "block": 2,
+      "title": "Как принимать решения? Модель «Декартовы координаты»",
+      "source_url": "https://school.a-sstroy.ru/programs/223158/6852feeb-3113-4c51-bebc-089b4eb6979b/d5f94618-5c87-4b63-888a-746b444500c0",
+      "local_path": "lessons/06.html"
+    },
+    {
+      "number": 7,
+      "block": 2,
+      "title": "Пирамида нейрологических уровней Роберта Дилтса",
+      "source_url": "https://school.a-sstroy.ru/programs/223158/6852feeb-3113-4c51-bebc-089b4eb6979b/51b6c786-8383-4d43-a22b-956acbff8a07",
+      "local_path": "lessons/07.html"
+    },
+    {
+      "number": 8,
+      "block": 2,
+      "title": "Стратегия творчества Уолта Диснея: от мечты к конкретике и обратно",
+      "source_url": "https://school.a-sstroy.ru/programs/223158/6852feeb-3113-4c51-bebc-089b4eb6979b/e3a577fd-67c0-4569-930f-ef6d94d417e0",
+      "local_path": "lessons/08.html"
+    }
+  ],
+  "test": {
+    "title": "Тест по теме «Техники НЛП: как ставить цели и принимать решения»",
+    "source_url": "https://school.a-sstroy.ru/tests/223158/21996860/start",
+    "local_path": "tests/index.html"
+  }
+}

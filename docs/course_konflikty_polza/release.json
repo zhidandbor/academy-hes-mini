@@ -1,0 +1,17 @@
+{
+  "course": "course_konflikty_polza",
+  "title": "Конфликты: как оценивать и решать с максимальной пользой",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_konflikty_polza",
+  "entry": "index.html",
+  "files": 31,
+  "bytes": 3678697,
+  "rewritten_files": [
+    {
+      "path": "index.html",
+      "source_sha256": "e2616738361bd117c4d178caf0db50d19d4c91bc971001b5ab59c78582ef4ae0",
+      "published_sha256": "ba3aafa08588d41edbb310b709f41ba4486456634a4d1a93b7d4b71682abe0a3"
+    }
+  ]
+}

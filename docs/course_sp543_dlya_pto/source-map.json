@@ -1,0 +1,58 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/224506",
+  "title": "Как специалисту ПТО работать по новому СП 543.1325800.2024",
+  "description": "Потренируетесь применять правила нового СП в своей работе",
+  "overview_snapshot": "source_pages/overview.json",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Как применять положения нового СП",
+      "local": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/224506/9b69b6dc-b625-4c97-82a9-731a8b897dd7/a8e2b4a9-850f-47d3-b440-f0562b8232b3",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Как применять положения нового СП",
+          "note": "single_source_topic_no_separate_block_title",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Как на вас отразятся новые обязанности СК подрядчика и заказчика",
+              "source_url": "https://school.a-sstroy.ru/programs/224506/9b69b6dc-b625-4c97-82a9-731a8b897dd7/a8e2b4a9-850f-47d3-b440-f0562b8232b3",
+              "local": "lessons/01.html",
+              "snapshot": "source_pages/lesson-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Как теперь организован стройконтроль",
+              "source_url": "https://school.a-sstroy.ru/programs/224506/9b69b6dc-b625-4c97-82a9-731a8b897dd7/c23d8628-2c86-48a8-bd5c-9a9e46f3dcfe",
+              "local": "lessons/02.html",
+              "snapshot": "source_pages/lesson-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Как работать с изменениями по разным видам стройконтроля",
+              "source_url": "https://school.a-sstroy.ru/programs/224506/9b69b6dc-b625-4c97-82a9-731a8b897dd7/b2666f04-3c9b-4d55-b46a-3b70c30650d3",
+              "local": "lessons/03.html",
+              "snapshot": "source_pages/lesson-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Как применять дублирующие правила нового СП",
+              "source_url": "https://school.a-sstroy.ru/programs/224506/9b69b6dc-b625-4c97-82a9-731a8b897dd7/452125ef-29bf-4167-b35e-b57040b85c4f",
+              "local": "lessons/04.html",
+              "snapshot": "source_pages/lesson-04.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "test": {
+    "title": "Тест для самопроверки",
+    "source_url": "https://school.a-sstroy.ru/tests/224506/21999357/start",
+    "local": "tests/index.html",
+    "intro_snapshot": "source_pages/test-intro.json",
+    "questions_status": "online_only"
+  }
+}

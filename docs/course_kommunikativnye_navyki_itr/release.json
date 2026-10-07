@@ -1,0 +1,37 @@
+{
+  "course": "course_kommunikativnye_navyki_itr",
+  "title": "Коммуникативные навыки в строительстве: быстрокурс для ИТР",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_kommunikativnye_navyki_itr",
+  "entry": "index.html",
+  "files": 137,
+  "bytes": 7077440,
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "7536ab9cb7d518989ab2d67eb248afdf17f88e2ad60be29c54cf3069fa59573d",
+      "published_sha256": "60fab77b38d2e1399837914f05a691e042854e12ca1d20779ef610d6303e6277"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "d09624ad36c90535857deb382320624e5b8493854e7b660380db0a3b110f23fe",
+      "published_sha256": "e35d9835ed86449a8509453327e543c86fdad72e4b60be9ca8ea5bedfbe15ae7"
+    },
+    {
+      "path": "lessons/01.html",
+      "source_sha256": "f4dc420e6a8d7f4e85881b882fc07c2f59c92ad3b9fdae50704ebcaa8c1d5a5c",
+      "published_sha256": "de2843603e59d672171f9133b86c5d1a897e4ba680f43e4feed12b37ca3986f1"
+    },
+    {
+      "path": "lessons/02.html",
+      "source_sha256": "ffd2ff119f8644ef9a5adc0eeb7cc118074a8ee053af10b8d58e8f3f8750247d",
+      "published_sha256": "b74856e1bec668c6a8127c22c2827cfc4be2eedefeb91d8eb6a3a5b90ee5ebd0"
+    },
+    {
+      "path": "lessons/04.html",
+      "source_sha256": "e194499d6d71e8a244931c28eb38a323601f47cc8b462dab5dd0b88a92e4846d",
+      "published_sha256": "6ee9721d150f397ad815aa1d27b7c4239beefc213ddc613545ea580364fd0e34"
+    }
+  ]
+}

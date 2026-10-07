@@ -1,0 +1,17 @@
+{
+  "course": "course_mozgouskoriteli_pto",
+  "title": "Мозгоускорители",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_mozgouskoriteli_pto",
+  "entry": "index.html",
+  "files": 53,
+  "bytes": 29804118,
+  "rewritten_files": [
+    {
+      "path": "index.html",
+      "source_sha256": "f64e9a2517141a078c72baede7c06db71aca836962b2ee0b68578bfca952117d",
+      "published_sha256": "62b3b1735b7307b447b56c39110c4b4af273b562aa611cc9b5527eb2858b2836"
+    }
+  ]
+}

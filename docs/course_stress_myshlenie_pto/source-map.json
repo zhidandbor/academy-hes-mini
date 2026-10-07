@@ -1,0 +1,110 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/223150",
+  "title": "Как инженеру ПТО снизить стресс, изменив свое мышление",
+  "description": "Научитесь распознавать и нейтрализовывать стресс на ранних этапах",
+  "overview_snapshot": "source_pages/overview.json",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Стрессоустойчивость: современные методики борьбы со стрессом",
+      "local": "modules/01.html",
+      "source_url": "https://school.a-sstroy.ru/programs/223150/b016896e-78ee-4603-bcb1-2ae20bc220ed/2c67fc3d-8a86-4a00-a088-370daa5467e7",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Знакомство со стрессом: стадии стресса",
+          "source_url": "https://school.a-sstroy.ru/programs/223150/b016896e-78ee-4603-bcb1-2ae20bc220ed/2c67fc3d-8a86-4a00-a088-370daa5467e7",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Знакомство со стрессом: что скрывается за этим словом и какой стресс опасен",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/b016896e-78ee-4603-bcb1-2ae20bc220ed/2c67fc3d-8a86-4a00-a088-370daa5467e7",
+              "local": "lessons/01.html",
+              "snapshot": "source_pages/lesson-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Три стадии развития стресса",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/b016896e-78ee-4603-bcb1-2ae20bc220ed/5a56c675-e164-47d2-910b-d58ea84269fe",
+              "local": "lessons/02.html",
+              "snapshot": "source_pages/lesson-02.json"
+            }
+          ],
+          "supplemental_inventory": "source_pages/supplemental-01.json"
+        },
+        {
+          "position": 2,
+          "title": "Стресс и психосоматика: как организм сигнализирует о стрессе и как стресс влияет на здоровье",
+          "source_url": "https://school.a-sstroy.ru/programs/223150/438b4ec9-92de-475c-a854-c0d68cf9a756/278d4822-ae03-429b-ade9-38ed02c41453",
+          "lessons": [
+            {
+              "position": 3,
+              "title": "Сигналы стресса: как их распознать и как на них реагировать",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/438b4ec9-92de-475c-a854-c0d68cf9a756/278d4822-ae03-429b-ade9-38ed02c41453",
+              "local": "lessons/03.html",
+              "snapshot": "source_pages/lesson-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Симптомы и этапы эмоционального выгорания",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/438b4ec9-92de-475c-a854-c0d68cf9a756/be6d47e6-6f4e-482c-b464-27e63fe40896",
+              "local": "lessons/04.html",
+              "snapshot": "source_pages/lesson-04.json"
+            }
+          ],
+          "supplemental_inventory": "source_pages/supplemental-02.json"
+        },
+        {
+          "position": 3,
+          "title": "Международные техники работы со стрессом",
+          "source_url": "https://school.a-sstroy.ru/programs/223150/e4c42c6a-fdd8-4a86-bcaf-723f327a9218/7db7f5b3-5efd-4985-858f-b225219c6a45",
+          "lessons": [
+            {
+              "position": 5,
+              "title": "Как работают со стрессом разные направления психотерапии",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/e4c42c6a-fdd8-4a86-bcaf-723f327a9218/7db7f5b3-5efd-4985-858f-b225219c6a45",
+              "local": "lessons/05.html",
+              "snapshot": "source_pages/lesson-05.json"
+            },
+            {
+              "position": 6,
+              "title": "Техники самопомощи при остром стрессе",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/e4c42c6a-fdd8-4a86-bcaf-723f327a9218/a85b2411-fb35-4d11-ad7c-27f9381e19ac",
+              "local": "lessons/06.html",
+              "snapshot": "source_pages/lesson-06.json"
+            },
+            {
+              "position": 7,
+              "title": "Embodiment: как управлять стрессом через тело",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/e4c42c6a-fdd8-4a86-bcaf-723f327a9218/ce4b53e3-da65-41f7-8c0c-a4567a79567e",
+              "local": "lessons/07.html",
+              "snapshot": "source_pages/lesson-07.json"
+            },
+            {
+              "position": 8,
+              "title": "Как работать с эмоциями в стрессе",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/e4c42c6a-fdd8-4a86-bcaf-723f327a9218/1908c4d4-dc9f-42f3-9d7b-8d86b1253e99",
+              "local": "lessons/08.html",
+              "snapshot": "source_pages/lesson-08.json"
+            },
+            {
+              "position": 9,
+              "title": "Критика: как сохранить самоуважение и здоровую самооценку",
+              "source_url": "https://school.a-sstroy.ru/programs/223150/e4c42c6a-fdd8-4a86-bcaf-723f327a9218/238b532f-e09a-446c-8c28-8c93b67d34b7",
+              "local": "lessons/09.html",
+              "snapshot": "source_pages/lesson-09.json"
+            }
+          ],
+          "supplemental_inventory": "source_pages/supplemental-03.json"
+        }
+      ]
+    }
+  ],
+  "test": {
+    "title": "Тест по теме «Стрессоустойчивость: современные методики борьбы со стрессом»",
+    "source_url": "https://school.a-sstroy.ru/tests/223150/21996840/start",
+    "local": "tests/index.html",
+    "intro_snapshot": "source_pages/test-intro.json",
+    "questions_status": "online_only"
+  }
+}

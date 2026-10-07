@@ -1,0 +1,17 @@
+{
+  "course": "course_stress_myshlenie_pto",
+  "title": "Как инженеру ПТО снизить стресс, изменив мышление",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "581c4ffba4b1f8adb7d064dea25002465f9a6697",
+  "source_path": "course_offline/course_stress_myshlenie_pto",
+  "entry": "index.html",
+  "files": 77,
+  "bytes": 19223823,
+  "rewritten_files": [
+    {
+      "path": "index.html",
+      "source_sha256": "19408cb5bb3329a6412cc6fafa416e01c5b286543128c1b8590d69f942a45306",
+      "published_sha256": "1027fb335ba347d9a5b1653be5a204d3cf74c31db8b082f677ec3eee8f224f9d"
+    }
+  ]
+}

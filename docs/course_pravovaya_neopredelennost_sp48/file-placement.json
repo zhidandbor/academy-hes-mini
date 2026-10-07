@@ -1,0 +1,122 @@
+[
+  {
+    "lesson": 1,
+    "local": "assets/images/author-eb4251ef62fd.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png"
+  },
+  {
+    "lesson": 1,
+    "local": "source_embeds/f018b0eb-c292-45b4-947e-071ff2b89d9c/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/f018b0eb-c292-45b4-947e-071ff2b89d9c/index.html"
+  },
+  {
+    "lesson": 1,
+    "local": "embeds/interactive/doc/f018b0eb-c292-45b4-947e-071ff2b89d9c/index.html",
+    "role": "локализованный HTML и ресурсы встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/f018b0eb-c292-45b4-947e-071ff2b89d9c/index.html"
+  },
+  {
+    "lesson": 2,
+    "local": "assets/images/author-eb4251ef62fd.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/author-eb4251ef62fd.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png"
+  },
+  {
+    "lesson": 3,
+    "local": "source_embeds/2686d9c1-0916-4c7c-bae8-9ee4a070c13c/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/2686d9c1-0916-4c7c-bae8-9ee4a070c13c/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/interactive/doc/2686d9c1-0916-4c7c-bae8-9ee4a070c13c/index.html",
+    "role": "локализованный HTML и ресурсы встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/2686d9c1-0916-4c7c-bae8-9ee4a070c13c/index.html"
+  },
+  {
+    "lesson": 3,
+    "local": "embeds/interactive/doc/2686d9c1-0916-4c7c-bae8-9ee4a070c13c/images/1.png",
+    "role": "изображение встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/2686d9c1-0916-4c7c-bae8-9ee4a070c13c/images/1.png"
+  },
+  {
+    "lesson": 4,
+    "local": "attachments/exports/new-builder-duties.pdf",
+    "role": "штатный экспорт PDF встроенной памятки",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/ff02a993-eca8-4df9-b18f-380ddb914972/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "source_embeds/ff02a993-eca8-4df9-b18f-380ddb914972/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/ff02a993-eca8-4df9-b18f-380ddb914972/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/interactive/doc/ff02a993-eca8-4df9-b18f-380ddb914972/index.html",
+    "role": "локализованный HTML и ресурсы встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/ff02a993-eca8-4df9-b18f-380ddb914972/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/interactive/doc/ff02a993-eca8-4df9-b18f-380ddb914972/images/1.png",
+    "role": "изображение встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/ff02a993-eca8-4df9-b18f-380ddb914972/images/1.png"
+  },
+  {
+    "lesson": 4,
+    "local": "source_embeds/c9669fdf-f0a2-48c0-86a7-9352bbb2d110/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/c9669fdf-f0a2-48c0-86a7-9352bbb2d110/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/interactive/doc/c9669fdf-f0a2-48c0-86a7-9352bbb2d110/index.html",
+    "role": "локализованный HTML и ресурсы встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/c9669fdf-f0a2-48c0-86a7-9352bbb2d110/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "attachments/exports/developer-control-duties.pdf",
+    "role": "штатный экспорт PDF встроенной памятки",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "source_embeds/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/interactive/doc/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/index.html",
+    "role": "локализованный HTML и ресурсы встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/interactive/doc/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/images/1.png",
+    "role": "изображение встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/images/1.png"
+  },
+  {
+    "lesson": 4,
+    "local": "source_embeds/21fe5d43-50fc-491c-b658-0fbcd2a5c7fb/index.html",
+    "role": "исходный HTML встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/21fe5d43-50fc-491c-b658-0fbcd2a5c7fb/index.html"
+  },
+  {
+    "lesson": 4,
+    "local": "embeds/interactive/doc/21fe5d43-50fc-491c-b658-0fbcd2a5c7fb/index.html",
+    "role": "локализованный HTML и ресурсы встроенного блока",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/21fe5d43-50fc-491c-b658-0fbcd2a5c7fb/index.html"
+  }
+]

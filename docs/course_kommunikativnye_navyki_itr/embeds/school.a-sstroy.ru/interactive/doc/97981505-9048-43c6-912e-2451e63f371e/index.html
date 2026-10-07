@@ -1,0 +1,73 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '97981505-9048-43c6-912e-2451e63f371e';
+    window.docName = '3';
+    window.locale = 'ru';
+    window.id = '2953';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":null,"cardList":[{"media":{"type":"image","image":{"src":"/interactive/doc/97981505-9048-43c6-912e-2451e63f371e/images/1.png"},"audio":null,"videos":[]},"question":"Инженер Веселов отвечает за изменения в проектную документацию, которая возникает в процессе строительства. Но на этапе сдачи исполнительной документации оказывается, что необходимые изменения внесены не в те разделы проекта, которые относятся к предъявляемым видам работ. Какой навык необходимо развить инженеру?","answerList":[{"checked":false,"text":"критическое мышление"},{"checked":true,"text":"коммуникация"},{"checked":false,"text":"принятие решений"},{"checked":false,"text":"эмоциональный интеллект"}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

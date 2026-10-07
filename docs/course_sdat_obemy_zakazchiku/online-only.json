@@ -1,0 +1,180 @@
+[
+  {
+    "lesson": 1,
+    "position": 2,
+    "kind": "LearningApps_interaction",
+    "source_url": "https://learningapps.org/watch?v=pa4ax809525",
+    "reason": "checking_and_dragging_require_provider; static_capture_and_available_original_images_saved"
+  },
+  {
+    "lesson": 1,
+    "position": 3,
+    "kind": "LearningApps_interaction",
+    "source_url": "https://learningapps.org/watch?v=pojhdfy3t25",
+    "reason": "checking_and_dragging_require_provider; static_capture_and_available_original_images_saved"
+  },
+  {
+    "lesson": 1,
+    "position": 4,
+    "kind": "Genially_runtime",
+    "source_url": "https://view.genially.com/690498f7ddfd95cd4a64f984",
+    "reason": "interactive_navigation_requires_provider; static_pages_captured"
+  },
+  {
+    "lesson": 2,
+    "position": 1,
+    "kind": "LearningApps_interaction",
+    "source_url": "https://learningapps.org/watch?v=p3zq9urgn25",
+    "reason": "checking_and_dragging_require_provider; static_capture_and_available_original_images_saved"
+  },
+  {
+    "lesson": 2,
+    "position": 2,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/30549da3-10ea-4b4e-a32b-4c79dd112e22/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 2,
+    "position": 3,
+    "kind": "Genially_runtime",
+    "source_url": "https://view.genially.com/68ee72464c940173388a9bec",
+    "reason": "interactive_navigation_requires_provider; static_pages_captured"
+  },
+  {
+    "lesson": 3,
+    "position": 1,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/3a015856-5e33-404f-946f-bdb67fd23ab5/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 3,
+    "position": 2,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7df53e00-ce7f-484e-b190-d94229c42af0/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 3,
+    "position": 3,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 3,
+    "position": 4,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 3,
+    "position": 5,
+    "kind": "LearningApps_interaction",
+    "source_url": "https://learningapps.org/watch?v=pi2wmav8525",
+    "reason": "checking_and_dragging_require_provider; static_capture_and_available_original_images_saved"
+  },
+  {
+    "lesson": 4,
+    "position": 1,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/801f04f8-c23c-4dd5-8649-447aa69d68fe/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 4,
+    "position": 2,
+    "kind": "Flipcard",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 4,
+    "position": 3,
+    "kind": "LearningApps_interaction",
+    "source_url": "https://learningapps.org/watch?v=pwf3beq8j25",
+    "reason": "checking_and_dragging_require_provider; static_capture_and_available_original_images_saved"
+  },
+  {
+    "lesson": 4,
+    "position": 4,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/43946a03-45ea-48fe-b82b-9f09f2a1e12d/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 5,
+    "position": 1,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd/index.html",
+    "reason": "source_widget_requires_external_loader; answer_checking_not_reproduced"
+  },
+  {
+    "lesson": 5,
+    "position": 2,
+    "kind": "LearningApps_interaction",
+    "source_url": "https://learningapps.org/watch?v=p5hzk0t7n25",
+    "reason": "checking_and_dragging_require_provider; static_capture_and_available_original_images_saved"
+  },
+  {
+    "lesson": 5,
+    "position": 3,
+    "kind": "Kinescope_video",
+    "source_url": "https://kinescope.io/embed/5JTc2VVyUUz2KywFQF8Zod",
+    "reason": "no_native_download_control_observed; video_streaming_requires_provider"
+  },
+  {
+    "lesson": 5,
+    "position": 4,
+    "kind": "LearningApps_interaction",
+    "source_url": "https://learningapps.org/watch?v=pmc0w1szt25",
+    "reason": "checking_and_dragging_require_provider; static_capture_and_available_original_images_saved"
+  },
+  {
+    "kind": "test_questions_scoring_progress",
+    "source_url": "https://school.a-sstroy.ru/tests/228064/22008642/start",
+    "reason": "account_tracked_attempt_not_started"
+  },
+  {
+    "kind": "platform_progress",
+    "source_url": "https://school.a-sstroy.ru/programs/228064",
+    "reason": "account_progress_requires_source_platform"
+  },
+  {
+    "kind": "source_widget_loader",
+    "source_url": "https://cdn.action-mcfr.ru/widgets/loader.js",
+    "reason": "TestCards_and_Flipcard_runtime_not_reproduced"
+  },
+  {
+    "kind": "unavailable_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/img/logos/stroy.svg",
+    "local_intended": "embeds/school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/img/logos/stroy.svg",
+    "reason": "source_http_redirect_loop_or_404"
+  },
+  {
+    "kind": "unavailable_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/custom/style.css",
+    "local_intended": "embeds/school.a-sstroy.ru/interactive/custom/style.css",
+    "reason": "source_http_redirect_loop_or_404"
+  },
+  {
+    "kind": "unavailable_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/common/images/memo/logos/action.svg",
+    "local_intended": "embeds/school.a-sstroy.ru/interactive/common/images/memo/logos/action.svg",
+    "reason": "source_http_redirect_loop_or_404"
+  },
+  {
+    "kind": "unavailable_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/common/css/memo/graph.png",
+    "local_intended": "embeds/school.a-sstroy.ru/interactive/common/css/memo/graph.png",
+    "reason": "source_http_redirect_loop_or_404"
+  },
+  {
+    "kind": "unavailable_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/common/css/svg/pen.svg",
+    "local_intended": "embeds/school.a-sstroy.ru/interactive/common/css/svg/pen.svg",
+    "reason": "source_http_redirect_loop_or_404"
+  }
+]

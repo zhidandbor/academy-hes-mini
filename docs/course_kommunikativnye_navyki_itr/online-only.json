@@ -1,0 +1,128 @@
+[
+  {
+    "lesson": 1,
+    "position": 1,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/11916d8c-4d8a-45ec-ae9a-a46f8d82a603/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 1,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/57feabf6-20ac-409a-bb02-fa42de2c74dd/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 1,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/97981505-9048-43c6-912e-2451e63f371e/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 2,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/96a593de-a818-4bfb-a63e-9f1af35b75e7/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 2,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7f1ad568-5076-4d42-8eff-4673c2df4f0d/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 2,
+    "position": 5,
+    "source_url": "https://learningapps.org/watch?v=pvn3g1b4t25",
+    "kind": "LearningApps",
+    "reason": "dragging_and_checking_require_provider"
+  },
+  {
+    "lesson": 2,
+    "position": 7,
+    "source_url": "https://kinescope.io/embed/5TDYCkFVH6LHZF27p8feXG",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 2,
+    "position": 8,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/b0bbcbea-b84d-479c-a765-a870915d2b4d/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 2,
+    "position": 9,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/4824cc1f-a9e7-4d33-b7da-46c197889dff/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 2,
+    "position": 10,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/34c3abe4-d615-4ced-aa7c-595b30fdda16/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 3,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/d8qxZDrHdgHiWrmhuB6tMh",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 4,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/6ugMu7YKLjM7RXDS82MMQ7",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 4,
+    "position": 2,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/a1505fbe-07f9-483b-a3b8-d72deba6a585/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 4,
+    "position": 3,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/df5966f5-f696-44dd-8f84-d8445f3907f7/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 4,
+    "position": 4,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/d0f4e1c8-500f-4d03-9286-e6b04f02fc96/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 4,
+    "position": 5,
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/68a8a529-4809-4f0f-bf56-664064a6867d/index.html",
+    "kind": "TestCards",
+    "reason": "widget_loader_and_answer_checking_require_provider"
+  },
+  {
+    "lesson": 5,
+    "position": 1,
+    "source_url": "https://kinescope.io/embed/jMkTCB1gNzE1sJHLzANokb",
+    "kind": "Kinescope video",
+    "reason": "video_streaming_requires_provider; no_native_download_confirmed"
+  },
+  {
+    "lesson": 5,
+    "position": 2,
+    "source_url": "https://learningapps.org/watch?v=pv8bufihj25",
+    "kind": "LearningApps",
+    "reason": "dragging_and_checking_require_provider"
+  }
+]

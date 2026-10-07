@@ -1,0 +1,75 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'f8d87799-59c3-420f-846e-b95c25b94ad5';
+    window.docName = '2 задание 3 урок стресс';
+    window.locale = 'ru';
+    window.id = '6050';
+    window.moduleId = '242';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"/interactive/doc/f8d87799-59c3-420f-846e-b95c25b94ad5/images/1.png","mainText":"Если человек дошел до стадии истощения, достаточно убрать источник стресса, и система восстановится сама.","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Ложь","isCorrect":"true"}],"result":{"src":"","text":"На стадии истощения уже недостаточно просто убрать причину напряжения. В этой точке приходится работать и с причиной, и с последствиями: снижать нагрузку, устранять источник стресса и восстанавливать систему, которая долго жила в режиме перегруза."},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = '';
+    var subtitle = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

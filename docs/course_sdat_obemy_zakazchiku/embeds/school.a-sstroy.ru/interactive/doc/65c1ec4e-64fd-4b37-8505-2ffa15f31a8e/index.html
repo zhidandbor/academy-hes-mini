@@ -1,0 +1,73 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '65c1ec4e-64fd-4b37-8505-2ffa15f31a8e';
+    window.docName = 'Как ответить на необоснованные замечания';
+    window.locale = 'ru';
+    window.id = '3005';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":{"title":"Как ответить на необоснованные замечания","text":""},"cardList":[{"media":{"type":"image","image":{"src":"/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/images/1.png"},"audio":null,"videos":[]},"question":"Что ответить по п.4?","answerList":[{"checked":false,"text":"Не требуется"},{"checked":true,"text":"Согласно приказу Минстроя от 16.05.2023 №344/пр в п.1 не требуется указывать объем выполненных работ"},{"checked":false,"text":"Замечание является необоснованным согласно приказу Минстроя от 16.05.2023 №344/пр"}],"negativeComment":"","positiveComment":""},{"media":{"type":"image","image":{"src":"/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/images/3.png"},"audio":null,"videos":[]},"question":"Что ответить по п.10?","answerList":[{"checked":false,"text":"Замечание является необоснованным согласно приказу Минстроя от 16.05.2023 №344/пр"},{"checked":true,"text":"Согласно приказу Минстроя от 16.05.2023 №344/пр в п.3 не требуется указывать объем на материал, указанный в паспорте"},{"checked":false,"text":"Не требуется"}],"negativeComment":"","positiveComment":""},{"media":{"type":"image","image":{"src":"/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/images/5.png"},"audio":null,"videos":[]},"question":"Что ответить по п.11?","answerList":[{"checked":false,"text":"Не требуется"},{"checked":true,"text":"Журнал земляных работ ведется при строительстве и реконструкции линейных участков магистральных и промысловых стальных трубопроводов нефтегазовой отрасли"},{"checked":false,"text":"Замечание является необоснованным согласно СП 543.1325800.2024"}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

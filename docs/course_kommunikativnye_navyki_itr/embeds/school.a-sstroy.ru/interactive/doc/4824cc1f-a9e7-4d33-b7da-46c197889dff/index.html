@@ -1,0 +1,73 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '4824cc1f-a9e7-4d33-b7da-46c197889dff';
+    window.docName = 'КОММУНИ';
+    window.locale = 'ru';
+    window.id = '3011';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":null,"cardList":[{"media":{"type":"image","image":{"src":"/interactive/doc/4824cc1f-a9e7-4d33-b7da-46c197889dff/images/1.png"},"audio":null,"videos":[]},"question":"Оппонент начинает переключать Вас на другую тему. Как вернуть переговоры в нужное русло?","answerList":[{"checked":false,"text":"Простите, но мы не о том говорим сейчас."},{"checked":false,"text":"Давайте вернемся к нужной теме."},{"checked":true,"text":"Поддержать разговор, а затем ответить: «Петр Петрович, это интересное наблюдение, а что вы думаете о… (направление, о котором вы изначально говорили)\""}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

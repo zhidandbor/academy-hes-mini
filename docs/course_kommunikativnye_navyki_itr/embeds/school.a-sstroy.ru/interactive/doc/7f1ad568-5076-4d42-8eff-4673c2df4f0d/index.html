@@ -1,0 +1,73 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '7f1ad568-5076-4d42-8eff-4673c2df4f0d';
+    window.docName = 'коммуник 2';
+    window.locale = 'ru';
+    window.id = '3009';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":null,"cardList":[{"media":{"type":"image","image":{"src":"/interactive/doc/7f1ad568-5076-4d42-8eff-4673c2df4f0d/images/1.png"},"audio":null,"videos":[]},"question":"Сотруднику необходимо подписать ИД в бумажном виде у всех участников строительства.&nbsp;Какие контрольные точки можно поставить для этой задачи?","answerList":[{"checked":false,"text":"Проверяем, как сотрудник подписал всю документацию в пятницу"},{"checked":false,"text":"Проверяем, как сотрудник передал документацию Заказчику"},{"checked":true,"text":"Проверяем, как сотрудник подписал документацию у внутренних участников строительства"},{"checked":true,"text":"Проверяем, как сотрудник оформил лист передачи ИД для подписания&nbsp;у Заказчика"},{"checked":true,"text":"Проверяем, что ИД передана Заказчику на подпись"},{"checked":true,"text":"Проверяем, что сотрудник контролирует и не упускает процесс подписания ИД у Заказчика"},{"checked":false,"text":"Самостоятельно звоним Заказчику и уточняем, что он подписывает ИД"}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

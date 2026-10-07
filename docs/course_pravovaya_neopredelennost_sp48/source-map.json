@@ -1,0 +1,61 @@
+{
+  "source_course_url": "https://school.a-sstroy.ru/programs/226100/1e87e28f-4c9c-4ca2-ae32-14d935dae010",
+  "program_title": "Как работать по новым правилам после изменений в СП 48",
+  "block_title": "Как избежать правовой неопределенности после отмены положений в СП 48.13330.2019",
+  "overview_snapshot": "source_pages/overview.json",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Как работать по новым правилам после изменений в СП 48",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Как избежать правовой неопределенности после отмены положений в СП 48.13330.2019",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Строительный контроль: перераспределение ролей и обязанностей",
+              "source_url": "https://school.a-sstroy.ru/programs/226100/1e87e28f-4c9c-4ca2-ae32-14d935dae010/6e70aa77-6162-43b1-9fdd-88944dc7695d",
+              "local": "lessons/01.html",
+              "snapshot": "source_pages/lesson-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Документы, процедуры и формы: от входного контроля до журналов",
+              "source_url": "https://school.a-sstroy.ru/programs/226100/1e87e28f-4c9c-4ca2-ae32-14d935dae010/e45a8721-e59e-4a3e-adc4-2612b32e8455",
+              "local": "lessons/02.html",
+              "snapshot": "source_pages/lesson-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Квалификация и ответственность: кто теперь проводит строительный контроль",
+              "source_url": "https://school.a-sstroy.ru/programs/226100/1e87e28f-4c9c-4ca2-ae32-14d935dae010/507dcbe7-9560-487e-a601-6e20d963ca9b",
+              "local": "lessons/03.html",
+              "snapshot": "source_pages/lesson-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Новые и уточненные обязанности подрядчика и заказчика",
+              "source_url": "https://school.a-sstroy.ru/programs/226100/1e87e28f-4c9c-4ca2-ae32-14d935dae010/0c77bd3c-0824-4c57-9746-cc54b679b602",
+              "local": "lessons/04.html",
+              "snapshot": "source_pages/lesson-04.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "test": {
+    "title": "Заключительный тест",
+    "source_url": "https://school.a-sstroy.ru/tests/226100/22002990/start",
+    "local": "tests/index.html",
+    "intro_snapshot": "source_pages/test-intro.json",
+    "questions_status": "online_only"
+  },
+  "author": {
+    "name": "Римма Сарвартдинова",
+    "source_url": "https://school.a-sstroy.ru/teacher/5439",
+    "snapshot": "source_pages/teacher-5439.json"
+  }
+}

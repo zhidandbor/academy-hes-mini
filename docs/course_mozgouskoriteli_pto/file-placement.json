@@ -1,0 +1,242 @@
+[
+  {
+    "lesson": 1,
+    "local": "assets/images/6fb9c259-7ce0-410c-9e11-58e8adcaeaff.png",
+    "role": "рисунок урока",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=6fb9c259-7ce0-410c-9e11-58e8adcaeaff"
+  },
+  {
+    "lesson": 1,
+    "local": "assets/images/1131dbd0-a1f6-48ae-a4b8-078753fa3635.png",
+    "role": "рисунок урока",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=1131dbd0-a1f6-48ae-a4b8-078753fa3635"
+  },
+  {
+    "lesson": 1,
+    "local": "assets/images/36003312-7091-475a-a5e9-8e51464a7185.png",
+    "role": "рисунок урока",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=36003312-7091-475a-a5e9-8e51464a7185"
+  },
+  {
+    "lesson": 1,
+    "local": "source_external/video/mgnSQSb7woTgEgPi9tuU2t-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/2033085f-0a61-4eb5-9df6-60a14e975f9e/poster_sm/fe00fd8c-5ffb-4722-a335-832c4795a46b.jpg"
+  },
+  {
+    "lesson": 1,
+    "local": "attachments/source/block-01/obzor-knigi-izmenite-mozg-izmenitsya-i-zhizn.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi-izmenite-mozg-izmenitsya-i-zhizn.pdf"
+  },
+  {
+    "lesson": 1,
+    "local": "attachments/source/block-01/obzor-knigi-plastichnost-mozga.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi-plastichnost-mozga.pdf"
+  },
+  {
+    "lesson": 2,
+    "local": "source_external/video/368oVPbTRDkou6vKGSxDGJ-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/2e91c893-2498-40aa-badf-dd66e576d193/poster_sm/fb77a73c-10e3-4049-9133-2719d8994fce.jpg"
+  },
+  {
+    "lesson": 2,
+    "local": "attachments/source/block-01/obzor-knigi-izmenite-mozg-izmenitsya-i-zhizn.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi-izmenite-mozg-izmenitsya-i-zhizn.pdf"
+  },
+  {
+    "lesson": 2,
+    "local": "attachments/source/block-01/obzor-knigi-plastichnost-mozga.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi-plastichnost-mozga.pdf"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/68c576fb-8bf0-4e72-b804-1300881ebd8d.png",
+    "role": "рисунок урока",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=68c576fb-8bf0-4e72-b804-1300881ebd8d"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/5b9f2847-bb06-4793-a2e2-5a2576d3caa8.png",
+    "role": "рисунок урока",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=5b9f2847-bb06-4793-a2e2-5a2576d3caa8"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/92fe5929-dde6-4118-b96d-964c12133d44.png",
+    "role": "рисунок урока",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=92fe5929-dde6-4118-b96d-964c12133d44"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/1aa48579-883a-403e-914d-6ecf139831c9.png",
+    "role": "рисунок урока",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=1aa48579-883a-403e-914d-6ecf139831c9"
+  },
+  {
+    "lesson": 3,
+    "local": "assets/images/0082b6fa-6cb2-4342-8128-3106b8b77b91.png",
+    "role": "рисунок урока",
+    "source_url": "https://api.school.glavbukh.ru/api/v2/file_download?id=0082b6fa-6cb2-4342-8128-3106b8b77b91"
+  },
+  {
+    "lesson": 3,
+    "local": "source_external/video/aFzh4vsAQcy3bw1zLz24YS-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/99ce7328-dce5-4b7b-bfd8-fc418e78c026/poster_sm/e7d10007-31a5-41e3-85a0-4d69df6e242c.jpg"
+  },
+  {
+    "lesson": 3,
+    "local": "attachments/source/block-01/obzor-knigi-izmenite-mozg-izmenitsya-i-zhizn.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi-izmenite-mozg-izmenitsya-i-zhizn.pdf"
+  },
+  {
+    "lesson": 3,
+    "local": "attachments/source/block-01/obzor-knigi-plastichnost-mozga.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi-plastichnost-mozga.pdf"
+  },
+  {
+    "lesson": 4,
+    "local": "source_external/video/7uL6bq586M1R9gYJz1z4ta-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/22ea213e-284a-4816-bbe8-a6612993fb96/poster_sm/7b465bce-c0b6-4c5c-8e0f-4f43b0a5f5c3.jpg"
+  },
+  {
+    "lesson": 4,
+    "local": "attachments/source/block-02/obzor-knigi_kak-trenirovat-pamyat.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi_kak-trenirovat-pamyat.pdf"
+  },
+  {
+    "lesson": 4,
+    "local": "attachments/source/block-02/9d314b62-bd3c-4893-819e-367676717535.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "https://school.a-sstroy.ru/storage/pdf/9d314b62-bd3c-4893-819e-367676717535.pdf"
+  },
+  {
+    "lesson": 4,
+    "local": "attachments/source/block-02/obzor-knigi_razvitie-pamyati.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi_razvitie-pamyati.pdf"
+  },
+  {
+    "lesson": 5,
+    "local": "source_external/video/ftjLcSyUjgbyuitCkFtcT4-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/81e019d7-2f85-446c-a796-b6bdb4ec5122/poster_sm/aa7481cb-42e0-4f8e-9fe3-bd9fa9848ea7.jpg"
+  },
+  {
+    "lesson": 5,
+    "local": "attachments/source/block-02/obzor-knigi_kak-trenirovat-pamyat.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi_kak-trenirovat-pamyat.pdf"
+  },
+  {
+    "lesson": 5,
+    "local": "attachments/source/block-02/9d314b62-bd3c-4893-819e-367676717535.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "https://school.a-sstroy.ru/storage/pdf/9d314b62-bd3c-4893-819e-367676717535.pdf"
+  },
+  {
+    "lesson": 5,
+    "local": "attachments/source/block-02/obzor-knigi_razvitie-pamyati.pdf",
+    "role": "исходный общий материал блока",
+    "source_url": "http://knigikratko.ru/obzor-knigi_razvitie-pamyati.pdf"
+  },
+  {
+    "lesson": 6,
+    "local": "assets/images/84131611a269.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_28bd0f92fa724be59b39cd64c1d04239_20230321T144454.png"
+  },
+  {
+    "lesson": 6,
+    "local": "source_external/video/gUjcyufYmSCqKXVqYozNBe-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/6c5acefe-0ca9-495d-b4ee-8f61b2d47a40/poster_sm/aff2e25b-bfe1-4706-abfa-3674adead4c3.jpg"
+  },
+  {
+    "lesson": 7,
+    "local": "assets/images/84131611a269.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_28bd0f92fa724be59b39cd64c1d04239_20230321T144454.png"
+  },
+  {
+    "lesson": 7,
+    "local": "source_external/video/0F39vbmNn2S9CMeswsw87R-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/802d7642-f557-49cf-a9fe-c23412d04e90/poster_sm/2023f863-3aa6-4404-b20b-7c1d2978e62d.jpg"
+  },
+  {
+    "lesson": 8,
+    "local": "assets/images/84131611a269.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_28bd0f92fa724be59b39cd64c1d04239_20230321T144454.png"
+  },
+  {
+    "lesson": 8,
+    "local": "source_external/video/fQFt4p7MQeN5UvwdTnNdT4-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/a49716f0-3031-4db0-a1aa-44f8046defc5/poster_sm/bba8a376-c534-4391-957d-1f1126f4d3cb.jpg"
+  },
+  {
+    "lesson": 9,
+    "local": "assets/images/84131611a269.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_28bd0f92fa724be59b39cd64c1d04239_20230321T144454.png"
+  },
+  {
+    "lesson": 9,
+    "local": "source_external/video/pmFUhFh6eeA1Rp5xpymQRN-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/c52b5c82-7912-4c69-9d14-d90cb3cd5b70/poster_sm/199b6798-1551-4a1d-b74e-b2d55b7a81fc.jpg"
+  },
+  {
+    "lesson": 10,
+    "local": "assets/images/84131611a269.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_28bd0f92fa724be59b39cd64c1d04239_20230321T144454.png"
+  },
+  {
+    "lesson": 10,
+    "local": "source_external/video/hd24o6dDo8kgwG4xCWup8t-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/f56a2ac9-2a9c-48db-851f-bc44f4b8560a/poster_sm/95e89d1b-163b-4077-a93c-71a50b29a296.jpg"
+  },
+  {
+    "lesson": 11,
+    "local": "assets/images/84131611a269.png",
+    "role": "фото автора",
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_28bd0f92fa724be59b39cd64c1d04239_20230321T144454.png"
+  },
+  {
+    "lesson": 11,
+    "local": "source_external/video/iz5w9mJQUNRhu4NUHuWKz1-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/e48836f2-cedc-4c7c-a011-a6781675cce4/poster_sm/3531c27d-d5c2-4124-9448-e496ab558e86.jpg"
+  },
+  {
+    "lesson": 12,
+    "local": "source_external/video/4kNfKaiGEtC2aKANpQQy7F-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/91c667a9-68d4-4d83-b3e8-6d01912c3a9b/poster_sm/9c8b5ff6-b839-48ee-9770-84d3de1a70f0.jpg"
+  },
+  {
+    "lesson": 13,
+    "local": "source_external/video/k5uoZv4yC8u7QH3c4gNy3k-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/469dd35c-6feb-4334-9d55-f1f4f99dbd45/poster_sm/8c555e43-1fea-4c4d-9582-aad7f11a23b7.jpg"
+  },
+  {
+    "lesson": 14,
+    "local": "source_external/video/uDJabq91ugQPsHocTxujQH-poster.jpg",
+    "role": "исходная заставка видеоплеера",
+    "source_url": "https://edge-ams-1.kinescopecdn.net/d5551ee2-79c0-4e63-99e8-61519ef6258b/posters/6c4a5dea-de94-426d-a8f6-bb8618137308/poster_sm/3b346fb4-5a7a-4b09-b600-5058461c9c4d.jpg"
+  }
+]

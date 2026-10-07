@@ -1,0 +1,82 @@
+[
+  {
+    "lesson": 1,
+    "position": 1,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/f018b0eb-c292-45b4-947e-071ff2b89d9c/index.html",
+    "reason": "interactive_widget_loads_external_CDN_and_source_service; local_answer_checking_unverified"
+  },
+  {
+    "lesson": 3,
+    "position": 1,
+    "kind": "Flipcard",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/2686d9c1-0916-4c7c-bae8-9ee4a070c13c/index.html",
+    "reason": "interactive_widget_loads_external_CDN_and_source_service; local_answer_checking_unverified"
+  },
+  {
+    "lesson": 4,
+    "position": 2,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/c9669fdf-f0a2-48c0-86a7-9352bbb2d110/index.html",
+    "reason": "interactive_widget_loads_external_CDN_and_source_service; local_answer_checking_unverified"
+  },
+  {
+    "lesson": 4,
+    "position": 4,
+    "kind": "TestCards",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/21fe5d43-50fc-491c-b658-0fbcd2a5c7fb/index.html",
+    "reason": "interactive_widget_loads_external_CDN_and_source_service; local_answer_checking_unverified"
+  },
+  {
+    "kind": "final_test_questions_scoring_progress",
+    "source_url": "https://school.a-sstroy.ru/tests/226100/22002990/start",
+    "reason": "account_tracked_attempt_not_started"
+  },
+  {
+    "kind": "platform_progress",
+    "source_url": "https://school.a-sstroy.ru/programs/226100/1e87e28f-4c9c-4ca2-ae32-14d935dae010",
+    "reason": "account_progress_requires_source_platform"
+  },
+  {
+    "kind": "embedded_widget_loader",
+    "source_url": "https://cdn.action-mcfr.ru/widgets/loader.js",
+    "fallback_url": "https://s3.action-media.ru/widgets/loader.js",
+    "reason": "three_TestCards_and_one_Flipcard_load_external_widget_code; offline_runtime_unverified"
+  },
+  {
+    "kind": "unavailable_first_party_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/img/logos/stroy.svg",
+    "local_intended": "embeds/interactive/doc/5e5532cb-c5aa-42c7-91b2-b7eb1b08784e/img/logos/stroy.svg",
+    "reason": "source_redirect_loop_at_capture"
+  },
+  {
+    "kind": "unavailable_first_party_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/custom/style.css",
+    "local_intended": "embeds/interactive/custom/style.css",
+    "reason": "source_redirect_loop_at_capture"
+  },
+  {
+    "kind": "unavailable_first_party_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/ff02a993-eca8-4df9-b18f-380ddb914972/img/logos/stroy.svg",
+    "local_intended": "embeds/interactive/doc/ff02a993-eca8-4df9-b18f-380ddb914972/img/logos/stroy.svg",
+    "reason": "source_redirect_loop_at_capture"
+  },
+  {
+    "kind": "unavailable_first_party_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/common/images/memo/logos/action.svg",
+    "local_intended": "embeds/interactive/common/images/memo/logos/action.svg",
+    "reason": "source_redirect_loop_at_capture"
+  },
+  {
+    "kind": "unavailable_first_party_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/common/css/svg/pen.svg",
+    "local_intended": "embeds/interactive/common/css/svg/pen.svg",
+    "reason": "source_redirect_loop_at_capture"
+  },
+  {
+    "kind": "unavailable_first_party_embed_asset",
+    "source_url": "https://school.a-sstroy.ru/interactive/common/css/memo/graph.png",
+    "local_intended": "embeds/interactive/common/css/memo/graph.png",
+    "reason": "source_redirect_loop_at_capture"
+  }
+]
